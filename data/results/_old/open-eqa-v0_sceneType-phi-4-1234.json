@@ -1,0 +1,476 @@
+[
+  {
+    "episode_history": "scannet-v0/100-scannet-scene0598_00",
+    "output": "Based on the questions and answers provided, the space is best described as a **Library**. Here's the reasoning:\n\n- The presence of a bookshelf and books (maroon and blue) suggests a library setting.\n- The mention of a white table with computers, which are not switched on, aligns with a library where computers are often available for public use.\n- The presence of a trash bin near tables is common in libraries for disposing of waste.\n- The water bottle being kept inside a bag on a table is typical in a library setting where people might bring personal items.\n- The final direct answer to the question \"Which room",
+    "estimated_sceneType": null,
+    "sceneType": "Bookstore / Library"
+  },
+  {
+    "episode_history": "scannet-v0/101-scannet-scene0256_00",
+    "output": "Based on the questions and answers provided, the space described seems to be a personal living area, likely a bedroom or a similar private space. Here's the reasoning:\n\n- The presence of a sewing machine, pillows, and a clothing rack suggests a personal or domestic setting.\n- The mention of a basket for pillows and a clothing rack indicates storage for personal items.\n- The reference to drawers for storing undergarments further supports the idea of a personal space.\n- The presence of a lamp and the ability to turn it on suggests a room where someone might work or relax.\n- The mention of a person standing near the table indicates a space where",
+    "estimated_sceneType": "Living room / Lounge",
+    "sceneType": "Office"
+  },
+  {
+    "episode_history": "scannet-v0/102-scannet-scene0222_00",
+    "output": "Based on the questions and answers provided, the space described seems to be a personal living area, likely a bedroom or a small living space within a home. Here's the reasoning:\n\n- The presence of a fan, charger, toothbrush, and recycling bin suggests a personal space.\n- The mention of a desk with a charging outlet indicates a workspace, which is common in a bedroom or living area.\n- The presence of personal items like shampoo, toothpaste, and keys on a tabletop shelf further supports this.\n- The mention of a door between two fridges along the wall suggests a kitchen area nearby, which is typical in a home setting",
+    "estimated_sceneType": "Living room / Lounge",
+    "sceneType": "Bedroom / Hotel"
+  },
+  {
+    "episode_history": "scannet-v0/103-scannet-scene0527_00",
+    "output": "Based on the questions and answers provided, the space being described is a bathroom. The presence of bathrobes, a sink, a mirror, and the mention of a shower all point to this conclusion. Therefore, the best category for this indoor space is:\n\n- Bathroom",
+    "estimated_sceneType": "Bathroom",
+    "sceneType": "Bathroom"
+  },
+  {
+    "episode_history": "scannet-v0/104-scannet-scene0616_01",
+    "output": "Based on the questions and answers provided, the space described seems to have several key features:\n\n- A table with a lamp, suggesting a place where people might sit or work.\n- A painting on the wall, indicating a decorative element.\n- A fireplace and a sofa, which are common in living areas.\n- A door along the wall, suggesting a separate room or area.\n- A gray trash bin, indicating a need for waste disposal.\n- A vacuum cleaner, suggesting the need for cleaning a carpeted or furnished area.\n\nThese elements are characteristic of a living room or lounge, where people gather, sit, and relax. The presence of",
+    "estimated_sceneType": "Living room / Lounge",
+    "sceneType": "Living room / Lounge"
+  },
+  {
+    "episode_history": "scannet-v0/105-scannet-scene0207_01",
+    "output": "Based on the questions and answers provided, the space described seems to have elements of both a kitchen and an office or home office environment. Here's the reasoning:\n\n- The presence of a coffee machine on the kitchen counter and a vacuum cleaner suggests a residential setting.\n- The mention of a laptop, monitor, printer, and bookshelf indicates an office or workspace.\n- The presence of a sofa and stools between the sofa and kitchen counter suggests a living area.\n- The mention of a laundry basket near the bed indicates a bedroom or living space.\n\nGiven these observations, the space seems to be a multifunctional area typical of a home, possibly",
+    "estimated_sceneType": "Kitchen",
+    "sceneType": "Apartment"
+  },
+  {
+    "episode_history": "scannet-v0/106-scannet-scene0633_00",
+    "output": "Based on the questions and answers provided, the space described seems to be a **Bedroom / Hotel** room, specifically a baby's room. The presence of a crib, baby pictures, and a place to change a diaper are strong indicators of a baby's bedroom. The mention of a sofa for napping and a lamp suggests it is a living space, which aligns with a bedroom setting. The presence of a basketball and plush toys adds to the playful and personal nature of a child's room. Therefore, the best category is **Bedroom / Hotel**.",
+    "estimated_sceneType": "Bedroom / Hotel",
+    "sceneType": "Bedroom / Hotel"
+  },
+  {
+    "episode_history": "scannet-v0/108-scannet-scene0354_00",
+    "output": "Based on the questions and answers provided, the space is best described as a **Conference Room**. The presence of a whiteboard, a television, chairs, a conference table, and the specific mention of a conference room in the answers all point towards this category.",
+    "estimated_sceneType": "Conference Room",
+    "sceneType": "Conference Room"
+  },
+  {
+    "episode_history": "scannet-v0/109-scannet-scene0648_01",
+    "output": "Based on the questions and answers provided, the space seems to be a personal or work area that includes a desk with items like a calculator, notebooks, a mobile phone, and a laptop charger. The presence of a Buddha statue with white candles suggests a space where personal items and possibly some spiritual or decorative elements are kept. The mention of flip flops as footwear indicates a casual or personal setting.\n\nThe presence of a calculator, notebooks, and a laptop charger suggests a workspace, while the Buddha statue and candles indicate a personal touch. The combination of these elements is most consistent with an **Office** or a personal workspace within a home, such",
+    "estimated_sceneType": "Office",
+    "sceneType": "Bedroom / Hotel"
+  },
+  {
+    "episode_history": "scannet-v0/110-scannet-scene0050_00",
+    "output": "Based on the questions and answers provided, the indoor space can be characterized by several key features:\n\n1. **Presence of a Desk and Chair**: This suggests a workspace or an area where work-related activities occur.\n2. **Toolboxes and a Screwdriver**: Indicates that tools are available, possibly for maintenance or repairs.\n3. **Laptops and a Backpack**: Suggests a setting where work or study can be conducted, with internet access.\n4. **Piano and Couch**: These are typically found in more relaxed or social areas.\n5. **Roomba and Cooler**: These items suggest a living space where cleaning and refreshments",
+    "estimated_sceneType": "Living room / Lounge",
+    "sceneType": "Living room / Lounge"
+  },
+  {
+    "episode_history": "scannet-v0/111-scannet-scene0550_00",
+    "output": "Based on the questions and answers provided, the space is clearly described as a bathroom. The presence of a shower, toilet stall, toilet seat, and paper towel dispenser, along with references to shower curtains and bathroom etiquette, all point to this conclusion. Therefore, the category that best describes this space is:\n\n- Bathroom",
+    "estimated_sceneType": "Bathroom",
+    "sceneType": "Bathroom"
+  },
+  {
+    "episode_history": "scannet-v0/112-scannet-scene0591_02",
+    "output": "Based on the questions and answers provided, the space can be characterized by several key features:\n\n1. **Presence of a couch and a short bookshelf**: These are common in living rooms or lounges, but can also be found in offices or conference rooms.\n2. **Heater plugged in by the door**: This suggests a space that might need additional warmth, which could be an office or a lounge.\n3. **Shelves on each side of the wall where the door is located**: Shelves are common in offices, libraries, or storage areas.\n4. **A stapler and a can of Red Bull**: These items are",
+    "estimated_sceneType": "Living room / Lounge",
+    "sceneType": "Office"
+  },
+  {
+    "episode_history": "scannet-v0/113-scannet-scene0207_00",
+    "output": "Based on the questions and answers provided, the space described seems to have characteristics of a bedroom, but with some elements typically found in a kitchen or living area. Here's the reasoning:\n\n- The presence of a bed frame and a duvet cover suggests a bedroom.\n- The mention of a vacuum cleaner across from a stove indicates a kitchen area.\n- The presence of condiments like soy sauce, sugar, or salt on a desk, along with a wooden bowl, suggests some kitchen or dining functions.\n- The presence of a couch and a window that can be opened suggests a living area.\n- The mention of laundry baskets at the foot of",
+    "estimated_sceneType": "Bedroom / Hotel",
+    "sceneType": "Apartment"
+  },
+  {
+    "episode_history": "scannet-v0/114-scannet-scene0084_00",
+    "output": "Based on the questions and answers provided, the space described is most likely a **Bathroom**. Here's the reasoning:\n\n- The presence of a sink, soap dispenser, and caution sign suggests a bathroom setting.\n- The mention of a trash bin under the sink is common in bathrooms.\n- The reference to shampoo and extra toilet paper rolls further supports this.\n- The mention of a window providing natural light is consistent with many bathroom designs.\n- The presence of a jacket on the counter is less typical but can occur in a bathroom setting.\n\nTherefore, the best category for this indoor space is **Bathroom**.",
+    "estimated_sceneType": "Bathroom",
+    "sceneType": "Bathroom"
+  },
+  {
+    "episode_history": "scannet-v0/115-scannet-scene0046_02",
+    "output": "Based on the questions and answers provided, the indoor space can be best described as a **Bedroom / Hotel**. Here's the reasoning:\n\n- The presence of a bed, suitcase, and items like a towel and sweatshirt suggests a bedroom setting.\n- The mention of a desk, laptop, and cellphone indicates a workspace, which is common in both bedrooms and hotel rooms.\n- The availability of entertainment options like a laptop, television, and iPad is typical in a bedroom or hotel room.\n- The presence of a bench, chair, and bed as seating options aligns with a bedroom or hotel room.\n- The mention of curtains,",
+    "estimated_sceneType": "Bedroom / Hotel",
+    "sceneType": "Apartment"
+  },
+  {
+    "episode_history": "scannet-v0/116-scannet-scene0077_01",
+    "output": "Based on the questions and answers provided, the space described seems to be a **Copy / Mail Room**. Here's the reasoning:\n\n- The presence of multiple printers suggests a space where printing and copying are common activities.\n- A trash barrel by the entrance is typical for areas where paper and other materials are frequently discarded.\n- The presence of an organizer tray on the shelves for storing papers aligns with a space used for handling documents.\n- The mention of a hand sanitizer on the counter and medical items like Advil and Kleenex indicates a space where people might spend time and need these amenities.\n- The presence of a paper cutter further",
+    "estimated_sceneType": "Copy / Mail Room",
+    "sceneType": "Office"
+  },
+  {
+    "episode_history": "scannet-v0/120-scannet-scene0684_01",
+    "output": "Based on the questions and answers provided, the space seems to be an office. Here's the reasoning:\n\n- The presence of a desk phone suggests a work-related environment.\n- The mention of a roll of paper towels, stack of bins, and paper box indicates office supplies.\n- The option to use the desk phone to call for an emergency (911) is typical in an office setting.\n- The presence of a chair near the table for sitting and resting aligns with an office setup.\n- The room being described as messy and the specific mention of office-related items further support this categorization.\n\nTherefore, the best category for this space is",
+    "estimated_sceneType": "Office",
+    "sceneType": "Office"
+  },
+  {
+    "episode_history": "scannet-v0/121-scannet-scene0462_00",
+    "output": "Based on the questions and answers provided, the space described seems to be a **Copy / Mail Room**. Here's the reasoning:\n\n- The presence of a \"US postal service bin\" and a \"photo-copy machine\" suggests a space where mail handling and copying services are available.\n- The mention of a \"paper box\" and a \"table with the fax machine\" further supports the idea of a room used for copying and mailing purposes.\n- The question about making a copy of a passport and delivering mail through USPS aligns with the functions typically found in a copy/mail room.\n\nTherefore, the most fitting category for this indoor space is",
+    "estimated_sceneType": "Copy / Mail Room",
+    "sceneType": "Copy / Mail Room"
+  },
+  {
+    "episode_history": "scannet-v0/122-scannet-scene0647_01",
+    "output": "Based on the questions and answers provided, the space described seems to be a **Living room / Lounge**. Here's the reasoning:\n\n- The presence of a ping-pong table suggests a recreational or leisure area.\n- The mention of a sofa, a high table between orange stools, and a wooden chair indicates furniture typically found in a living room or lounge.\n- The presence of a painting and the option to lie down on a coach (likely a typo for \"couch\") further supports this category.\n- The open door and the mention of an exit sign for emergencies are common in communal or shared spaces like a living room or lounge.\n\n",
+    "estimated_sceneType": "Living room / Lounge",
+    "sceneType": "Living room / Lounge"
+  },
+  {
+    "episode_history": "scannet-v0/123-scannet-scene0412_01",
+    "output": "Based on the questions and answers provided, the space seems to be a versatile area that includes a shelf, a ladder, plastic cups, traffic cones, a sink, and clothes hangers. The presence of traffic cones and a ladder suggests a space that might be used for storage or activities requiring organization and reach. The mention of cleaning in the sink and drying clothes with hangers indicates a functional space, possibly for tasks or projects.\n\nGiven these details, the space could be a **Storage / Basement / Garage**. This category fits because such areas often contain a variety of items like shelves, ladders, and traffic cones, and they can",
+    "estimated_sceneType": "Storage / Basement / Garage",
+    "sceneType": "Kitchen"
+  },
+  {
+    "episode_history": "scannet-v0/124-scannet-scene0131_02",
+    "output": "Based on the questions and answers provided, the space described seems to be an **Office**. Here's the reasoning:\n\n- The presence of multiple monitors on a table suggests a workspace.\n- A whiteboard on the wall is commonly found in office settings for presentations or brainstorming.\n- The mention of a desktop and connecting a monitor to it indicates computer work, typical in an office.\n- The availability of extension cords on the ground is a common feature in office environments to accommodate various desk setups.\n- The presence of a keyboard in front of a monitor further supports the idea of a workspace.\n- The mention of a mini fridge and a place",
+    "estimated_sceneType": "Office",
+    "sceneType": "Office"
+  },
+  {
+    "episode_history": "scannet-v0/125-scannet-scene0426_00",
+    "output": "Based on the questions and answers provided, the space described seems to be a **Bedroom / Hotel**. Here's the reasoning:\n\n- The presence of a bed and a remote controller on it suggests a bedroom setting.\n- The mention of a jacket and a hoodie indicates personal clothing items typically found in a bedroom.\n- The presence of a piano keyboard on a table, along with the ability to work on a laptop, suggests a space that might be used for leisure or work, which is common in a bedroom or hotel room.\n- The mention of bottled water and a box of bottled water on the ground aligns with amenities often found in",
+    "estimated_sceneType": "Bedroom / Hotel",
+    "sceneType": "Bedroom / Hotel"
+  },
+  {
+    "episode_history": "scannet-v0/126-scannet-scene0574_02",
+    "output": "Based on the questions and answers provided, the space described seems to be a **Bedroom / Hotel**. Here's the reasoning:\n\n- The presence of a map showing an emergency evacuation plan and a peephole on the door suggests a space that might be part of a hotel room or a private bedroom.\n- The mention of shoes near the door, a short bench, and the ability to hang clothes indicates a personal living space.\n- The presence of a mirror near the door is typical in bedrooms or hotel rooms.\n- The ability to hang wet clothes using wooden cloth hangers between two doors further supports the idea of a bedroom or hotel",
+    "estimated_sceneType": "Bedroom / Hotel",
+    "sceneType": "Bathroom"
+  },
+  {
+    "episode_history": "scannet-v0/127-scannet-scene0578_00",
+    "output": "Based on the provided questions and answers, the space described seems to be a small, personal area where items like a backpack and water bottle are placed on a chair and table, respectively. The presence of a trash can next to the door for disposing of food packages, as well as the suggestion to use a water bottle as a vase, suggests a living space. The mention of a tabletop, chair, and the ability to close a door further supports this.\n\nThe most fitting category from the list is \"Living room / Lounge.\" This is because the space described includes typical living room elements such as furniture (a chair and table), personal items (",
+    "estimated_sceneType": "Living room / Lounge",
+    "sceneType": "Conference Room"
+  },
+  {
+    "episode_history": "scannet-v0/128-scannet-scene0678_02",
+    "output": "Based on the questions and answers provided, the space described is most likely a **Laundry Room**. The presence of washing machines, a foldable laundry basket, laundry detergent, microwaves, and a vending machine for drinks are all indicative of a laundry facility. The specific mention of washing machines with open doors and the context of laundry-related items further supports this conclusion.",
+    "estimated_sceneType": "Laundry Room",
+    "sceneType": "Laundry Room"
+  },
+  {
+    "episode_history": "scannet-v0/129-scannet-scene0575_00",
+    "output": "Based on the questions and answers provided, the space is best described as a **Conference Room**. The presence of a video camera, monitors, an instruction sheet for an AV system, and a remote controller for a video conference system are indicative of a room designed for meetings and video conferencing. Additionally, the mention of a microphone and the setup for a video conference further supports this categorization.",
+    "estimated_sceneType": "Conference Room",
+    "sceneType": "Conference Room"
+  },
+  {
+    "episode_history": "scannet-v0/130-scannet-scene0696_00",
+    "output": "Based on the provided questions and answers, the space seems to have a mix of features that could belong to different categories. However, the presence of a tennis table, monitors, a drying rack, and a mattress on the floor suggests a more informal or multipurpose setting. \n\n- The tennis table and monitors indicate a space that might be used for recreation or informal meetings.\n- The drying rack suggests some laundry activity, which is unusual for most formal spaces.\n- The mattress on the floor could imply a casual or temporary sleeping arrangement.\n\nConsidering these elements, the space might best fit the category of a \"Living room / Lounge\" due to the",
+    "estimated_sceneType": "Laundry Room",
+    "sceneType": "Storage / Basement / Garage"
+  },
+  {
+    "episode_history": "scannet-v0/132-scannet-scene0645_01",
+    "output": "Based on the questions and answers provided, the space described contains several key features: beds, a TV with a remote, a nightstand with a clock, a table lamp, and an armchair. These elements are commonly found in a bedroom or a hotel room. The presence of a TV, a nightstand, and the arrangement of beds strongly suggest a sleeping area, which aligns with the characteristics of a bedroom or hotel room.\n\nTherefore, the best category for this indoor space is:\n\n- Bedroom / Hotel",
+    "estimated_sceneType": "Bedroom / Hotel",
+    "sceneType": "Bedroom / Hotel"
+  },
+  {
+    "episode_history": "scannet-v0/133-scannet-scene0704_00",
+    "output": "Based on the questions and answers provided, the space described seems to be a room primarily used for printing and handling documents, as indicated by the presence of a printer, a trash bin, a cooler for water, and a paper stack in the printer. The mention of a \"printing room\" and the specific references to items like a dolly and a paper cup suggest a functional space related to office or administrative tasks.\n\nThe most fitting category from the list provided is \"Office.\" This is because the room contains office-related equipment and functions, such as a printer and a cooler for water, which are common in office settings. The presence of a",
+    "estimated_sceneType": "Office",
+    "sceneType": "Copy / Mail Room"
+  },
+  {
+    "episode_history": "scannet-v0/134-scannet-scene0695_03",
+    "output": "Based on the questions and answers provided, the space described seems to be a **Bedroom / Hotel**. Here's the reasoning:\n\n- The presence of a bed, which is a key feature of a bedroom.\n- Clothes on a chair and a pen left on the bed suggest personal items typically found in a bedroom.\n- A tapestry hanging above the bed is common in bedrooms.\n- The mention of a game console and a laptop indicates personal entertainment and work activities, which are typical in a bedroom.\n- The plush toy between the pillow and the wall further supports the idea of a bedroom setting.\n- The mention of a tapestry with",
+    "estimated_sceneType": "Bedroom / Hotel",
+    "sceneType": "Bedroom / Hotel"
+  },
+  {
+    "episode_history": "scannet-v0/135-scannet-scene0131_00",
+    "output": "Based on the questions and answers provided, the space described seems to be a **Conference Room**. Here's the reasoning:\n\n- The presence of a whiteboard, which is commonly used for presentations and discussions, suggests a space used for meetings or conferences.\n- A poster leaning on the wall and the mention of taking a poster to a scientific conference further support the idea of a space used for presentations or meetings.\n- The mention of a monitor and a desk with an adapter for a MacBook indicates a setup for presentations or work, typical in conference rooms.\n- The presence of a round mirror on a desk is less common in other spaces but can",
+    "estimated_sceneType": "Conference Room",
+    "sceneType": "Office"
+  },
+  {
+    "episode_history": "scannet-v0/137-scannet-scene0598_01",
+    "output": "Based on the questions and answers provided, the space described seems to be an **Office**. Here's the reasoning:\n\n- The presence of desks with computers suggests a workspace.\n- The mention of a backpack, a glass screen to reduce noise, and the need to charge a laptop are typical in an office setting.\n- The availability of bookshelves for reading materials aligns with an office environment where resources might be available.\n- The presence of power outlets and internet access further supports the idea of an office space.\n\nWhile some elements could fit other categories, the combination of these features most closely aligns with an office.",
+    "estimated_sceneType": "Office",
+    "sceneType": "Bookstore / Library"
+  },
+  {
+    "episode_history": "scannet-v0/138-scannet-scene0500_01",
+    "output": "Based on the questions and answers provided, the space described seems to be a **Classroom**. Here's the reasoning:\n\n- The presence of a blackboard, which is typically found in classrooms.\n- The mention of a projector, which is often used in educational settings for presentations.\n- The question about how to draw an animal on the blackboard suggests an educational activity.\n- The presence of a remote to control the projector further supports the idea of a classroom setting.\n- The description of the room includes typical classroom elements like tables and chairs.\n\nThese elements collectively point towards a classroom environment.",
+    "estimated_sceneType": "Classroom",
+    "sceneType": "Conference Room"
+  },
+  {
+    "episode_history": "scannet-v0/139-scannet-scene0647_00",
+    "output": "Based on the provided questions and answers, the space described seems to be a **Living room / Lounge**. Here's the reasoning:\n\n- The presence of a ping-pong table suggests a recreational or leisure space.\n- The mention of barstools and a table indicates a casual seating area, typical of a lounge.\n- An L-shaped sofa is commonly found in living rooms or lounges.\n- The presence of a backpack and the casual nature of the furniture arrangement further support the idea of a living room or lounge setting.\n- The mention of green signs with lights to mark the exit is a safety feature that can be found in any indoor",
+    "estimated_sceneType": "Living room / Lounge",
+    "sceneType": "Living room / Lounge"
+  },
+  {
+    "episode_history": "scannet-v0/140-scannet-scene0077_00",
+    "output": "Based on the questions and answers provided, the space described seems to be a room primarily used for printing, as indicated by the presence of a large white printer, a scanner, and a paper recycling trash bin. The room also contains scientific posters on the walls, which might suggest a professional or academic setting. The presence of a clock on a shelf and the mention of windows further support this idea.\n\nGiven these details, the most fitting category for this space is likely a **Conference Room** or an **Office**. Both settings could reasonably include printing equipment, scientific posters, and the described layout. However, the specific mention of the room's",
+    "estimated_sceneType": "Conference Room",
+    "sceneType": "Office"
+  },
+  {
+    "episode_history": "scannet-v0/141-scannet-scene0651_01",
+    "output": "Based on the questions and answers provided, the space being described is a kitchen. The presence of a refrigerator, stove, and kitchen cabinets, along with the mention of a kitchen sink and countertop, clearly indicates that this is a kitchen environment. Therefore, the category that best describes this space is:\n\n- Kitchen",
+    "estimated_sceneType": "Kitchen",
+    "sceneType": "Kitchen"
+  },
+  {
+    "episode_history": "scannet-v0/142-scannet-scene0653_01",
+    "output": "Based on the questions and answers provided, the space described seems to be an office or a university lab setting. The presence of desks, a whiteboard, a filing cabinet, power strips, and hand sanitizer suggests a workspace where people might work on computers, use office supplies, and possibly conduct meetings or presentations. The mention of a whiteboard for explaining mathematical equations further supports the idea of an academic or professional office environment.\n\nGiven the options, the best category for this space is:\n\n- **Office**\n\nThis choice is supported by the description of the work setting as a \"University lab or office\" and the presence of typical office equipment and supplies",
+    "estimated_sceneType": "Office",
+    "sceneType": "Office"
+  },
+  {
+    "episode_history": "scannet-v0/144-scannet-scene0700_01",
+    "output": "Based on the questions and answers provided, the space is best described as an \"Office.\" The presence of a desk, telephone, whiteboard, filing cabinet, and a computer (even though it is turned off) are typical features of an office environment. The specific mention of the room type as an \"Office\" in one of the answers further confirms this categorization.",
+    "estimated_sceneType": "Office",
+    "sceneType": "Office"
+  },
+  {
+    "episode_history": "scannet-v0/145-scannet-scene0193_00",
+    "output": "Based on the questions and answers provided, the space can be best categorized as a \"Bedroom / Hotel.\" Here's the reasoning:\n\n1. **Presence of a Bed**: The mention of a bed and the suggestion to store a suitcase under it indicates that this is primarily a sleeping area.\n\n2. **Work Desk and Chair**: The presence of a work desk and a task chair suggests that the room is also used for working, which is common in bedrooms, especially in hotel rooms or home offices.\n\n3. **Closet**: The mention of a closet, which is not fully closed, further supports the idea of a bedroom, as closets",
+    "estimated_sceneType": "Bedroom / Hotel",
+    "sceneType": "Bedroom / Hotel"
+  },
+  {
+    "episode_history": "scannet-v0/146-scannet-scene0518_00",
+    "output": "Based on the questions and answers provided, the space described seems to be a living room or lounge. Here's the reasoning:\n\n- The presence of a sectional couch, coffee table, and TV stand suggests a living room setting.\n- The mention of a work desk and a backpack indicates that the room might also be used for work or study, which is common in living rooms or home offices.\n- The suggestion to place a computer on the work desk further supports the idea of a multifunctional space.\n- The presence of a jug on the coffee table for pouring water is typical in a living room or lounge area.\n\nTherefore, the best category",
+    "estimated_sceneType": "Living room / Lounge",
+    "sceneType": "Living room / Lounge"
+  },
+  {
+    "episode_history": "scannet-v0/147-scannet-scene0699_00",
+    "output": "Based on the questions and answers provided, the space can be best described as a **Bedroom / Hotel**. Here's the reasoning:\n\n- The presence of a bed, which is a central feature of a bedroom.\n- The mention of a hairbrush, which is typically found in a bedroom.\n- The presence of a desk and a window, which are common in bedrooms.\n- The mention of toiletries, which are often found in a bedroom or hotel room.\n- The AC unit and tissue box near the window, which are common in bedrooms for comfort and convenience.\n- The mention of a wooden table, which can be found in",
+    "estimated_sceneType": "Bedroom / Hotel",
+    "sceneType": "Bedroom / Hotel"
+  },
+  {
+    "episode_history": "scannet-v0/148-scannet-scene0203_01",
+    "output": "Based on the questions and answers provided, the space can be best described as a **Living room / Lounge**. Here's the reasoning:\n\n- The presence of a coffee table with a book (\"Sailing\") suggests a living area.\n- The mention of a couch, shoe rack, and bookshelf are typical furnishings found in a living room.\n- The description of the room as cluttered with various items like a poster tube, framed photo, and a gray pillow on the floor further supports the idea of a living space.\n- The framed photo of Gandhi near the entrance and the shoe rack being behind the couch align with common living room layouts",
+    "estimated_sceneType": "Living room / Lounge",
+    "sceneType": "Living room / Lounge"
+  },
+  {
+    "episode_history": "scannet-v0/149-scannet-scene0426_02",
+    "output": "Based on the questions and answers provided, the space is best described as a \"Bedroom / Hotel.\" The presence of a bed, dresser, TV, and a Yonex racket bag suggests a personal living space, likely a bedroom. The details about the bedsheet, window, and door handle further support this categorization.",
+    "estimated_sceneType": "Bedroom / Hotel",
+    "sceneType": "Bedroom / Hotel"
+  },
+  {
+    "episode_history": "scannet-v0/150-scannet-scene0648_00",
+    "output": "Based on the questions and answers provided, the space seems to be a personal room, likely a bedroom or an office, given the presence of items like a MacBook, a small red book, a calculator, and a 3-drawer white cart. The mention of a teddy bear on a quilt and the question about footwear for taking a shower suggest a bedroom setting. However, the presence of a MacBook and a calculator could also indicate an office.\n\nThe question about whether a dog can be kept in the room and the specific mention of a shower suggest it is more likely a bedroom, as offices typically do not have showers. Additionally, the",
+    "estimated_sceneType": "Bedroom / Hotel",
+    "sceneType": "Bedroom / Hotel"
+  },
+  {
+    "episode_history": "scannet-v0/151-scannet-scene0217_00",
+    "output": "Based on the questions and answers provided, the space can be best described as a **Bedroom / Hotel**. Here's the reasoning:\n\n- The presence of a bed and a mattress suggests it is a bedroom.\n- The mention of a desk and a backpack indicates it is a personal space, likely a bedroom.\n- The possibility of having a roommate suggests it could be a shared bedroom, which is common in apartments or hotels.\n- The ability to put something big under the bed and the presence of a black chair further support the idea of a bedroom.\n- The mention of recycling options and garbage bins being empty are typical in residential settings.\n\n",
+    "estimated_sceneType": "Bedroom / Hotel",
+    "sceneType": "Bedroom / Hotel"
+  },
+  {
+    "episode_history": "scannet-v0/152-scannet-scene0494_00",
+    "output": "Based on the provided questions and answers, the space can be best categorized as a **Conference Room**. Here's the reasoning:\n\n- There are 4 chairs, which are black and tucked under a table, suggesting a formal seating arrangement typical of a conference room.\n- The presence of a whiteboard on the wall, along with the fact that it doesn't need wiping, indicates it's used for presentations or meetings.\n- The mention of ports for a laptop's internet connection on a white wall suggests a setup for presentations or video conferencing, common in conference rooms.\n- The garbage bin near the door and the need to pull out chairs",
+    "estimated_sceneType": "Conference Room",
+    "sceneType": "Conference Room"
+  },
+  {
+    "episode_history": "scannet-v0/154-scannet-scene0193_01",
+    "output": "Based on the questions and answers provided, the space described seems to have a desk, a bed, a chair, a window, and a garbage bin. The presence of a bed and a desk, along with the possibility of storing belongings under the bed, suggests a personal living space. The fact that the desk is not occupied and that no one is living there currently, combined with the ability to leave the room without opening the door, indicates that this is not a typical residential bedroom.\n\nGiven these details, the space most closely resembles a **Bedroom / Hotel** category. This is because hotel rooms typically have a bed, a desk,",
+    "estimated_sceneType": "Living room / Lounge",
+    "sceneType": "Bedroom / Hotel"
+  },
+  {
+    "episode_history": "scannet-v0/155-scannet-scene0164_02",
+    "output": "Based on the questions and answers provided, the space described contains several key features:\n\n- A coffee machine\n- A stove with pots and pans\n- A sink with limited space next to it\n- A refrigerator\n- A microwave\n- Cleaning solutions for dirty plates\n\nThese features are indicative of a kitchen. The presence of a coffee machine, stove, sink, refrigerator, and microwave are typical of a kitchen environment. Additionally, the mention of cleaning solutions for dirty plates further supports this categorization.\n\nTherefore, the best category for this indoor space is **Kitchen**.",
+    "estimated_sceneType": "Kitchen",
+    "sceneType": "Kitchen"
+  },
+  {
+    "episode_history": "scannet-v0/156-scannet-scene0461_00",
+    "output": "Based on the questions and answers provided, the space described seems to be a small, well-lit room with armchairs, an end table, and a window. The presence of armchairs and an end table suggests a setting designed for sitting and possibly light social interaction or relaxation. The room is not spacious enough for a 6-person party, and it is not suitable for mopping, which implies it might have a specific type of flooring or layout that doesn't accommodate such activities.\n\nThe mention of sitting in an armchair and placing food on an end table for lunch suggests a casual, comfortable setting. The room's description align",
+    "estimated_sceneType": null,
+    "sceneType": "Lobby"
+  },
+  {
+    "episode_history": "scannet-v0/157-scannet-scene0015_00",
+    "output": "Based on the questions and answers provided, the space can be best categorized as a **Classroom**. Here's the reasoning:\n\n- The presence of a whiteboard and markers suggests a setting used for teaching or presentations.\n- The mention of students being there lately indicates an educational environment.\n- The ability to accommodate 10 people aligns with a typical classroom size.\n- The presence of a backpack, piece of paper, and a Starbucks drink are common in a classroom setting where students might be present.\n- The green chair being unique could imply a specific seating arrangement often found in classrooms.\n\nThese clues collectively point towards a classroom environment.",
+    "estimated_sceneType": "Classroom",
+    "sceneType": "Classroom"
+  },
+  {
+    "episode_history": "scannet-v0/158-scannet-scene0356_00",
+    "output": "Based on the provided questions and answers, the space seems to be a **Bathroom**. Here's the reasoning:\n\n- The presence of a mirror attached to a door is common in bathrooms.\n- Garbage bins in a bathroom are often used for disposing of personal care items.\n- The mention of a phone hanging on the wall is typical in bathrooms for emergency calls.\n- The presence of a bed frame in another room suggests this is not a bedroom.\n- The inability to place a laptop on a desk to study and the mention of a three-level cabinet under the phone are consistent with a bathroom setup.\n- The mention of a white door",
+    "estimated_sceneType": "Bathroom",
+    "sceneType": "Bedroom / Hotel"
+  },
+  {
+    "episode_history": "scannet-v0/160-scannet-scene0488_01",
+    "output": "Based on the questions and answers provided, the space being described is a kitchen. The presence of a stove, refrigerator, sink, dishwasher, and microwave, along with details about their arrangement and functionality, clearly indicates that the space is a kitchen. Therefore, the category that best describes this indoor space is:\n\n- Kitchen",
+    "estimated_sceneType": "Kitchen",
+    "sceneType": "Kitchen"
+  },
+  {
+    "episode_history": "scannet-v0/161-scannet-scene0583_00",
+    "output": "Based on the questions and answers provided, the space described is most likely a **Bathroom**. The presence of a faucet, soap, lotion, shower curtain, bath mat, hand towel, and a medicine cabinet are all indicative of a bathroom environment. Additionally, the mention of a mirror, lights above it, and instructions on the walls further support this categorization. The specific references to bathroom-related items and activities, such as moving the shower curtain and bath mat before using the shower, reinforce this conclusion.",
+    "estimated_sceneType": "Bathroom",
+    "sceneType": "Bathroom"
+  },
+  {
+    "episode_history": "scannet-v0/162-scannet-scene0535_00",
+    "output": "Based on the questions and answers provided, the space described seems to be an **Office**. Here's the reasoning:\n\n- The presence of desks, power strips, and cables suggests a workspace.\n- The mention of a table lamp and blinds indicates a setting where lighting adjustments are necessary, typical in an office.\n- The room accommodates 5 chairs, which aligns with a small office setup.\n- The space is intended for 2 people to work, which is common for a small office or shared workspace.\n- The presence of a binder clip on a cork board and a poster tube in the corner are typical office items.\n- The",
+    "estimated_sceneType": "Office",
+    "sceneType": "Office"
+  },
+  {
+    "episode_history": "scannet-v0/163-scannet-scene0164_03",
+    "output": "Based on the questions and answers provided, the space described contains a sink, a coffee machine, a toaster, a microwave, and mentions of dish soap and chapstick. These elements are commonly found in a kitchen. The presence of appliances like a water carbonator, coffee machine, and toaster, along with references to kitchen-related items (dish soap, chapstick, and burners), strongly suggests that the space is a kitchen.\n\nCategory: Kitchen",
+    "estimated_sceneType": "Kitchen",
+    "sceneType": "Kitchen"
+  },
+  {
+    "episode_history": "scannet-v0/165-scannet-scene0406_00",
+    "output": "Based on the questions and answers provided, the indoor space is best described as a **Bathroom**. The presence of a toilet, bathtub, shower area, curtain, and items like towels, bath mats, and shampoo are all indicative of a bathroom setting.",
+    "estimated_sceneType": "Bathroom",
+    "sceneType": "Bathroom"
+  },
+  {
+    "episode_history": "scannet-v0/166-scannet-scene0435_03",
+    "output": "Based on the questions and answers provided, the space described seems to be a **Bedroom / Hotel**. Here's the reasoning:\n\n- The presence of a bed that is made suggests a sleeping area.\n- The mention of a room key and a mini-fridge is typical of hotel rooms.\n- The iPad and TV are common amenities in hotel rooms.\n- The capacity for up to 4 people to sleep in the room aligns with a hotel room setup.\n- The space is not a private residence, further supporting the idea of a hotel room.\n\nTherefore, the best category for this space is \"Bedroom / Hotel.\"",
+    "estimated_sceneType": "Bedroom / Hotel",
+    "sceneType": "Bedroom / Hotel"
+  },
+  {
+    "episode_history": "scannet-v0/167-scannet-scene0307_01",
+    "output": "Based on the questions and answers provided, the space can be identified as a **Laundry Room**. Here's the reasoning:\n\n- The presence of a coat hanger and a towel on top of the faucet suggests a space where people might hang clothes to dry and where towels are commonly used, such as in a laundry room.\n- The mention of a dryer that is not closed indicates the presence of laundry appliances.\n- Shelves being full could imply storage for laundry supplies or other items.\n- The functions listed\u2014laundry, storage, and showering\u2014align well with a laundry room, as many laundry rooms also have a shower or",
+    "estimated_sceneType": "Laundry Room",
+    "sceneType": "Storage / Basement / Garage"
+  },
+  {
+    "episode_history": "scannet-v0/168-scannet-scene0655_01",
+    "output": "Based on the questions and answers provided, the space can be best categorized as a **Conference Room**. Here's the reasoning:\n\n- The presence of a table in the center of the room with chairs around it is typical of a conference room setup.\n- The mention of a whiteboard with an eraser suggests a space used for meetings or presentations.\n- The availability of a projector screen and cables indicates that the room is equipped for presentations or video conferencing.\n- The presence of a TV remote and a socket for charging devices further supports the idea of a room designed for meetings or collaborative work.\n- The room is not suitable for sleeping,",
+    "estimated_sceneType": "Conference Room",
+    "sceneType": "Conference Room"
+  },
+  {
+    "episode_history": "scannet-v0/169-scannet-scene0695_01",
+    "output": "Based on the questions and answers provided, the space seems to be a personal area where someone works and sleeps, as indicated by the presence of a desk, a bed, a laptop, and a backpack. The mention of a window and the inability to fit a couch suggest a relatively small room. The presence of a bed and art above it further supports the idea that this is a living space.\n\nThe most fitting category for this space is \"Bedroom / Hotel.\"",
+    "estimated_sceneType": "Living room / Lounge",
+    "sceneType": "Bedroom / Hotel"
+  },
+  {
+    "episode_history": "scannet-v0/170-scannet-scene0378_01",
+    "output": "Based on the questions and answers provided, the space described seems to be a **Classroom**. Here are the key indicators:\n\n1. **Blackboard**: The presence of a blackboard hanging on the wall is a strong indicator of a classroom setting.\n2. **Pens and Pencils**: The mention of pens and a cylindrical pencil holder suggests a space used for writing or teaching.\n3. **Scanner Built into Printer**: This is a common feature in classrooms for educational purposes.\n4. **Recycling Bin**: The presence of a recycling bin indicates a space where multiple people might work or learn, typical of a classroom.\n5",
+    "estimated_sceneType": "Classroom",
+    "sceneType": "Office"
+  },
+  {
+    "episode_history": "scannet-v0/171-scannet-scene0222_01",
+    "output": "Based on the questions and answers provided, the space described seems to be a **Bedroom / Hotel**. Here's the reasoning:\n\n- The presence of a bed, which is not made, suggests a bedroom.\n- The mention of a roommate sleeping and the need to work on homework indicates a shared living space, typical of a bedroom in an apartment or a hotel room.\n- The presence of a minifridge, which is often found in bedrooms in apartments or hotel rooms.\n- The use of a desk lamp for working on homework is common in a bedroom setting.\n- The presence of a black backpack and a whey protein container on",
+    "estimated_sceneType": "Bedroom / Hotel",
+    "sceneType": "Bedroom / Hotel"
+  },
+  {
+    "episode_history": "scannet-v0/172-scannet-scene0496_00",
+    "output": "Based on the questions and answers provided, the space described is most likely a **Conference Room**. Here's the reasoning:\n\n- The presence of a projector and a projector screen suggests a space used for presentations or meetings.\n- Blue chairs and black chairs in the front of the room indicate seating arrangements typical of a meeting or conference setting.\n- The mention of a power strip for charging devices is common in conference rooms where attendees might need to charge laptops or other electronics.\n- The ability to lower blinds to reduce sunlight is a feature often found in rooms used for presentations or meetings.\n- The presence of a chalkboard (or blackboard) and",
+    "estimated_sceneType": "Conference Room",
+    "sceneType": "Conference Room"
+  },
+  {
+    "episode_history": "scannet-v0/173-scannet-scene0278_01",
+    "output": "Based on the questions and answers provided, the space described seems to be a **Copy / Mail Room**. Here's the reasoning:\n\n- The presence of \"green boxes\" containing copy paper and a paper cutter suggests a space where copying and document handling occur.\n- A black desk with a paper cutter and a black counter that can accommodate a computer further supports the idea of a workspace for handling documents.\n- The mention of a printer and the need to replenish paper from the green boxes aligns with typical activities in a copy room.\n- The presence of a bulletin board and closed garbage can lids are consistent with office or utility spaces.\n-",
+    "estimated_sceneType": "Copy / Mail Room",
+    "sceneType": "Copy / Mail Room"
+  },
+  {
+    "episode_history": "scannet-v0/174-scannet-scene0086_01",
+    "output": "Based on the questions and answers provided, the space described is most likely a **Bathroom**. The presence of a sink, soap dispenser, toilet paper holders, a floor drain, grab bars, and toilets (including one designed for a handicapped person) are all indicative of a bathroom setting.",
+    "estimated_sceneType": "Bathroom",
+    "sceneType": "Bathroom"
+  },
+  {
+    "episode_history": "scannet-v0/175-scannet-scene0329_01",
+    "output": "Based on the questions and answers provided, the space can be identified as an **Office**. Here's the reasoning:\n\n- The presence of cubby shelves, a black backpack, a brown couch, and a whiteboard are typical features of an office environment.\n- The mention of writing a message for everyone in the office and using a whiteboard further supports this categorization.\n- The presence of a fire alarm is common in office settings for safety compliance.\n- The black garbage bin and the lamp next to the couch are also consistent with office furnishings.\n\nThese elements collectively suggest that the space is best described as an Office.",
+    "estimated_sceneType": "Office",
+    "sceneType": "Lobby"
+  },
+  {
+    "episode_history": "scannet-v0/176-scannet-scene0643_00",
+    "output": "Based on the questions and answers provided, the space described seems to be an office. Here's the reasoning:\n\n- The presence of desks with monitors suggests a workspace.\n- Items like a stapler, a calendar, and a telephone are commonly found in an office setting.\n- The mention of a cooling unit and a trash can further supports the idea of an office environment.\n- The absence of a keyboard and mouse on the second desk indicates a workspace that might be used for meetings or presentations, which is typical in an office.\n\nTherefore, the category that best describes this space is \"Office.\"",
+    "estimated_sceneType": "Office",
+    "sceneType": "Office"
+  },
+  {
+    "episode_history": "scannet-v0/177-scannet-scene0608_02",
+    "output": "Based on the questions and answers provided, the space seems to be a living room or lounge. Here's the reasoning:\n\n- The presence of a guitar, massage chair, and couch suggests a living room setting.\n- The soccer banner and the mention of Chelsea International indicate a space where the owner might relax and enjoy personal interests, typical of a living room.\n- The presence of a world map and a painting suggests decorative elements common in living spaces.\n- The mention of a microwave and a clock above it suggests a kitchenette area, which is often found in living rooms or lounges.\n- The neck pillow on the piano keyboard and the ability",
+    "estimated_sceneType": "Living room / Lounge",
+    "sceneType": "Living room / Lounge"
+  },
+  {
+    "episode_history": "scannet-v0/178-scannet-scene0685_02",
+    "output": "Based on the questions and answers provided, the space seems to be an office environment. Here are the key points that lead to this conclusion:\n\n1. **Circuit Breaker Box**: The presence of a circuit breaker box suggests an office or a room with significant electrical equipment.\n\n2. **Poster Printer**: A large object like a poster printer is typically found in an office setting, especially one that deals with printing or marketing materials.\n\n3. **Paper Trimmer**: The mention of a paper trimmer and the need to fix margins on printed posters indicates a workspace related to document preparation or design.\n\n4. **Desks and Office Supplies**:",
+    "estimated_sceneType": "Office",
+    "sceneType": "Copy / Mail Room"
+  },
+  {
+    "episode_history": "scannet-v0/179-scannet-scene0300_01",
+    "output": "Based on the questions and answers provided, the space can be best categorized as an **Office**. Here's the reasoning:\n\n- The presence of a desk with a blue backpack suggests a workspace.\n- Monitors and a computer that can be charged indicate office equipment.\n- The mention of a catalog on the computer for locating books suggests a library or office setting where books might be used for reference.\n- The chairs being tucked into the table and the presence of bookshelves further support the idea of a workspace or meeting area.\n- The room is not on the ground floor, which is common for office spaces.\n- The instruction to turn off",
+    "estimated_sceneType": "Office",
+    "sceneType": "Bookstore / Library"
+  },
+  {
+    "episode_history": "scannet-v0/180-scannet-scene0100_02",
+    "output": "Based on the questions and answers provided, the space described is most likely a **Bathroom**. The presence of a restroom sink, toilet, slippers, electric toothbrush, and a blue bathrobe, along with references to disposing of bathroom waste and taking a bath, all strongly indicate that this is a bathroom setting.",
+    "estimated_sceneType": "Bathroom",
+    "sceneType": "Bathroom"
+  },
+  {
+    "episode_history": "scannet-v0/181-scannet-scene0314_00",
+    "output": "Based on the questions and answers provided, the space described seems to be a room with a table, chairs, and computers, which are typically used for work or study. The presence of a lamp for better lighting and the suggestion to set up a place to study further supports this. The materials and colors of the chairs (leather and black) are common in professional or study environments.\n\nThe most fitting category for this space is likely an **Office**. This is because the setup with computers over a table, leather chairs, and a focus on lighting for work or study aligns well with an office environment.",
+    "estimated_sceneType": "Office",
+    "sceneType": "Lobby"
+  },
+  {
+    "episode_history": "scannet-v0/182-scannet-scene0645_00",
+    "output": "Based on the questions and answers provided, the indoor space can be best described as a **Bedroom / Hotel**. The presence of beds, a nightstand, a TV remote, a clock, and a painting are all indicative of a bedroom setting. The mention of a carpeted floor and the arrangement of furniture further supports this classification.",
+    "estimated_sceneType": "Bedroom / Hotel",
+    "sceneType": "Bedroom / Hotel"
+  },
+  {
+    "episode_history": "scannet-v0/183-scannet-scene0231_01",
+    "output": "Based on the questions and answers provided, the space described seems to be an **Office**. Here's the reasoning:\n\n- The presence of a desk, chair, and items like a pen and a lamp suggests a workspace.\n- The desk is described as being full of things, indicating it is used for work-related activities.\n- There is a trash can, which is common in office settings.\n- The mention of medals hanging on the wall could imply achievements or awards, often found in offices.\n- The option to work at the desk and take a nap on the couch suggests a private or semi-private office space, possibly a personal office or",
+    "estimated_sceneType": "Office",
+    "sceneType": "Apartment"
+  },
+  {
+    "episode_history": "scannet-v0/185-scannet-scene0435_00",
+    "output": "Based on the questions and answers provided, the space is best described as a \"Bedroom / Hotel.\" The presence of a desk, chair, suitcase, and coffee machine, along with the explicit mention of a \"hotel room,\" supports this categorization.",
+    "estimated_sceneType": "Bedroom / Hotel",
+    "sceneType": "Bedroom / Hotel"
+  },
+  {
+    "episode_history": "scannet-v0/186-scannet-scene0549_01",
+    "output": "Based on the questions and answers provided, the space described seems to be a living room or lounge. Here's the reasoning:\n\n- The presence of sofas, armchairs, and tables suggests a seating area typical of a living room.\n- The mention of a plant, a jar with flowers, and the ability to rest on couches or armchairs further supports this.\n- The presence of wall outlets near the couch indicates a space designed for relaxation and possibly entertainment, which is common in living rooms.\n- The description of a long table between couches, which is clean, aligns with a living room setting where such a table might",
+    "estimated_sceneType": "Living room / Lounge",
+    "sceneType": "Lobby"
+  },
+  {
+    "episode_history": "scannet-v0/187-scannet-scene0655_02",
+    "output": "Based on the questions and answers provided, the space is best described as a **Conference Room**. The presence of chairs, a table with cables, a whiteboard with writing, and markers indicates a setting designed for meetings or presentations, which aligns with the characteristics of a conference room.",
+    "estimated_sceneType": "Conference Room",
+    "sceneType": "Conference Room"
+  },
+  {
+    "episode_history": "scannet-v0/188-scannet-scene0593_00",
+    "output": "Based on the questions and answers provided, the space is best described as a **Copy / Mail Room**. The presence of multiple printers, a paper cutter, and the primary use of the room being to make copies strongly indicate this category. Additionally, the mention of trash cans and a fan suggests a functional space where office-related tasks, such as copying and printing, are performed.",
+    "estimated_sceneType": "Copy / Mail Room",
+    "sceneType": "Living room / Lounge"
+  },
+  {
+    "episode_history": "scannet-v0/189-scannet-scene0500_00",
+    "output": "Based on the questions and answers provided, the space can be confidently categorized as a **Classroom**. Here's the reasoning:\n\n- The predominant furniture is chairs, which are common in classrooms.\n- There are whiteboards with math equations written on them, indicating a teaching environment.\n- The presence of a clock hanging on the wall is typical in classrooms.\n- The mention of a trash can and markers on a shelf further supports the classroom setting.\n- The main purpose of the room is stated to be \"to teach,\" which aligns with the function of a classroom.\n\nThese elements collectively point to the space being a classroom.",
+    "estimated_sceneType": "Classroom",
+    "sceneType": "Conference Room"
+  }
+]

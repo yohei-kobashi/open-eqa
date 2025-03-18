@@ -1,0 +1,476 @@
+[
+  {
+    "episode_history": "scannet-v0/100-scannet-scene0598_00",
+    "output": "Based on the furnishings (multiple tables, computer, bookshelf) and the fact that there are computers and trash bins positioned as one would expect in a work setting, the space most closely matches an office environment.",
+    "estimated_sceneType": "Office",
+    "sceneType": "Bookstore / Library"
+  },
+  {
+    "episode_history": "scannet-v0/101-scannet-scene0256_00",
+    "output": "Based on the presence of a clothing rack, storage for undergarments in drawers, and pillows, it most closely matches a bedroom (or hotel) setting.",
+    "estimated_sceneType": "Storage / Basement / Garage",
+    "sceneType": "Office"
+  },
+  {
+    "episode_history": "scannet-v0/102-scannet-scene0222_00",
+    "output": "Based on the presence of personal hygiene items (toothbrush, shampoo), multiple fridges, a desk for charging a laptop, and a fan to cool the room, this space most closely matches a small living area rather than simply a kitchen or bedroom. The best fit from the list is \u201cApartment.\u201d",
+    "estimated_sceneType": "Living room / Lounge",
+    "sceneType": "Bedroom / Hotel"
+  },
+  {
+    "episode_history": "scannet-v0/103-scannet-scene0527_00",
+    "output": "Bathroom",
+    "estimated_sceneType": "Bathroom",
+    "sceneType": "Bathroom"
+  },
+  {
+    "episode_history": "scannet-v0/104-scannet-scene0616_01",
+    "output": "Based on the presence of a sofa, fireplace, a table with a lamp, and a general lounging vibe, the space described aligns most clearly with a living room or lounge.",
+    "estimated_sceneType": "Living room / Lounge",
+    "sceneType": "Living room / Lounge"
+  },
+  {
+    "episode_history": "scannet-v0/105-scannet-scene0207_01",
+    "output": "Based on the variety of furnishings (sofa, kitchen counter, stools, closet with drawers, a workspace, and a vacuum cleaner) and the presence of both a kitchen area and living area, this appears to be a multi-purpose residential setting. The best fit from the listed categories would be: Apartment.",
+    "estimated_sceneType": "Kitchen",
+    "sceneType": "Apartment"
+  },
+  {
+    "episode_history": "scannet-v0/106-scannet-scene0633_00",
+    "output": "Based on the items mentioned\u2014a sofa (where an adult can nap), a lamp behind it, a crib for a baby, plush toys, and a family picture\u2014this most closely resembles a living room or lounge.",
+    "estimated_sceneType": "Living room / Lounge",
+    "sceneType": "Bedroom / Hotel"
+  },
+  {
+    "episode_history": "scannet-v0/108-scannet-scene0354_00",
+    "output": "Conference Room",
+    "estimated_sceneType": "Conference Room",
+    "sceneType": "Conference Room"
+  },
+  {
+    "episode_history": "scannet-v0/109-scannet-scene0648_01",
+    "output": "Based on the items mentioned (desk, calculator, notebooks, books on a shelf, a photo frame, etc.) and the general setup (work\u2010related materials rather than bedroom or living\u2010room furnishings), this space is most likely an Office.",
+    "estimated_sceneType": "Bedroom / Hotel",
+    "sceneType": "Bedroom / Hotel"
+  },
+  {
+    "episode_history": "scannet-v0/110-scannet-scene0050_00",
+    "output": "Based on the presence of a large couch, a piano, an armchair, and a desk (rather than a bed or kitchen appliances), it most closely resembles a living room or lounge.",
+    "estimated_sceneType": "Kitchen",
+    "sceneType": "Living room / Lounge"
+  },
+  {
+    "episode_history": "scannet-v0/111-scannet-scene0550_00",
+    "output": "Based on the references to a toilet, a shower, and the \u201cproper bathroom etiquette\u201d sign, this space is best categorized as a Bathroom.",
+    "estimated_sceneType": "Bathroom",
+    "sceneType": "Bathroom"
+  },
+  {
+    "episode_history": "scannet-v0/112-scannet-scene0591_02",
+    "output": "Based on the presence of typical office supplies (a stapler) alongside a couch and shelves, this appears to be an Office setting rather than a purely residential living room or lounge.",
+    "estimated_sceneType": "Office",
+    "sceneType": "Office"
+  },
+  {
+    "episode_history": "scannet-v0/113-scannet-scene0207_00",
+    "output": "Based on the presence of both a stove and a bed in the same general area, along with a couch, desk, and various personal items (such as backpacks and a duffle bag), this space most closely resembles an apartment.",
+    "estimated_sceneType": "Apartment",
+    "sceneType": "Apartment"
+  },
+  {
+    "episode_history": "scannet-v0/114-scannet-scene0084_00",
+    "output": "Based on the details provided\u2014particularly the sink with a soap dispenser, a caution sign for a wet floor, and the overall emphasis on hand-washing and cleanup\u2014the space most closely aligns with a \u201cBathroom.\u201d",
+    "estimated_sceneType": "Bathroom",
+    "sceneType": "Bathroom"
+  },
+  {
+    "episode_history": "scannet-v0/115-scannet-scene0046_02",
+    "output": "Based on mentions of a bed, suitcase, and personal items (laptop, iPad, etc.) as well as seating options in the same room, this appears most consistent with a bedroom or a hotel room. Therefore, the best match is \"Bedroom / Hotel.\"",
+    "estimated_sceneType": "Bedroom / Hotel",
+    "sceneType": "Apartment"
+  },
+  {
+    "episode_history": "scannet-v0/116-scannet-scene0077_01",
+    "output": "Based on the presence of multiple printers, shelving for organizing papers, and various office supplies, this space most closely fits a \"Copy / Mail Room.\"",
+    "estimated_sceneType": "Office",
+    "sceneType": "Office"
+  },
+  {
+    "episode_history": "scannet-v0/120-scannet-scene0684_01",
+    "output": "Based on the presence of a desk phone on a table, a chair, and boxes/bins (suggesting supplies or stored materials) in what sounds like a single, enclosed, work\u2010type space, the setting most closely aligns with an \u201cOffice.\u201d",
+    "estimated_sceneType": "Office",
+    "sceneType": "Office"
+  },
+  {
+    "episode_history": "scannet-v0/121-scannet-scene0462_00",
+    "output": "Based on the presence of a photocopy machine, a fax machine, and a designated USPS mail bin, the space most closely matches a \u201cCopy / Mail Room.\u201d",
+    "estimated_sceneType": "Copy / Mail Room",
+    "sceneType": "Copy / Mail Room"
+  },
+  {
+    "episode_history": "scannet-v0/122-scannet-scene0647_01",
+    "output": "Based on the details\u2014presence of a sofa, stools, and especially a ping-pong table in a comfortable setting\u2014it most closely resembles a living room or lounge rather than an office or conference room. The best match from the provided list is \"Living room / Lounge.\"",
+    "estimated_sceneType": "Living room / Lounge",
+    "sceneType": "Living room / Lounge"
+  },
+  {
+    "episode_history": "scannet-v0/123-scannet-scene0412_01",
+    "output": "Based on the presence of stored items like traffic cones, a folded ladder, and a sink (likely a utility sink), it appears to be a utility/storage area with some laundry functions rather than a typical living or office space. Of the provided categories, \u201cStorage / Basement / Garage\u201d seems like the best fit.",
+    "estimated_sceneType": "Laundry Room",
+    "sceneType": "Kitchen"
+  },
+  {
+    "episode_history": "scannet-v0/124-scannet-scene0131_02",
+    "output": "Based on the items described\u2014multiple computer monitors on a desk, a whiteboard, and a mini fridge in the same space\u2014this appears most like an office or personal workspace rather than a purely residential or communal area. The best match from the list of categories is \u201cOffice.\u201d",
+    "estimated_sceneType": "Office",
+    "sceneType": "Office"
+  },
+  {
+    "episode_history": "scannet-v0/125-scannet-scene0426_00",
+    "output": "Based on the presence of a bed, a remote on the bed, and a jacket and hoodie inside the room, it most closely aligns with a \u201cBedroom / Hotel.\u201d",
+    "estimated_sceneType": "Bedroom / Hotel",
+    "sceneType": "Bedroom / Hotel"
+  },
+  {
+    "episode_history": "scannet-v0/126-scannet-scene0574_02",
+    "output": "Based on the emergency\u2010evacuation map on the door, the mirror next to it, and the short bench with luggage/shoes beside the entry\u2014details typical of a hotel room\u2019s entry area\u2014this space most closely matches \u201cBedroom / Hotel.\u201d",
+    "estimated_sceneType": "Bedroom / Hotel",
+    "sceneType": "Bathroom"
+  },
+  {
+    "episode_history": "scannet-v0/127-scannet-scene0578_00",
+    "output": "There is only a single table and chair mentioned (rather than multiple desks or seating), and no bed, kitchen appliances, or other furniture that would firmly place it in a home\u2010style room. The details given (a clean tabletop, a chair with a backpack, a door with a trash can nearby) fit fairly well with a small private or shared office. While this is not definitively stated, \u201cOffice\u201d is the best guess given the limited information.",
+    "estimated_sceneType": "Kitchen",
+    "sceneType": "Conference Room"
+  },
+  {
+    "episode_history": "scannet-v0/128-scannet-scene0678_02",
+    "output": "Based on the references to washing machines, laundry baskets, and detergent, the space most clearly corresponds to a \u201cLaundry Room.\u201d",
+    "estimated_sceneType": "Laundry Room",
+    "sceneType": "Laundry Room"
+  },
+  {
+    "episode_history": "scannet-v0/129-scannet-scene0575_00",
+    "output": "Based on the presence of a large rectangular table, multiple monitors on the wall, a video conferencing camera, and an instruction sheet on how to use the AV system, this space aligns most closely with a Conference Room.",
+    "estimated_sceneType": "Conference Room",
+    "sceneType": "Conference Room"
+  },
+  {
+    "episode_history": "scannet-v0/130-scannet-scene0696_00",
+    "output": "Based on the presence of a ping\u2010pong (tennis) table in the middle, a drying rack for clothes, a spare mattress on the floor, stacked chairs, and monitors, this space most closely aligns with a multi\u2010purpose or storage/basement/garage area rather than a straightforward living room or bedroom. So, \u201cStorage / Basement / Garage\u201d seems like the most fitting category.",
+    "estimated_sceneType": "Living room / Lounge",
+    "sceneType": "Storage / Basement / Garage"
+  },
+  {
+    "episode_history": "scannet-v0/132-scannet-scene0645_01",
+    "output": "Based on the presence of multiple beds, a nightstand, a table lamp, and an armchair where one can read, this space most closely matches the \u201cBedroom / Hotel\u201d category.",
+    "estimated_sceneType": "Bedroom / Hotel",
+    "sceneType": "Bedroom / Hotel"
+  },
+  {
+    "episode_history": "scannet-v0/133-scannet-scene0704_00",
+    "output": "Based on the information provided\u2014particularly the presence of a printer, a counter with printing supplies, and a water cooler in what is described as a \u201cprinting room\u201d\u2014the most fitting category is:\n\nCopy / Mail Room",
+    "estimated_sceneType": "Copy / Mail Room",
+    "sceneType": "Copy / Mail Room"
+  },
+  {
+    "episode_history": "scannet-v0/134-scannet-scene0695_03",
+    "output": "It most closely matches a \u201cBedroom / Hotel\u201d space, given the unmade bed, tapestry above it, and personal items like clothes and a plush toy.",
+    "estimated_sceneType": "Bedroom / Hotel",
+    "sceneType": "Bedroom / Hotel"
+  },
+  {
+    "episode_history": "scannet-v0/135-scannet-scene0131_00",
+    "output": "Based on the items present (desk, monitor, whiteboard, poster for a conference) and the usage (writing diagrams on the whiteboard, connecting laptops), this space aligns most closely with an Office.  ",
+    "estimated_sceneType": "Conference Room",
+    "sceneType": "Office"
+  },
+  {
+    "episode_history": "scannet-v0/137-scannet-scene0598_01",
+    "output": "This setup\u2014a space with multiple desks (some holding computers), bookshelves for reading material, and a glass screen to reduce noise\u2014fits a library or bookstore context most closely. If forced to choose, a library setting seems the best match.",
+    "estimated_sceneType": "Bookstore / Library",
+    "sceneType": "Bookstore / Library"
+  },
+  {
+    "episode_history": "scannet-v0/138-scannet-scene0500_01",
+    "output": "Based on the presence of a blackboard for drawing, a projector and remote for presentations, and tables and chairs arranged in a way suitable for instruction, this space most closely matches a \u201cClassroom.\u201d",
+    "estimated_sceneType": "Classroom",
+    "sceneType": "Conference Room"
+  },
+  {
+    "episode_history": "scannet-v0/139-scannet-scene0647_00",
+    "output": "Based on the presence of a sofa, barstools, and a ping-pong table in a relaxed, social layout, this space most closely matches a \u201cLiving room / Lounge\u201d setting.",
+    "estimated_sceneType": "Living room / Lounge",
+    "sceneType": "Living room / Lounge"
+  },
+  {
+    "episode_history": "scannet-v0/140-scannet-scene0077_00",
+    "output": "Based on the presence of multiple printers, a scanner, and a paper recycling bin\u2014with the room\u2019s main stated purpose being printing\u2014this space most closely aligns with a \u201cCopy / Mail Room.\u201d",
+    "estimated_sceneType": "Copy / Mail Room",
+    "sceneType": "Office"
+  },
+  {
+    "episode_history": "scannet-v0/141-scannet-scene0651_01",
+    "output": "Kitchen.",
+    "estimated_sceneType": "Kitchen",
+    "sceneType": "Kitchen"
+  },
+  {
+    "episode_history": "scannet-v0/142-scannet-scene0653_01",
+    "output": "Based on the presence of multiple desks with computer monitors, a filing cabinet, and a whiteboard for quick explanations, this space best matches an Office.",
+    "estimated_sceneType": "Office",
+    "sceneType": "Office"
+  },
+  {
+    "episode_history": "scannet-v0/144-scannet-scene0700_01",
+    "output": "Office",
+    "estimated_sceneType": "Office",
+    "sceneType": "Office"
+  },
+  {
+    "episode_history": "scannet-v0/145-scannet-scene0193_00",
+    "output": "Based on the presence of a bed, a closet, and a work desk in the same room, this aligns most closely with a \u201cBedroom / Hotel.\u201d",
+    "estimated_sceneType": "Bedroom / Hotel",
+    "sceneType": "Bedroom / Hotel"
+  },
+  {
+    "episode_history": "scannet-v0/146-scannet-scene0518_00",
+    "output": "Based on the presence of a sectional couch, TV (turned off), coffee table, and a work desk all in a common space, this appears to be a living room / lounge.",
+    "estimated_sceneType": "Living room / Lounge",
+    "sceneType": "Living room / Lounge"
+  },
+  {
+    "episode_history": "scannet-v0/147-scannet-scene0699_00",
+    "output": "Based on the presence of a bed, toiletries, desk, and AC unit all in one room, it appears to be a bedroom or hotel room. Therefore, the best fit is \u201cBedroom / Hotel.\u201d",
+    "estimated_sceneType": "Bedroom / Hotel",
+    "sceneType": "Bedroom / Hotel"
+  },
+  {
+    "episode_history": "scannet-v0/148-scannet-scene0203_01",
+    "output": "Based on the presence of a couch, coffee table, bookshelf, and shoe rack\u2014plus the overall layout and d\u00e9cor\u2014the space most closely matches a living room or lounge.",
+    "estimated_sceneType": "Living room / Lounge",
+    "sceneType": "Living room / Lounge"
+  },
+  {
+    "episode_history": "scannet-v0/149-scannet-scene0426_02",
+    "output": "Based on the presence of a bed, a dresser with a TV, and the overall layout of the space described, this room most closely matches a \"Bedroom / Hotel\" category.",
+    "estimated_sceneType": "Bedroom / Hotel",
+    "sceneType": "Bedroom / Hotel"
+  },
+  {
+    "episode_history": "scannet-v0/150-scannet-scene0648_00",
+    "output": "Based on the presence of a bed (with a teddy bear, quilt) and personal items (e.g., a laptop, water bottles, slippers for shower use), the space is most likely a private sleeping area. The best fit is \u201cBedroom / Hotel.\u201d",
+    "estimated_sceneType": "Bedroom / Hotel",
+    "sceneType": "Bedroom / Hotel"
+  },
+  {
+    "episode_history": "scannet-v0/151-scannet-scene0217_00",
+    "output": "Based on details such as the presence of a bed and desk (with little space between them), a mattress, and the fact it appears to be a private room where one might have a roommate elsewhere, this space most closely aligns with \u201cBedroom / Hotel.\u201d",
+    "estimated_sceneType": "Bedroom / Hotel",
+    "sceneType": "Bedroom / Hotel"
+  },
+  {
+    "episode_history": "scannet-v0/152-scannet-scene0494_00",
+    "output": "Based on the presence of a whiteboard, the single table with four chairs tucked underneath, and the laptop ports in the wall, the scene is most consistent with a small conference room.",
+    "estimated_sceneType": "Conference Room",
+    "sceneType": "Conference Room"
+  },
+  {
+    "episode_history": "scannet-v0/154-scannet-scene0193_01",
+    "output": "Based on the presence of a bed, mattress, desk, chair, and window\u2014and the lack of indicators that this is part of a larger apartment or any other specialized space\u2014the setup most closely matches a \u201cBedroom / Hotel\u201d category.",
+    "estimated_sceneType": "Apartment",
+    "sceneType": "Bedroom / Hotel"
+  },
+  {
+    "episode_history": "scannet-v0/155-scannet-scene0164_02",
+    "output": "Based on the presence of a stove with pots and pans, a sink, a fridge, and a coffee machine, it most closely matches a \u201cKitchen.\u201d",
+    "estimated_sceneType": "Kitchen",
+    "sceneType": "Kitchen"
+  },
+  {
+    "episode_history": "scannet-v0/156-scannet-scene0461_00",
+    "output": "Based on the furniture (armchairs, end table) and the context (a place to sit and rest, though not large enough for a party), the space can most reliably be identified as a \u201cLiving room / Lounge.\u201d",
+    "estimated_sceneType": "Living room / Lounge",
+    "sceneType": "Lobby"
+  },
+  {
+    "episode_history": "scannet-v0/157-scannet-scene0015_00",
+    "output": "Based on the presence of chairs suitable for about ten people, a whiteboard with a marker, and recent student usage, the setting aligns most closely with a classroom.",
+    "estimated_sceneType": "Classroom",
+    "sceneType": "Classroom"
+  },
+  {
+    "episode_history": "scannet-v0/158-scannet-scene0356_00",
+    "output": "Based on the details\u2014especially that there is a separate room with a bed frame, multiple doors, and a phone on the wall\u2014it most closely matches a small multi-room living setup rather than just a single bedroom or lounge. The best fit from the list is \u201cApartment.\u201d",
+    "estimated_sceneType": "Living room / Lounge",
+    "sceneType": "Bedroom / Hotel"
+  },
+  {
+    "episode_history": "scannet-v0/160-scannet-scene0488_01",
+    "output": "Based on the information given (stove, sink, dishwasher, refrigerators, etc.), the space is best categorized as a Kitchen.",
+    "estimated_sceneType": "Kitchen",
+    "sceneType": "Kitchen"
+  },
+  {
+    "episode_history": "scannet-v0/161-scannet-scene0583_00",
+    "output": "Based on the references to a shower curtain, bath mat, sink, and faucet\u2014clearly elements of a washroom\u2014the description most closely matches a \u201cBathroom.\u201d",
+    "estimated_sceneType": "Bathroom",
+    "sceneType": "Bathroom"
+  },
+  {
+    "episode_history": "scannet-v0/162-scannet-scene0535_00",
+    "output": "Based on details such as the presence of desks, office supplies (tape dispensers, binder clips), and the fact that it is intended for two people working, this space most closely matches an Office.",
+    "estimated_sceneType": "Office",
+    "sceneType": "Office"
+  },
+  {
+    "episode_history": "scannet-v0/163-scannet-scene0164_03",
+    "output": "Kitchen",
+    "estimated_sceneType": "Kitchen",
+    "sceneType": "Kitchen"
+  },
+  {
+    "episode_history": "scannet-v0/165-scannet-scene0406_00",
+    "output": "Bathroom",
+    "estimated_sceneType": "Bathroom",
+    "sceneType": "Bathroom"
+  },
+  {
+    "episode_history": "scannet-v0/166-scannet-scene0435_03",
+    "output": "Based on the presence of a bed, the capacity to sleep multiple people, and the fact that it is not a private residence, this space most closely aligns with a \u201cBedroom / Hotel.\u201d",
+    "estimated_sceneType": "Bedroom / Hotel",
+    "sceneType": "Bedroom / Hotel"
+  },
+  {
+    "episode_history": "scannet-v0/167-scannet-scene0307_01",
+    "output": "From the mentions of a dedicated shower area (\u201cshowering\u201d) alongside a washer/dryer for laundry, this appears to be a multi\u2011purpose bathroom/laundry combination. Since a functioning shower is part of the room (which is typically a bathroom\u2011specific fixture), \u201cBathroom\u201d is the best single\u2011category fit from the list.",
+    "estimated_sceneType": "Laundry Room",
+    "sceneType": "Storage / Basement / Garage"
+  },
+  {
+    "episode_history": "scannet-v0/168-scannet-scene0655_01",
+    "output": "Based on the information\u2014one table in the center with multiple chairs around it, a whiteboard, and a setup conducive to meetings\u2014the space is most likely a Conference Room.",
+    "estimated_sceneType": "Conference Room",
+    "sceneType": "Conference Room"
+  },
+  {
+    "episode_history": "scannet-v0/169-scannet-scene0695_01",
+    "output": "Based on the mention of a bed in the same room as a desk and the overall layout, it most closely matches a \u201cBedroom / Hotel.\u201d",
+    "estimated_sceneType": "Bedroom / Hotel",
+    "sceneType": "Bedroom / Hotel"
+  },
+  {
+    "episode_history": "scannet-v0/170-scannet-scene0378_01",
+    "output": "Based on the presence of a single work area (desk with monitor and cabinets), a printer/scanner, recycling bin, and a blackboard (often found in academic or technical offices), this space most closely matches an \u201cOffice.\u201d",
+    "estimated_sceneType": "Office",
+    "sceneType": "Office"
+  },
+  {
+    "episode_history": "scannet-v0/171-scannet-scene0222_01",
+    "output": "Based on the presence of a bed, a roommate sleeping, and a desk used to do homework, this appears to be a bedroom or dorm-style setting. The most fitting category is \u201cBedroom / Hotel.\u201d",
+    "estimated_sceneType": "Bedroom / Hotel",
+    "sceneType": "Bedroom / Hotel"
+  },
+  {
+    "episode_history": "scannet-v0/172-scannet-scene0496_00",
+    "output": "Based on the presence of a projector, a pull-down screen, a chalkboard (with an eraser), and multiple rows of chairs for an audience, it appears to be a Classroom.",
+    "estimated_sceneType": "Classroom",
+    "sceneType": "Conference Room"
+  },
+  {
+    "episode_history": "scannet-v0/173-scannet-scene0278_01",
+    "output": "Based on the presence of a printer, boxes of paper, and a paper cutter\u2014typical equipment and supplies for duplicating or mailing\u2014this space most closely aligns with a Copy/Mail Room.",
+    "estimated_sceneType": null,
+    "sceneType": "Copy / Mail Room"
+  },
+  {
+    "episode_history": "scannet-v0/174-scannet-scene0086_01",
+    "output": "Bathroom",
+    "estimated_sceneType": "Bathroom",
+    "sceneType": "Bathroom"
+  },
+  {
+    "episode_history": "scannet-v0/175-scannet-scene0329_01",
+    "output": "Based on the references to writing a message \u201cfor everyone in the office,\u201d the presence of office furniture (cubby shelves, whiteboard), and the use of the word \u201coffice\u201d itself in the answers, the space is best categorized as an Office.",
+    "estimated_sceneType": "Office",
+    "sceneType": "Lobby"
+  },
+  {
+    "episode_history": "scannet-v0/176-scannet-scene0643_00",
+    "output": "Based on the presence of multiple desks with monitors, office equipment (stapler, telephone, calendar), and general work-related items, this space fits best under the \u201cOffice\u201d category.",
+    "estimated_sceneType": "Office",
+    "sceneType": "Office"
+  },
+  {
+    "episode_history": "scannet-v0/177-scannet-scene0608_02",
+    "output": "Based on the items mentioned\u2014a couch, guitar, massage chair, piano, chess board, paintings, and miscellaneous d\u00e9cor\u2014the space is most likely a living room / lounge.",
+    "estimated_sceneType": "Living room / Lounge",
+    "sceneType": "Living room / Lounge"
+  },
+  {
+    "episode_history": "scannet-v0/178-scannet-scene0685_02",
+    "output": "Based on the presence of a large format poster printer, a paper trimmer, multiple bins for paper and waste, and a circuit breaker box, this appears to be a \u201cCopy / Mail Room.\u201d",
+    "estimated_sceneType": "Copy / Mail Room",
+    "sceneType": "Copy / Mail Room"
+  },
+  {
+    "episode_history": "scannet-v0/179-scannet-scene0300_01",
+    "output": "Based on the presence of shelves full of books, the use of a computer catalog to locate a book, and the desk-and-chair setup, it appears to be a library or bookstore setting. Hence, the best match among the given categories is \u201cBookstore / Library.\u201d",
+    "estimated_sceneType": "Bookstore / Library",
+    "sceneType": "Bookstore / Library"
+  },
+  {
+    "episode_history": "scannet-v0/180-scannet-scene0100_02",
+    "output": "It appears to be a \u201cBathroom.\u201d",
+    "estimated_sceneType": "Bathroom",
+    "sceneType": "Bathroom"
+  },
+  {
+    "episode_history": "scannet-v0/181-scannet-scene0314_00",
+    "output": "Based on the details\u2014black leather chairs around a table, a computer and lamp on the table, and the idea of setting up a workspace or study area\u2014the setting most closely fits an office.",
+    "estimated_sceneType": "Office",
+    "sceneType": "Lobby"
+  },
+  {
+    "episode_history": "scannet-v0/182-scannet-scene0645_00",
+    "output": "Based on the two beds, nightstand, lamp, and clock, the space best fits the \u201cBedroom / Hotel\u201d category.",
+    "estimated_sceneType": "Bedroom / Hotel",
+    "sceneType": "Bedroom / Hotel"
+  },
+  {
+    "episode_history": "scannet-v0/183-scannet-scene0231_01",
+    "output": "Based on the desk (where someone can work), the chair in front of it, and the couch (where one can take a nap), along with items like a pen, trash can, medals on the wall, and a lamp, this space most closely fits the description of an Office.",
+    "estimated_sceneType": "Office",
+    "sceneType": "Apartment"
+  },
+  {
+    "episode_history": "scannet-v0/185-scannet-scene0435_00",
+    "output": "Based on the presence of the desk, chair, coffee machine, and suitcase\u2014along with the focus on working at a desk\u2014the space most closely aligns with an office.",
+    "estimated_sceneType": "Office",
+    "sceneType": "Bedroom / Hotel"
+  },
+  {
+    "episode_history": "scannet-v0/186-scannet-scene0549_01",
+    "output": "Based on the furniture (multiple couches and armchairs), d\u00e9cor (flowers and a plant), and the overall function as a place to sit and rest (with accessible outlets), this appears to be a living room / lounge.",
+    "estimated_sceneType": "Living room / Lounge",
+    "sceneType": "Lobby"
+  },
+  {
+    "episode_history": "scannet-v0/187-scannet-scene0655_02",
+    "output": "Based on the presence of a central table with cables for projection, multiple chairs, and a whiteboard for writing, this space most closely matches a Conference Room.",
+    "estimated_sceneType": "Conference Room",
+    "sceneType": "Conference Room"
+  },
+  {
+    "episode_history": "scannet-v0/188-scannet-scene0593_00",
+    "output": "Based on the presence of multiple printers, paper-cutting tools, and the primary purpose of making copies, this space most clearly fits the category \u201cCopy / Mail Room.\u201d",
+    "estimated_sceneType": "Copy / Mail Room",
+    "sceneType": "Living room / Lounge"
+  },
+  {
+    "episode_history": "scannet-v0/189-scannet-scene0500_00",
+    "output": "From the details (rows of chairs, two whiteboards side by side with writing, markers on a shelf, a clock, and no large display or TV), it most closely resembles a classroom.",
+    "estimated_sceneType": "Classroom",
+    "sceneType": "Conference Room"
+  }
+]
