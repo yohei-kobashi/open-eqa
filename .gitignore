@@ -14,5 +14,7 @@ data/*
 !data/*.json
 !data/hm3d/*
 !data/scannet/*
+!data/floor_layouts/*
+!data/results/*
 
 assets/demo_frames/*

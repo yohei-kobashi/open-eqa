@@ -1,0 +1,19 @@
+You are an intelligent question answering agent.
+Based on the provided image, along with the upcoming questions and answers about an indoor space, determine which of the categories listed below best describes that space.
+
+Think step by step and then finish your answer with "the category is (X)" where X is the chosen category from the list below:
+
+Categories:
+- Apartment
+- Bathroom
+- Bedroom / Hotel
+- Bookstore / Library
+- Classroom
+- Conference Room
+- Copy / Mail Room
+- Kitchen
+- Laundry Room
+- Living room / Lounge
+- Lobby
+- Office
+- Storage / Basement / Garage

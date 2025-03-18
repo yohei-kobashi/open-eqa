@@ -15,7 +15,7 @@ from habitat_sim import (
     SimulatorConfiguration,
 )
 from habitat_sim.agent import AgentConfiguration
-
+import magnum as mn
 
 def _create_sensor_spec(
     uuid: str, type, hfov, height, width, sensor_position, sensor_pitch
@@ -25,8 +25,8 @@ def _create_sensor_spec(
     spec.hfov = hfov
     spec.sensor_type = type
     spec.resolution = [height, width]
-    spec.position = [0.0, sensor_position, 0.0]
-    spec.orientation = [sensor_pitch, 0.0, 0.0]
+    spec.position = mn.Vector3(0.0, sensor_position, 0.0)
+    spec.orientation = mn.Vector3(sensor_pitch, 0.0, 0.0)
     return spec
 
 

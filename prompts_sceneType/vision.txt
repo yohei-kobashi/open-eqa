@@ -1,0 +1,21 @@
+You are an intelligent question answering agent.
+Please look at the provided image of an indoor space and guess the category.
+The image is a high-resolution overhead view of a scanned environment, displaying the full floor layout in true-to-scale proportions.
+However, it may exhibit some missing areas and a degree of blurriness, reflecting limitations in the quality of the original rendered data.
+
+Finish your answer with "the category is (X)" where X is the chosen category from the list below:
+
+Categories:
+- Apartment
+- Bathroom
+- Bedroom / Hotel
+- Bookstore / Library
+- Classroom
+- Conference Room
+- Copy/Mail Room
+- Kitchen
+- Laundry Room
+- Living room / Lounge
+- Lobby
+- Office
+- Storage / Basement / Garage
