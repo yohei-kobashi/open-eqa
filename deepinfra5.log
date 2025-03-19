@@ -1,0 +1,32 @@
+found 79 episode histories
+model:deepseek-ai/DeepSeek-V3
+saving 79 answers
+Bookstore / Library [3, 2]
+Office [12, 8]
+Bedroom / Hotel [18, 16]
+Bathroom [8, 7]
+Living room / Lounge [8, 7]
+Apartment [4, 2]
+Conference Room [9, 5]
+Copy / Mail Room [4, 4]
+Kitchen [5, 4]
+Laundry Room [1, 1]
+Storage / Basement / Garage [2, 1]
+Lobby [4, 0]
+Classroom [1, 1]
+found 79 episode histories
+model:meta-llama/Llama-3.2-90B-Vision-Instruct
+saving 79 answers
+Bookstore / Library [3, 2]
+Office [12, 7]
+Bedroom / Hotel [18, 16]
+Bathroom [8, 6]
+Living room / Lounge [8, 7]
+Apartment [4, 1]
+Conference Room [9, 5]
+Copy / Mail Room [4, 1]
+Kitchen [5, 4]
+Laundry Room [1, 1]
+Storage / Basement / Garage [2, 0]
+Lobby [4, 0]
+Classroom [1, 1]

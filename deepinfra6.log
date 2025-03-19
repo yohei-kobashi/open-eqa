@@ -1,0 +1,32 @@
+found 79 episode histories
+model:google/gemma-3-27b-it
+saving 79 answers
+Bookstore / Library [3, 2]
+Office [12, 8]
+Bedroom / Hotel [18, 18]
+Bathroom [8, 7]
+Living room / Lounge [8, 7]
+Apartment [4, 2]
+Conference Room [9, 4]
+Copy / Mail Room [4, 3]
+Kitchen [5, 4]
+Laundry Room [1, 1]
+Storage / Basement / Garage [2, 0]
+Lobby [4, 0]
+Classroom [1, 1]
+found 79 episode histories
+model:google/gemma-3-27b-it
+saving 79 answers
+Bookstore / Library [3, 2]
+Office [12, 10]
+Bedroom / Hotel [18, 17]
+Bathroom [8, 7]
+Living room / Lounge [8, 7]
+Apartment [4, 1]
+Conference Room [9, 4]
+Copy / Mail Room [4, 3]
+Kitchen [5, 4]
+Laundry Room [1, 1]
+Storage / Basement / Garage [2, 0]
+Lobby [4, 0]
+Classroom [1, 1]

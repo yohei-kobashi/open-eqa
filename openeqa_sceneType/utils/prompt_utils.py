@@ -11,6 +11,7 @@ PROMPT_NAME_TO_PATH = {
     "blind": DEFAULT_DATA_DIR / Path("blind.txt"),
     "blind_not_step_by_step": DEFAULT_DATA_DIR / Path("blind_not_step_by_step.txt"),
     "vision": DEFAULT_DATA_DIR / Path("vision.txt"),
+    "vision_not_step_by_step": DEFAULT_DATA_DIR / Path("vision_not_step_by_step.txt"),
     "vision_and_text_prefix": DEFAULT_DATA_DIR / Path("vision_and_text_prefix.txt"),
     "vision_and_text_prefix_not_step_by_step": DEFAULT_DATA_DIR / Path("vision_and_text_prefix_not_step_by_step.txt"),
     "vision_and_text_suffix": DEFAULT_DATA_DIR / Path("vision_and_text_suffix.txt"),

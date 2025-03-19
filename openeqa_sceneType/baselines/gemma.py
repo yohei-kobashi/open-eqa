@@ -15,7 +15,7 @@ import numpy as np
 
 import tqdm
 
-from openeqa_sceneType.utils.openai_utils import (
+from openeqa_sceneType.utils.google_utils import (
     call_openai_api,
     prepare_openai_messages,
     prepare_openai_vision_messages,
@@ -54,8 +54,8 @@ def parse_args() -> argparse.Namespace:
     parser.add_argument(
         "--layouts-directory",
         type=str,
-        default="data/frames/",
-        help="path image layouts (default: data/frames/)",
+        default="data/floor_layouts/",
+        help="path image layouts (default: data/floor_layouts/)",
     )
     parser.add_argument(
         "--num-layouts",
@@ -168,10 +168,7 @@ def ask_category(
                 suffix = load_prompt("vision_and_text_suffix")
                 suffix = suffix.format(questions_and_answers=questions_and_answers)            
             else:
-                if "not_step_by_step" in prompt:
-                    prefix = load_prompt("vision_not_step_by_step")
-                else:
-                    prefix = load_prompt("vision")
+                prefix = load_prompt("vision")
 
             messages = prepare_openai_vision_messages(
                 prefix=prefix, suffix=suffix, image_paths=image_paths, image_size=image_size
@@ -237,7 +234,7 @@ def main(args: argparse.Namespace):
             # layouts = sorted(folder.glob("*-rgb.png"))
             # indices = np.round(np.linspace(0, len(layouts) - 1, args.num_layouts)).astype(int)
             # paths = [str(layouts[i]) for i in indices]
-            paths = [os.path.join(args.layouts_directory, f"{episode_history}/000000-rgb.png")]
+            paths = [os.path.join(args.layouts_directory, f"{episode_history}.png")]
 
         # get Q&A
         questions_and_answers = []

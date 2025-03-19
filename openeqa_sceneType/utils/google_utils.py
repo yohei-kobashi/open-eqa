@@ -7,16 +7,11 @@ import os
 import traceback
 from typing import Any, List, Optional, Union
 
-import google.generativeai as genai
+import google as genai
+from google.genai import types
 from PIL.Image import Image
 from tenacity import retry, stop_after_attempt, wait_random_exponential
 
-
-def set_google_key(key: Optional[str] = None) -> None:
-    if key is None:
-        assert "GOOGLE_API_KEY" in os.environ
-        key = os.environ["GOOGLE_API_KEY"]
-    genai.configure(api_key=key)
 
 
 @retry(wait=wait_random_exponential(min=1, max=60), stop=stop_after_attempt(6))
@@ -25,9 +20,23 @@ def call_google_api(
     model: str = "gemini-pro",  # gemini-pro, gemini-pro-vision
 ) -> str:
     try:
-        model = genai.GenerativeModel(model)
-        response = model.generate_content(message)
-        response.resolve()
+        assert "GOOGLE_API_KEY" in os.environ
+        client = genai.Client(api_key=os.environ["GOOGLE_API_KEY"])
+        response = client.models.generate_content(
+            model=model,
+            contents=types.Part.from_text(text='Why is the sky blue?'),
+            config=types.GenerateContentConfig(
+                temperature=0,
+                top_p=0.95,
+                top_k=20,
+                candidate_count=1,
+                seed=5,
+                max_output_tokens=100,
+                stop_sequences=['STOP!'],
+                presence_penalty=0.0,
+                frequency_penalty=0.0,
+            ),
+        )
         return response.text
     except Exception as e:
         print(f"{type(e).__name__}: {e}")
@@ -35,7 +44,6 @@ def call_google_api(
 
 
 if __name__ == "__main__":
-    set_google_key(key=None)
 
     input = "What color are apples?"
     print("input: {}".format(input))
