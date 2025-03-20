@@ -16,14 +16,13 @@ import numpy as np
 import tqdm
 
 from openeqa_sceneType.utils.openai_utils import (
-    call_openai_api,
     prepare_openai_messages,
     prepare_openai_vision_messages,
-    set_deepinfra_key,
 )
 from openeqa_sceneType.utils.prompt_utils import load_prompt
 from openeqa_sceneType.utils.scene_types import open_ai_scene_types
 
+def
 
 def parse_args() -> argparse.Namespace:
     parser = argparse.ArgumentParser()
