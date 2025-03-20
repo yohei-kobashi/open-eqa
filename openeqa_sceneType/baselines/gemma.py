@@ -16,10 +16,9 @@ import numpy as np
 import tqdm
 
 from openeqa_sceneType.utils.google_utils import (
-    call_openai_api,
-    prepare_openai_messages,
-    prepare_openai_vision_messages,
-    set_deepinfra_key,
+    call_google_api,
+    prepare_google_messages,
+    prepare_google_vision_messages,
 )
 from openeqa_sceneType.utils.prompt_utils import load_prompt
 from openeqa_sceneType.utils.scene_types import open_ai_scene_types
@@ -125,28 +124,9 @@ def ask_category(
     questions_and_answers: str,
     openai_key: Optional[str] = None,
     openai_model: Literal[
-        "meta-llama/Meta-Llama-3-8B-Instruct",
-        "meta-llama/Llama-3.2-1B-Instruct",
-        "meta-llama/Llama-3.2-3B-Instruct",
-        "meta-llama/Meta-Llama-3.1-8B-Instruct",
-        "meta-llama/Llama-3.3-70B-Instruct",
-        "meta-llama/Meta-Llama-3.1-405B-Instruct",
-        "meta-llama/Llama-3.2-11B-Vision-Instruct",
-        "meta-llama/Llama-3.2-90B-Vision-Instruct",
-        "google/gemma-2-9b-it",
-        "google/gemma-2-27b-it",
         "google/gemma-3-27b-it",
-        "microsoft/phi-4",
-        "microsoft/Phi-4-multimodal-instruct",
-        "Qwen/QwQ-32B-Preview",
-        "Qwen/Qwen2.5-7B-Instruct",
-        "Qwen/Qwen2.5-72B-Instruct",
-        "deepseek-ai/DeepSeek-R1",
-        "deepseek-ai/DeepSeek-V3",
-        "deepseek-ai/Janus-Pro-1B",
-        "deepseek-ai/Janus-Pro-7B",
         
-    ] = "meta-llama/Llama-3.3-70B-Instruct",
+    ] = "models/gemma-3-27b-it",
     openai_seed: int = 1234,
     openai_max_tokens: int = 128,
     openai_temperature: float = 0.2,
@@ -156,8 +136,6 @@ def ask_category(
     image_size: int = None,
 ) -> Optional[str]:
     try:
-        set_deepinfra_key(key=openai_key)
-
         if "vision" in prompt:
             suffix = None
             if "text" in prompt:
@@ -168,16 +146,19 @@ def ask_category(
                 suffix = load_prompt("vision_and_text_suffix")
                 suffix = suffix.format(questions_and_answers=questions_and_answers)            
             else:
-                prefix = load_prompt("vision")
+                if "not_step_by_step" in prompt:
+                    prefix = load_prompt("vision_not_step_by_step")
+                else:
+                    prefix = load_prompt("vision")
 
-            messages = prepare_openai_vision_messages(
+            messages = prepare_google_vision_messages(
                 prefix=prefix, suffix=suffix, image_paths=image_paths, image_size=image_size
             )
         else:
             prompt = load_prompt(prompt)
-            messages = prepare_openai_messages(prompt.format(questions_and_answers=questions_and_answers))
+            messages = prepare_google_messages(prompt.format(questions_and_answers=questions_and_answers))
 
-        output = call_openai_api(
+        output = call_google_api(
             messages=messages,
             model=openai_model,
             seed=openai_seed,

@@ -34,13 +34,17 @@
 # python -m openeqa_sceneType.baselines.deepinfra --model meta-llama/Llama-3.2-11B-Vision-Instruct --prompt blind_not_step_by_step
 # python -m openeqa_sceneType.baselines.deepinfra --model meta-llama/Llama-3.2-11B-Vision-Instruct --prompt vision
 # python -m openeqa_sceneType.baselines.deepinfra --model meta-llama/Llama-3.2-11B-Vision-Instruct --prompt vision_not_step_by_step
-python -m openeqa_sceneType.baselines.deepinfra --model meta-llama/Llama-3.2-11B-Vision-Instruct --prompt vision_and_text
-python -m openeqa_sceneType.baselines.deepinfra --model meta-llama/Llama-3.2-11B-Vision-Instruct --prompt vision_and_text_not_step_by_step
+# python -m openeqa_sceneType.baselines.deepinfra --model meta-llama/Llama-3.2-11B-Vision-Instruct --prompt vision_and_text
+# python -m openeqa_sceneType.baselines.deepinfra --model meta-llama/Llama-3.2-11B-Vision-Instruct --prompt vision_and_text_not_step_by_step
 # python -m openeqa_sceneType.baselines.deepinfra --model meta-llama/Llama-3.2-90B-Vision-Instruct
 # python -m openeqa_sceneType.baselines.deepinfra --model meta-llama/Llama-3.2-90B-Vision-Instruct --prompt blind_not_step_by_step
 # python -m openeqa_sceneType.baselines.deepinfra --model meta-llama/Llama-3.2-90B-Vision-Instruct --prompt vision
 # python -m openeqa_sceneType.baselines.deepinfra --model meta-llama/Llama-3.2-90B-Vision-Instruct --prompt vision_not_step_by_step
-python -m openeqa_sceneType.baselines.deepinfra --model meta-llama/Llama-3.2-90B-Vision-Instruct --prompt vision_and_text
-python -m openeqa_sceneType.baselines.deepinfra --model meta-llama/Llama-3.2-90B-Vision-Instruct --prompt vision_and_text_not_step_by_step
+# python -m openeqa_sceneType.baselines.deepinfra --model meta-llama/Llama-3.2-90B-Vision-Instruct --prompt vision_and_text
+# python -m openeqa_sceneType.baselines.deepinfra --model meta-llama/Llama-3.2-90B-Vision-Instruct --prompt vision_and_text_not_step_by_step
 # python -m openeqa_sceneType.baselines.deepinfra --model microsoft/Phi-4-multimodal-instruct
 # python -m openeqa_sceneType.baselines.deepinfra --model microsoft/Phi-4-multimodal-instruct --prompt blind_not_step_by_step
+# python -m openeqa_sceneType.baselines.deepinfra --model microsoft/Phi-4-multimodal-instruct --prompt vision
+# python -m openeqa_sceneType.baselines.deepinfra --model microsoft/Phi-4-multimodal-instruct --prompt vision_not_step_by_step
+# python -m openeqa_sceneType.baselines.deepinfra --model microsoft/Phi-4-multimodal-instruct --prompt vision_and_text
+# python -m openeqa_sceneType.baselines.deepinfra --model microsoft/Phi-4-multimodal-instruct --prompt vision_and_text_not_step_by_step

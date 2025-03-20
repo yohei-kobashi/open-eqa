@@ -9,32 +9,65 @@ from typing import Any, List, Optional, Union
 
 import google as genai
 from google.genai import types
-from PIL.Image import Image
+import PIL.Image
 from tenacity import retry, stop_after_attempt, wait_random_exponential
 
+def prepare_google_messages(content: str, reasoning: bool = False):
+    messages = []
+    messages.append(content)
+    return messages
+
+def prepare_google_vision_messages(
+    prefix: Optional[str] = None,
+    suffix: Optional[str] = None,
+    image_paths: Optional[List[str]] = None,
+    image_size: Optional[int] = 512,
+):
+    messages = []
+   
+    if image_paths is None:
+        image_paths = []
+
+    for path in image_paths:
+        frame = PIL.Image.open(path)
+        if image_size:
+            factor = image_size / max(frame.size)  # Pillowは(width, height)なのでmaxを取る
+            new_size = (int(frame.width * factor), int(frame.height * factor))
+            frame = frame.resize(new_size, PIL.Image.LANCZOS)
+        messages.append(frame)
+
+    text = []
+    if prefix:
+        text.append(prefix)
+    if suffix:
+        text.append(suffix)
+    
+    text = "\n\n".join(text)
+
+    messages.append(text)
+
+    return messages
 
 
 @retry(wait=wait_random_exponential(min=1, max=60), stop=stop_after_attempt(6))
 def call_google_api(
-    message: Union[str, List[Union[Any, Image]]],
-    model: str = "gemini-pro",  # gemini-pro, gemini-pro-vision
+    messages: List,
+    model: str = "gemini-pro",
+    seed: Optional[int] = None,
+    max_tokens: int = 32,
+    temperature: float = 0.2,
+    verbose: bool = False,
 ) -> str:
     try:
         assert "GOOGLE_API_KEY" in os.environ
         client = genai.Client(api_key=os.environ["GOOGLE_API_KEY"])
         response = client.models.generate_content(
             model=model,
-            contents=types.Part.from_text(text='Why is the sky blue?'),
+            contents=messages,
             config=types.GenerateContentConfig(
-                temperature=0,
-                top_p=0.95,
-                top_k=20,
-                candidate_count=1,
-                seed=5,
-                max_output_tokens=100,
-                stop_sequences=['STOP!'],
-                presence_penalty=0.0,
-                frequency_penalty=0.0,
+                temperature=temperature,
+                seed=seed,
+                max_output_tokens=max_tokens,
             ),
         )
         return response.text
