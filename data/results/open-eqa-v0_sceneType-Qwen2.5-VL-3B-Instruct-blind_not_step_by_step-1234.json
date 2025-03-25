@@ -1,0 +1,50 @@
+[
+  {
+    "episode_history": "scannet-v0/100-scannet-scene0598_00",
+    "output": "{\"id\":\"chatcmpl-d7b27d39fa4e4f89af777ada72f973ba\",\"object\":\"chat.completion\",\"created\":1742488928,\"model\":\"u1x6o4zwi182\",\"choices\":[{\"index\":0,\"message\":{\"role\":\"assistant\",\"reasoning_content\":null,\"content\":\"Based on the questions and\",\"tool_calls\":[]},\"logprobs\":null,\"finish_reason\":\"stop\",\"stop_reason\":null}],\"usage\":{\"prompt_tokens\":375,\"total_tokens\":381,\"completion_tokens\":6,\"prompt_tokens_details\":null},\"prompt_logprobs\":null}",
+    "estimated_sceneType": null,
+    "sceneType": "Bookstore / Library"
+  },
+  {
+    "episode_history": "scannet-v0/101-scannet-scene0256_00",
+    "output": "{\"id\":\"chatcmpl-f4387d9acac641fe9027362f8eb64c90\",\"object\":\"chat.completion\",\"created\":1742488929,\"model\":\"u1x6o4zwi182\",\"choices\":[{\"index\":0,\"message\":{\"role\":\"assistant\",\"reasoning_content\":null,\"content\":\"Based on the questions and answers provided, the indoor space being described is most likely\",\"tool_calls\":[]},\"logprobs\":null,\"finish_reason\":\"stop\",\"stop_reason\":null}],\"usage\":{\"prompt_tokens\":360,\"total_tokens\":377,\"completion_tokens\":17,\"prompt_tokens_details\":null},\"prompt_logprobs\":null}",
+    "estimated_sceneType": null,
+    "sceneType": "Office"
+  },
+  {
+    "episode_history": "scannet-v0/102-scannet-scene0222_00",
+    "output": "{\"id\":\"chatcmpl-51912f66b93b4f3585350bb1695421c0\",\"object\":\"chat.completion\",\"created\":1742488929,\"model\":\"u1x6o4zwi182\",\"choices\":[{\"index\":0,\"message\":{\"role\":\"assistant\",\"reasoning_content\":null,\"content\":\"Based on the questions and answers, the indoor\",\"tool_calls\":[]},\"logprobs\":null,\"finish_reason\":\"stop\",\"stop_reason\":null}],\"usage\":{\"prompt_tokens\":341,\"total_tokens\":351,\"completion_tokens\":10,\"prompt_tokens_details\":null},\"prompt_logprobs\":null}",
+    "estimated_sceneType": null,
+    "sceneType": "Bedroom / Hotel"
+  },
+  {
+    "episode_history": "scannet-v0/103-scannet-scene0527_00",
+    "output": "{\"id\":\"chatcmpl-134ccec1d1a9458992e695921ce5c9fb\",\"object\":\"chat.completion\",\"created\":1742488930,\"model\":\"u1x6o4zwi182\",\"choices\":[{\"index\":0,\"message\":{\"role\":\"assistant\",\"reasoning_content\":null,\"content\":\"Based on the questions and\",\"tool_calls\":[]},\"logprobs\":null,\"finish_reason\":\"stop\",\"stop_reason\":null}],\"usage\":{\"prompt_tokens\":356,\"total_tokens\":362,\"completion_tokens\":6,\"prompt_tokens_details\":null},\"prompt_logprobs\":null}",
+    "estimated_sceneType": null,
+    "sceneType": "Bathroom"
+  },
+  {
+    "episode_history": "scannet-v0/104-scannet-scene0616_01",
+    "output": "{\"id\":\"chatcmpl-b59fd1f820e04ccdace8e1b9a61f7cab\",\"object\":\"chat.completion\",\"created\":1742488930,\"model\":\"u1x6o4zwi182\",\"choices\":[{\"index\":0,\"message\":{\"role\":\"assistant\",\"reasoning_content\":null,\"content\":\"Based on the given questions and answers, the indoor\",\"tool_calls\":[]},\"logprobs\":null,\"finish_reason\":\"stop\",\"stop_reason\":null}],\"usage\":{\"prompt_tokens\":334,\"total_tokens\":345,\"completion_tokens\":11,\"prompt_tokens_details\":null},\"prompt_logprobs\":null}",
+    "estimated_sceneType": null,
+    "sceneType": "Living room / Lounge"
+  },
+  {
+    "episode_history": "scannet-v0/105-scannet-scene0207_01",
+    "output": "{\"id\":\"chatcmpl-d91c883d94da48b9a42194797d073545\",\"object\":\"chat.completion\",\"created\":1742488930,\"model\":\"u1x6o4zwi182\",\"choices\":[{\"index\":0,\"message\":{\"role\":\"assistant\",\"reasoning_content\":null,\"content\":\"Based on the provided questions and answers, the space being described is most likely\",\"tool_calls\":[]},\"logprobs\":null,\"finish_reason\":\"stop\",\"stop_reason\":null}],\"usage\":{\"prompt_tokens\":328,\"total_tokens\":344,\"completion_tokens\":16,\"prompt_tokens_details\":null},\"prompt_logprobs\":null}",
+    "estimated_sceneType": null,
+    "sceneType": "Apartment"
+  },
+  {
+    "episode_history": "scannet-v0/106-scannet-scene0633_00",
+    "output": "{\"id\":\"chatcmpl-f21fae55e7fe4555bde46fc2c5409d4e\",\"object\":\"chat.completion\",\"created\":1742488931,\"model\":\"u1x6o4zwi182\",\"choices\":[{\"index\":0,\"message\":{\"role\":\"assistant\",\"reasoning_content\":null,\"content\":\"Based on the questions and answers provided, the space is\",\"tool_calls\":[]},\"logprobs\":null,\"finish_reason\":\"stop\",\"stop_reason\":null}],\"usage\":{\"prompt_tokens\":336,\"total_tokens\":348,\"completion_tokens\":12,\"prompt_tokens_details\":null},\"prompt_logprobs\":null}",
+    "estimated_sceneType": null,
+    "sceneType": "Bedroom / Hotel"
+  },
+  {
+    "episode_history": "scannet-v0/108-scannet-scene0354_00",
+    "output": "{\"id\":\"chatcmpl-a3c246157394466786c6dd9da04c377b\",\"object\":\"chat.completion\",\"created\":1742488931,\"model\":\"u1x6o4zwi182\",\"choices\":[{\"index\":0,\"message\":{\"role\":\"assistant\",\"reasoning_content\":null,\"content\":\"Based on the questions and answers provided, the space is\",\"tool_calls\":[]},\"logprobs\":null,\"finish_reason\":\"stop\",\"stop_reason\":null}],\"usage\":{\"prompt_tokens\":348,\"total_tokens\":360,\"completion_tokens\":12,\"prompt_tokens_details\":null},\"prompt_logprobs\":null}",
+    "estimated_sceneType": null,
+    "sceneType": "Conference Room"
+  }
+]

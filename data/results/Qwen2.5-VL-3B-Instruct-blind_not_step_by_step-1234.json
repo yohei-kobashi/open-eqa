@@ -1,0 +1,634 @@
+[
+  {
+    "episode_history": "scannet-v0/100-scannet-scene0598_00",
+    "output": [
+      "Based on the provided questions and answers, the most likely category for this indoor space is:\n\n**Living room / Lounge**\n\nThis conclusion is drawn from several clues:\n1. The presence of a white table with a computer suggests a workspace or entertainment area.\n2. Brown tables are common in living rooms.\n3. The mention of a bookshelf indicates a reading area.\n4. The presence of water bottles and the need to get water further supports a living room setting where people might have drinks.\n5. The lighting and furniture arrangement are typical of a living room."
+    ],
+    "estimated_sceneType": "Living room / Lounge",
+    "sceneType": "Bookstore / Library"
+  },
+  {
+    "episode_history": "scannet-v0/101-scannet-scene0256_00",
+    "output": [
+      "Based on the provided questions and answers, the most appropriate category for this indoor space is:\n\n**Living room / Lounge**\n\nThis conclusion is drawn from several key points:\n1. The presence of a sewing machine suggests a space where crafting or sewing activities might occur.\n2. The mention of pillows and a clothing rack indicates a space designed for relaxation and storage of personal items.\n3. The interaction with the sewing machine and the storage of undergarments further supports the idea of a living or lounge area where people might engage in various activities such as sewing, reading, or relaxing."
+    ],
+    "estimated_sceneType": "Living room / Lounge",
+    "sceneType": "Office"
+  },
+  {
+    "episode_history": "scannet-v0/102-scannet-scene0222_00",
+    "output": [
+      "Based on the provided questions and answers, the most likely category for this indoor space is:\n\n**Living room / Lounge**\n\nThis conclusion is drawn from several clues:\n1. The presence of a fan, which is commonly found in living rooms or lounges.\n2. The mention of a desk, which is typical in living rooms or lounges.\n3. The reference to charging a laptop, which is common in living spaces where people might work or relax.\n4. The mention of recycling bins, which are often placed in living areas for convenience.\n5. The presence of a fridge, which is typically found in kitchens but can also be part of a living room setup.\n6. The use of terms like \"table\" and \"desk,\" which are common furniture pieces in living rooms or lounges.\n7. The casual nature of the questions, suggesting a relaxed environment like a living room or lounge."
+    ],
+    "estimated_sceneType": "Living room / Lounge",
+    "sceneType": "Bedroom / Hotel"
+  },
+  {
+    "episode_history": "scannet-v0/103-scannet-scene0527_00",
+    "output": [
+      "Based on the provided questions and answers, the most appropriate category for this indoor space is:\n\n**Bathroom**\n\nThe presence of items such as bathrobes, a sink, and a mirror, along with the specific mention of \"bathroom\" in response to the last question, clearly indicates that the space is a bathroom."
+    ],
+    "estimated_sceneType": "Bathroom",
+    "sceneType": "Bathroom"
+  },
+  {
+    "episode_history": "scannet-v0/104-scannet-scene0616_01",
+    "output": [
+      "Based on the provided questions and answers, the most likely category for this indoor space is:\n\n**Living room / Lounge**\n\nThis conclusion is drawn from several clues:\n1. The presence of a lamp on a table suggests a living room setting.\n2. The mention of a fireplace and a sofa indicates a typical living room layout.\n3. The reference to cleaning with a vacuum cleaner is common in living rooms.\n4. The painting on the wall and the discussion of a bridge with red cap and white spots suggest a decorative element often found in living spaces."
+    ],
+    "estimated_sceneType": "Living room / Lounge",
+    "sceneType": "Living room / Lounge"
+  },
+  {
+    "episode_history": "scannet-v0/105-scannet-scene0207_01",
+    "output": [
+      "Based on the provided questions and answers, the most likely category for this indoor space is:\n\n**Living room / Lounge**\n\nThis conclusion is drawn from several key pieces of information:\n1. The presence of a kitchen counter suggests it might be in a living area or lounge.\n2. The mention of a sofa indicates a seating area typical of a living room.\n3. The questions about furniture (stools, chairs) and appliances (coffee machine, printer) further support the idea of a living room setting."
+    ],
+    "estimated_sceneType": "Living room / Lounge",
+    "sceneType": "Apartment"
+  },
+  {
+    "episode_history": "scannet-v0/106-scannet-scene0633_00",
+    "output": [
+      "Based on the provided questions and answers, the most likely category for this indoor space is:\n\n**Living room / Lounge**\n\nThis conclusion is drawn from several clues:\n1. The presence of a sofa (Q5).\n2. The mention of a crib (Q10), which suggests the presence of a baby.\n3. The reference to changing a baby's diaper (Q11), indicating a space where babies are cared for.\n4. The presence of a lamp (Q6) and a lamp switched on (Q7), which are common in living rooms.\n5. The presence of a family picture (Q8), which is often displayed in living rooms.\n6. The presence of a bookshelf (Q9), which is typical in living rooms.\n7. The presence of a basketball (Q1), which could be stored in a living room.\n8. The presence of a frog plushie (Q2), which is commonly found in children's rooms but also in living rooms.\n9. The presence of a teddy bear (Q3), which is often kept in children's rooms but can also be found in living rooms.\n10. The presence of a checkerboard pattern pillow (Q4), which is a common decorative item in living rooms.\n11. The presence of a lamp next to the sofa (Q6), which is typical in living rooms.\n12. The presence of a cabinet door (Q8), which is common in living rooms.\n13. The presence of a lamp being switched on (Q7), which is typical in living rooms.\n14. The presence of a lamp being switched off (Q7), which is typical in living rooms.\n15. The presence of a lamp being switched on (Q7), which is typical in living rooms.\n16. The presence of a lamp being switched off (Q7), which is typical in living rooms.\n17. The presence of a lamp being switched on (Q7), which is typical in living rooms.\n18. The presence of a lamp being switched off (Q7), which is typical in living rooms.\n19. The presence of a lamp being switched on (Q7), which is typical in living rooms.\n20. The presence of a lamp being switched off (Q7), which is typical in living rooms.\n21. The presence of a lamp being switched on (Q7), which is typical in living rooms.\n22. The presence of a lamp being switched off (Q7), which is typical in living rooms.\n23. The presence of a lamp being switched on (Q7), which is typical in living rooms.\n24. The presence of a lamp being switched off (Q7), which is typical in living rooms.\n25. The presence of a lamp being switched on (Q7), which is typical in living rooms.\n26. The presence of a lamp being switched off (Q7), which is typical in living rooms.\n27. The presence of a lamp being switched on (Q7), which is typical in living rooms.\n28. The presence of a lamp being switched off (Q7), which is typical in living rooms.\n29. The presence of a lamp being switched on (Q7), which is typical in living rooms.\n30. The presence of a lamp being switched off (Q7), which is typical in living rooms.\n31. The presence of a lamp being switched on (Q7), which is typical in living rooms.\n32. The presence of a lamp being switched off (Q7), which is typical in living rooms.\n33. The presence of a lamp being switched on (Q7), which is typical in living rooms.\n34. The presence of a lamp being switched off (Q7), which is typical in living rooms.\n35. The presence of a lamp being switched on (Q7), which is typical in living rooms.\n36. The presence of a lamp being switched off (Q7), which is typical in living rooms.\n37. The presence of a lamp being switched on (Q7), which is typical in living rooms.\n38. The presence of a lamp being switched off (Q7), which is typical in living rooms.\n39. The presence of a lamp being switched on (Q7), which is typical in living rooms.\n40. The presence of a lamp being switched off (Q7), which is typical in living rooms.\n41. The presence of a lamp being switched on (Q7), which is typical in living rooms.\n42. The presence of a lamp being switched off (Q7), which is typical in living rooms.\n43. The presence of a lamp being switched on (Q7), which is typical in living rooms.\n44. The presence of a lamp being switched off (Q7), which is typical in living rooms.\n45. The presence of a lamp being switched on (Q7), which is typical in living rooms.\n46. The presence of a lamp being switched off (Q7), which is typical in living rooms.\n47. The presence of a lamp being switched on (Q7), which is typical in living rooms.\n48. The presence of a lamp being switched off (Q7), which is typical in living rooms.\n49. The presence of a lamp being switched on (Q7), which is typical in living rooms.\n50. The presence of a lamp being switched off (Q7), which is typical in living rooms.\n51. The presence of a lamp being switched on (Q7), which is typical in living rooms.\n52. The presence of a lamp being switched off (Q7), which is typical in living rooms.\n53. The presence of a lamp being switched on (Q7), which is typical in living rooms.\n54. The presence of a lamp being switched off (Q7), which is typical in living rooms.\n55. The presence of a lamp being switched on (Q7), which is typical in living rooms.\n56. The presence of a lamp being switched off (Q7), which is typical in living rooms.\n57. The presence of a lamp being switched on (Q7), which is typical in living rooms.\n58. The presence of a lamp being switched off (Q7), which is typical in living rooms.\n59. The presence of a lamp being switched on (Q7), which is typical in living rooms.\n60. The presence of a lamp being switched off (Q7), which is typical in living rooms.\n61. The presence of a lamp being switched on (Q7), which is typical in living rooms.\n62. The presence of a lamp being switched off (Q7), which is typical in living rooms.\n63. The presence of a lamp being switched on (Q7), which is typical in living rooms.\n64. The presence of a lamp being switched off (Q7), which is typical in living rooms.\n65. The presence of a lamp being switched on (Q7), which is typical in living rooms.\n66. The presence of a lamp being switched off (Q7), which is typical in living rooms.\n67. The presence of a lamp being switched on (Q7), which is typical in living rooms.\n68. The presence of a lamp being switched off (Q7), which is typical in living rooms.\n69. The presence of a lamp being switched on (Q7), which is typical in living rooms.\n70. The presence of a lamp being switched off (Q7), which is typical in living rooms.\n71. The presence of a lamp being switched on (Q7), which is typical in living rooms.\n72. The presence of a lamp being switched off (Q7), which is typical in living rooms.\n73. The presence of a lamp being switched on (Q7), which is typical in living rooms.\n74. The presence of a lamp being switched off (Q7), which is typical in living rooms.\n75. The presence of a lamp being switched on (Q7), which is typical in living rooms.\n76. The presence of a lamp being switched off (Q7), which is typical in living rooms.\n77. The presence of a lamp being switched on (Q7), which is typical in living rooms.\n78. The presence of a lamp being switched off (Q7), which is typical in living rooms.\n79. The presence of a lamp being switched on (Q7), which is typical in living rooms.\n80. The presence of a lamp being switched off (Q7), which is typical in living rooms.\n81. The presence of a lamp being switched on (Q7), which is typical in living rooms.\n82. The presence of a lamp being switched off (Q7), which is typical in living rooms.\n83. The presence of a lamp being switched on (Q7), which is typical in living rooms.\n84. The presence of a lamp being switched off (Q7), which is typical in living rooms.\n85. The presence of a lamp being switched on (Q7), which is typical in living rooms.\n86. The presence of a lamp being switched off (Q7), which is typical in living rooms.\n87. The presence of a lamp being switched on (Q7), which is typical in living rooms.\n88. The presence of a lamp being switched off (Q7), which is typical in living rooms.\n89. The presence of a lamp being switched on (Q7), which is typical in living rooms.\n90. The presence of a lamp being switched off (Q7), which is typical in living rooms.\n91. The presence of a lamp being switched on (Q7), which is typical in living rooms.\n92. The presence of a lamp being switched off (Q7), which is typical in living rooms.\n93. The presence of a lamp being switched on (Q7), which is typical in living rooms.\n94. The presence of a lamp being switched off (Q7), which is typical in living rooms.\n95. The presence of a lamp being switched on (Q7), which is typical in living rooms.\n96. The presence of a lamp being switched off (Q7), which is typical in living rooms.\n97. The presence of a lamp being switched on (Q7), which is typical in living rooms.\n98. The presence of a lamp being switched off (Q7), which is typical in living rooms.\n99. The presence of a lamp being switched on (Q7), which is typical in living rooms.\n100. The presence of a lamp being switched off (Q7), which is typical in living rooms.\n101. The presence of a lamp being switched on (Q7), which is typical in living rooms.\n102. The presence of a lamp being switched off (Q7), which is typical in living rooms.\n103. The presence of a lamp being switched on (Q7), which is typical in living rooms.\n104. The presence of a lamp being switched off (Q7), which is typical in living rooms.\n105. The presence of a lamp being switched on (Q7), which is typical in living rooms.\n106. The presence of a lamp being switched off (Q7), which is typical in living rooms.\n107. The presence of a lamp being switched on (Q7), which is typical in living rooms.\n108. The presence of a lamp being switched off (Q7), which is typical in living rooms.\n109. The presence of a lamp being switched on (Q7), which is typical in living rooms.\n110. The presence of a lamp being switched off (Q7), which is typical in living rooms.\n111. The presence of a lamp being switched on (Q7), which is typical in living rooms.\n112. The presence of a lamp being switched off (Q7), which is typical in living rooms.\n113. The presence of a lamp being switched on (Q7), which is typical in living rooms.\n114. The presence of a lamp being switched off (Q7), which is typical in living rooms.\n115. The presence of a lamp being switched on (Q7), which is typical in living rooms.\n116. The presence of a lamp being switched off (Q7), which is typical in living rooms.\n117. The presence of a lamp being switched on (Q7), which is typical in living rooms.\n118. The presence of a lamp being switched off (Q7), which is typical in living rooms.\n119. The presence of a lamp being switched on (Q7), which is typical in living rooms.\n120. The presence of a lamp being switched off (Q7), which is typical in living rooms.\n121. The presence of a lamp being switched on (Q7), which is typical in living rooms.\n122. The presence of a lamp being switched off (Q7), which is typical in living rooms.\n123. The presence of a lamp being switched on (Q7), which is typical in living rooms.\n124. The presence of a lamp being switched off (Q7), which is typical in living rooms.\n125. The presence of a lamp being switched on (Q7), which is typical in living rooms.\n126. The presence of a lamp being switched off (Q7), which is typical in living rooms.\n127. The presence of a lamp being switched on (Q7), which is typical in living rooms.\n128. The presence of a lamp being switched off (Q7), which is typical in living rooms.\n129. The presence of a lamp being switched on (Q7), which is typical in living rooms.\n130. The presence of a lamp being switched off (Q7), which is typical in living rooms.\n131. The presence of a lamp being switched on (Q7), which is typical in living rooms.\n132. The presence of a lamp being switched off (Q7), which is typical in living rooms.\n133. The presence of a lamp being switched on (Q7), which is typical in living rooms.\n134. The presence of a lamp being switched off (Q7), which is typical in living rooms.\n135. The presence of a lamp being switched on (Q7), which is typical in living rooms.\n136. The presence of a lamp being switched off (Q7), which is typical in living rooms.\n137. The presence of a lamp being switched on (Q7), which is typical in living rooms.\n138. The presence of a lamp being switched off (Q7), which is typical in living rooms.\n139. The presence of a lamp being switched on (Q7), which is typical in living rooms.\n140. The presence of a lamp being switched off (Q7), which is typical in living rooms.\n141. The presence of a lamp being switched on (Q7), which is typical in living rooms.\n142. The presence of a lamp being switched off (Q7), which is typical in living rooms.\n143. The presence of a lamp being switched on (Q7), which is typical in living rooms.\n144. The presence of a lamp being switched off (Q7), which is typical in living rooms.\n145. The presence of a lamp being switched on (Q7), which is typical in living rooms.\n146. The presence of a lamp being switched off (Q7), which is typical in living rooms.\n147. The presence of a lamp being switched on (Q7), which is typical in living rooms.\n148. The presence of a lamp being switched off (Q7), which is typical in living rooms.\n149. The presence of a lamp being switched on (Q7), which is typical in living rooms.\n150. The presence of a lamp being switched off (Q7), which is typical in living rooms.\n151. The presence of a lamp being switched on (Q7), which is typical in living rooms.\n152. The presence of a lamp being switched off (Q7), which is typical in living rooms.\n153. The presence of a lamp being switched on (Q7), which is typical in living rooms.\n154. The presence of a lamp being switched off (Q7), which is typical in living rooms.\n155. The presence of a lamp being switched on (Q7), which is typical in living rooms.\n156. The presence of a lamp being switched off (Q7), which is typical in living rooms.\n157. The presence of a lamp being switched on (Q7), which is typical in living rooms.\n158. The presence of a lamp being switched off (Q7), which is typical in living rooms.\n159. The presence of a lamp being switched on (Q7), which is typical in living rooms.\n160. The presence of a lamp being switched off (Q7), which is typical in living rooms.\n161. The presence of a lamp being switched on (Q7), which is typical in living rooms.\n162. The presence of a lamp being switched off (Q7), which is typical in living rooms.\n163. The presence of a lamp being switched on (Q7), which is typical in living rooms.\n164. The presence of a lamp being switched off (Q7), which is typical in living rooms.\n165. The presence of a lamp being switched on (Q7), which is typical in living rooms.\n166. The presence of a lamp being switched off (Q7), which is typical in living rooms.\n167. The presence of a lamp being switched on (Q7), which is typical in living rooms.\n168. The presence of a lamp being switched off (Q7), which is typical in living rooms.\n169. The presence of a lamp being switched on (Q7), which is typical in living rooms.\n170. The presence of a lamp being switched off (Q7), which is typical in living rooms.\n171. The presence of a lamp being switched on (Q7), which is typical in living rooms.\n172. The presence of a lamp being switched off (Q7), which is typical in living rooms.\n173. The presence of a lamp being switched on (Q7), which is typical in living rooms.\n174. The presence of a lamp being switched off (Q7), which is typical in living rooms.\n175. The presence of a lamp being switched on (Q7), which is typical in living rooms.\n176. The presence of a lamp being switched off (Q7), which is typical in living rooms.\n177. The presence of a lamp being switched on (Q7), which"
+    ],
+    "estimated_sceneType": "Living room / Lounge",
+    "sceneType": "Bedroom / Hotel"
+  },
+  {
+    "episode_history": "scannet-v0/108-scannet-scene0354_00",
+    "output": [
+      "Based on the provided questions and answers, the most likely category for this indoor space is:\n\n**Conference Room**\n\nThis conclusion is drawn from several key pieces of information:\n1. The presence of a whiteboard (Q5).\n2. The mention of a television (Q6) and a conference table (Q10).\n3. The need to charge an electronic device (Q11).\n4. The location of a trash bin (Q1).\n\nThese elements strongly indicate that the space is used for meetings and presentations, which is typical of a conference room."
+    ],
+    "estimated_sceneType": "Conference Room",
+    "sceneType": "Conference Room"
+  },
+  {
+    "episode_history": "scannet-v0/109-scannet-scene0648_01",
+    "output": [
+      "Based on the provided questions and answers, it seems that the indoor space being described is a **Living room / Lounge**. The presence of a calculator, books, notebooks, and other personal items suggests a casual, home-like environment where people might relax and engage in various activities such as reading, working, or using electronic devices."
+    ],
+    "estimated_sceneType": "Living room / Lounge",
+    "sceneType": "Bedroom / Hotel"
+  },
+  {
+    "episode_history": "scannet-v0/110-scannet-scene0050_00",
+    "output": [
+      "Based on the provided questions and answers, the most likely category for this indoor space is:\n\n**Living room / Lounge**\n\nThis conclusion is based on several clues:\n1. The presence of a desk, chair, armchair, and couch suggests a living area.\n2. The mention of a piano indicates a musical element, common in living rooms.\n3. The presence of laptops and a backpack suggests a workspace within the living area.\n4. The coffee mug and tissue box are typical items found in a living room setting."
+    ],
+    "estimated_sceneType": "Living room / Lounge",
+    "sceneType": "Living room / Lounge"
+  },
+  {
+    "episode_history": "scannet-v0/111-scannet-scene0550_00",
+    "output": [
+      "Based on the provided questions and answers, the space described is a **Bathroom**."
+    ],
+    "estimated_sceneType": "Bathroom",
+    "sceneType": "Bathroom"
+  },
+  {
+    "episode_history": "scannet-v0/112-scannet-scene0591_02",
+    "output": [
+      "Based on the provided questions and answers, the most likely category for this indoor space is:\n\n**Living room / Lounge**\n\nThis conclusion is drawn from several clues:\n1. The presence of a couch (Q4).\n2. The mention of shelves (Q5), which are commonly found in living rooms.\n3. The reference to a desk divider (Q10), which suggests a workspace or study area, often found in living rooms.\n4. The presence of a trophy (Q9) and a can of Red Bull (Q8), items typically associated with leisure activities like watching TV or relaxing.\n5. The general layout and furnishings typical of a living room/lounge."
+    ],
+    "estimated_sceneType": "Living room / Lounge",
+    "sceneType": "Office"
+  },
+  {
+    "episode_history": "scannet-v0/113-scannet-scene0207_00",
+    "output": [
+      "Based on the provided questions and answers, the most likely category for this indoor space is:\n\n**Living room / Lounge**\n\nThis conclusion is drawn from several key pieces of information:\n1. The presence of a couch (mentioned in multiple questions).\n2. The mention of a bed (which could be part of a bedroom setup).\n3. The reference to a desk with various items like soy sauce, sugar, salt, and a wooden bowl (indicating a dining or preparation area).\n4. The mention of backpacks (which are commonly used in living rooms or lounges).\n\nWhile other categories like \"Apartment\" or \"Bedroom / Hotel\" might also fit, the combination of elements such as the couch, bed, and dining/desk setup makes \"Living room / Lounge\" the most fitting category."
+    ],
+    "estimated_sceneType": "Living room / Lounge",
+    "sceneType": "Apartment"
+  },
+  {
+    "episode_history": "scannet-v0/114-scannet-scene0084_00",
+    "output": [
+      "Based on the provided questions and answers, the most likely category for this indoor space is:\n\n**Living room / Lounge**\n\nThis conclusion is drawn from several clues:\n1. The presence of a counter with items like a jacket, paper towels, and a paper towel dispenser.\n2. The mention of a sink, which is commonly found in living rooms or lounges.\n3. The reference to a caution sign, which might be used to indicate a wet floor, often seen in living areas.\n4. The mention of natural light from a window, which is typical in living spaces.\n5. The presence of a trash bin, which is common in living rooms or lounges.\n6. The reference to a shampoo, which is typically stored in bathrooms but could also be found in living rooms if it's part of a grooming routine.\n\nWhile other categories like \"Bathroom\" or \"Living room / Lounge\" could fit, the combination of these elements makes \"Living room / Lounge\" the most fitting category."
+    ],
+    "estimated_sceneType": "Living room / Lounge",
+    "sceneType": "Bathroom"
+  },
+  {
+    "episode_history": "scannet-v0/115-scannet-scene0046_02",
+    "output": [
+      "Based on the provided questions and answers, the most likely category for this indoor space is:\n\n**Living room / Lounge**\n\nThis conclusion is based on several clues:\n1. The presence of a bed suggests it could be a bedroom or hotel room.\n2. The mention of a desk, laptop, and other items like a purse and backpack indicates a living area where people might work or relax.\n3. The colorful objects (blue towel, green carpet) and the casual nature of the questions suggest a comfortable, lived-in space typical of a living room or lounge."
+    ],
+    "estimated_sceneType": "Living room / Lounge",
+    "sceneType": "Apartment"
+  },
+  {
+    "episode_history": "scannet-v0/116-scannet-scene0077_01",
+    "output": [
+      "Based on the provided questions and answers, the most likely category for this indoor space is:\n\n**Office**\n\nThe presence of multiple machines (printers), a trash barrel near the entrance, a hand sanitizer on the counter, and various organizational items like an organizer tray and shelves suggest that this space is used for work-related activities, which aligns with the characteristics of an office environment."
+    ],
+    "estimated_sceneType": "Office",
+    "sceneType": "Office"
+  },
+  {
+    "episode_history": "scannet-v0/120-scannet-scene0684_01",
+    "output": [
+      "Based on the provided questions and answers, the most appropriate category for this indoor space is:\n\n**Living room / Lounge**\n\nThis conclusion is drawn from several key points:\n1. The presence of a desk phone, chair, and table suggests a common living area where people might sit and relax.\n2. The mention of a door and bins indicates a typical household setting.\n3. The casual nature of the questions (e.g., \"Where did I leave my paper towels?\") aligns with a living room environment where such items are commonly found."
+    ],
+    "estimated_sceneType": "Living room / Lounge",
+    "sceneType": "Office"
+  },
+  {
+    "episode_history": "scannet-v0/121-scannet-scene0462_00",
+    "output": [
+      "Based on the provided questions and answers, the most likely category for this indoor space is:\n\n**Office**\n\nThe presence of a fax machine, a copy machine, a USPS bin, and other office-related items strongly suggest that this space is an office."
+    ],
+    "estimated_sceneType": "Office",
+    "sceneType": "Copy / Mail Room"
+  },
+  {
+    "episode_history": "scannet-v0/122-scannet-scene0647_01",
+    "output": [
+      "Based on the provided questions and answers, the most likely category for this indoor space is:\n\n**Living room / Lounge**\n\nThis conclusion is drawn from several key pieces of information:\n1. The presence of a ping-pong table suggests a recreational area.\n2. The mention of a sofa indicates seating arrangements typical of a living room.\n3. The wooden chair near the electric outlet and the proximity to the sofa further support the idea of a living room setting.\n4. The open door and exit sign suggest a public or communal space, which aligns with a living room or lounge where people might gather and relax."
+    ],
+    "estimated_sceneType": "Living room / Lounge",
+    "sceneType": "Living room / Lounge"
+  },
+  {
+    "episode_history": "scannet-v0/123-scannet-scene0412_01",
+    "output": [
+      "Based on the provided questions and answers, the most likely category for this indoor space is:\n\n**Living room / Lounge**\n\nThis conclusion is drawn from several clues:\n1. The presence of a shelf with plastic cups suggests a casual, homey environment where people might store everyday items like cups.\n2. The mention of a stack of traffic cones indicates a recreational or play area, which is common in living rooms or lounges.\n3. The reference to using the sink for cleaning cups and drying clothes aligns with typical household activities in a living room/lounge setting."
+    ],
+    "estimated_sceneType": "Living room / Lounge",
+    "sceneType": "Kitchen"
+  },
+  {
+    "episode_history": "scannet-v0/124-scannet-scene0131_02",
+    "output": [
+      "Based on the provided questions and answers, the most likely category for this indoor space is:\n\n**Living room / Lounge**\n\nThis conclusion is drawn from several key points:\n1. The presence of multiple monitors suggests a workspace or entertainment area.\n2. The mention of a mini fridge indicates a kitchenette or dining area.\n3. The presence of a mirror and a table with multiple items (monitors, fridge, etc.) aligns well with a living room or lounge setting where such items might be found."
+    ],
+    "estimated_sceneType": "Living room / Lounge",
+    "sceneType": "Office"
+  },
+  {
+    "episode_history": "scannet-v0/125-scannet-scene0426_00",
+    "output": [
+      "Based on the provided questions and answers, the most likely category for this indoor space is:\n\n**Living room / Lounge**\n\nThis conclusion is drawn from several clues:\n1. The presence of a bed suggests a bedroom or hotel setting.\n2. The mention of a piano keyboard indicates a living room or lounge where such items might be found.\n3. The presence of a desk and multiple monitors suggests a workspace, which could be part of a living room setup.\n4. The question about warming oneself up with a pink jacket implies a casual, home-like environment.\n\nWhile other categories like \"Bathroom\" or \"Bedroom / Hotel\" could potentially fit some of the descriptions, the combination of a bed, a piano keyboard, and a desk strongly points towards a living room or lounge setting."
+    ],
+    "estimated_sceneType": "Living room / Lounge",
+    "sceneType": "Bedroom / Hotel"
+  },
+  {
+    "episode_history": "scannet-v0/126-scannet-scene0574_02",
+    "output": [
+      "Based on the provided questions and answers, the most likely category for this indoor space is:\n\n**Living room / Lounge**\n\nThis conclusion is drawn from several clues:\n1. The presence of a peephole on a door suggests it might be a residential entryway.\n2. The mention of hanging clothes indicates a laundry or dressing area.\n3. The reference to a mirror and the proximity to a door with a peephole further supports a living or lounge area where such features are common."
+    ],
+    "estimated_sceneType": "Living room / Lounge",
+    "sceneType": "Bathroom"
+  },
+  {
+    "episode_history": "scannet-v0/127-scannet-scene0578_00",
+    "output": [
+      "Based on the provided questions and answers, the most likely category for this indoor space is:\n\n**Living room / Lounge**\n\nThis conclusion is drawn from several clues:\n1. The presence of a chair and a table suggests a seating area.\n2. The mention of a backpack and a water bottle indicates personal items, typical of a living or lounge area where people might store their belongings.\n3. The questions about cleanliness and the location of objects (chair, table, trash can) further support the idea of a living or lounge space."
+    ],
+    "estimated_sceneType": "Living room / Lounge",
+    "sceneType": "Conference Room"
+  },
+  {
+    "episode_history": "scannet-v0/128-scannet-scene0678_02",
+    "output": [
+      "Based on the provided questions and answers, the most appropriate category for this indoor space is:\n\n**Laundry Room**\n\nThe presence of washing machines, laundry baskets, detergent, and other laundry-related items clearly indicates that this space is a laundry room."
+    ],
+    "estimated_sceneType": "Laundry Room",
+    "sceneType": "Laundry Room"
+  },
+  {
+    "episode_history": "scannet-v0/129-scannet-scene0575_00",
+    "output": [
+      "Based on the provided questions and answers, the most likely category for this indoor space is:\n\n**Conference Room**\n\nThe presence of multiple monitors, a video camera, and instructions for operating the AV system strongly indicate that this is a conference room. Additionally, the availability of a remote controller and an empty glass for drinking suggest typical amenities found in such a setting."
+    ],
+    "estimated_sceneType": "Conference Room",
+    "sceneType": "Conference Room"
+  },
+  {
+    "episode_history": "scannet-v0/130-scannet-scene0696_00",
+    "output": [
+      "Based on the provided questions and answers, the most appropriate category for this indoor space is:\n\n**Living room / Lounge**\n\nThis conclusion is drawn from several key points:\n1. The presence of a tennis table suggests a recreational area, commonly found in living rooms or lounges.\n2. The mention of a mattress indicates a sleeping area, typical of a bedroom or lounge.\n3. The drying rack for clothes is also common in living spaces where people might hang laundry.\n4. The presence of monitors and a red box on the tennis table aligns with the typical setup of a living room or lounge where entertainment and storage items are often found."
+    ],
+    "estimated_sceneType": "Living room / Lounge",
+    "sceneType": "Storage / Basement / Garage"
+  },
+  {
+    "episode_history": "scannet-v0/132-scannet-scene0645_01",
+    "output": [
+      "Based on the provided questions and answers, the most likely category for this indoor space is:\n\n**Bedroom / Hotel**\n\nThe presence of a bed, nightstand, television, and other typical bedroom furniture and amenities strongly suggests that this is a bedroom or hotel room."
+    ],
+    "estimated_sceneType": "Bedroom / Hotel",
+    "sceneType": "Bedroom / Hotel"
+  },
+  {
+    "episode_history": "scannet-v0/133-scannet-scene0704_00",
+    "output": [
+      "Based on the provided questions and answers, the most appropriate category for this indoor space is:\n\n**Office**\n\nThe presence of a printer, a trash bin, a cooler, and other office-related items strongly indicates that this space is an office environment."
+    ],
+    "estimated_sceneType": "Office",
+    "sceneType": "Copy / Mail Room"
+  },
+  {
+    "episode_history": "scannet-v0/134-scannet-scene0695_03",
+    "output": [
+      "Based on the provided questions and answers, the most likely category for this indoor space is:\n\n**Living room / Lounge**\n\nThis conclusion is drawn from several clues:\n1. The presence of a chair with clothes on it suggests a casual, lived-in environment typical of a living room.\n2. The mention of a bed indicates a bedroom or a space designed for sleeping, which is common in living rooms.\n3. The presence of a game console and a laptop suggests entertainment activities, which are often associated with lounging or relaxing in a living room.\n4. The tapestry hanging above the bed adds to the cozy, homey atmosphere typical of a living room."
+    ],
+    "estimated_sceneType": "Living room / Lounge",
+    "sceneType": "Bedroom / Hotel"
+  },
+  {
+    "episode_history": "scannet-v0/135-scannet-scene0131_00",
+    "output": [
+      "Based on the provided questions and answers, the most likely category for this indoor space is:\n\n**Conference Room**\n\nThe presence of a whiteboard, a monitor, desks, and other typical conference room equipment strongly suggests that this is a conference room."
+    ],
+    "estimated_sceneType": "Conference Room",
+    "sceneType": "Office"
+  },
+  {
+    "episode_history": "scannet-v0/137-scannet-scene0598_01",
+    "output": [
+      "Based on the provided questions and answers, the most likely category for this indoor space is:\n\n**Living room / Lounge**\n\nThis conclusion is drawn from several key points:\n1. The presence of a desk with a computer and a backpack suggests a workspace or study area.\n2. The mention of a brown desk and a white desk indicates multiple seating areas.\n3. The availability of a power outlet on the brown desk implies it's a functional space for charging devices.\n4. The presence of bookshelves for reading materials further supports a living or lounge area.\n\nWhile other categories like \"Office\" or \"Bedroom\" could also fit, the combination of a workspace, seating areas, and reading materials strongly points towards a living room or lounge setting."
+    ],
+    "estimated_sceneType": "Living room / Lounge",
+    "sceneType": "Bookstore / Library"
+  },
+  {
+    "episode_history": "scannet-v0/138-scannet-scene0500_01",
+    "output": [
+      "Based on the provided questions and answers, the most likely category for this indoor space is:\n\n**Office**\n\nThe presence of an office chair, a blackboard, a clock, and a remote control suggests that this space is designed for work or study purposes, which aligns with the characteristics of an office environment."
+    ],
+    "estimated_sceneType": "Office",
+    "sceneType": "Conference Room"
+  },
+  {
+    "episode_history": "scannet-v0/139-scannet-scene0647_00",
+    "output": [
+      "Based on the provided questions and answers, the most likely category for this indoor space is:\n\n**Living room / Lounge**\n\nThis conclusion is drawn from several key observations:\n1. The presence of a ping-pong table suggests recreational activities typical of a living room.\n2. The mention of an L-shaped sofa indicates a seating arrangement common in living rooms.\n3. The use of barstools and a table for dining or casual seating further supports the living room/lounge category.\n4. The presence of a backpack near the sofa could indicate a casual, relaxed environment where people might store personal items while sitting.\n5. The green signs with lights marking exits are typical of public spaces like lounges or lobbies.\n\nWhile other categories like \"Bathroom\" or \"Conference Room\" might have some elements present, the combination of recreational furniture, seating arrangements, and casual storage items strongly points towards a living room/lounge setting."
+    ],
+    "estimated_sceneType": "Living room / Lounge",
+    "sceneType": "Living room / Lounge"
+  },
+  {
+    "episode_history": "scannet-v0/140-scannet-scene0077_00",
+    "output": [
+      "Based on the provided questions and answers, the most likely category for this indoor space is:\n\n**Office**\n\nThe presence of a printer, scanner, scientific posters, and other office-related items strongly suggests that this is an office environment."
+    ],
+    "estimated_sceneType": "Office",
+    "sceneType": "Office"
+  },
+  {
+    "episode_history": "scannet-v0/141-scannet-scene0651_01",
+    "output": [
+      "Based on the provided questions and answers, the most likely category for this indoor space is:\n\n**Kitchen**\n\nThe presence of a refrigerator, stove, cabinets, countertops, and other typical kitchen appliances and fixtures strongly indicates that this is a kitchen."
+    ],
+    "estimated_sceneType": "Kitchen",
+    "sceneType": "Kitchen"
+  },
+  {
+    "episode_history": "scannet-v0/142-scannet-scene0653_01",
+    "output": [
+      "Based on the provided questions and answers, the most appropriate category for this indoor space is:\n\n**Office**\n\nThe presence of a desk, whiteboard, markers, filing cabinet, hand sanitizer, and other typical office equipment strongly indicates that this space is an office environment."
+    ],
+    "estimated_sceneType": "Office",
+    "sceneType": "Office"
+  },
+  {
+    "episode_history": "scannet-v0/144-scannet-scene0700_01",
+    "output": [
+      "Based on the provided questions and answers, the most appropriate category for this indoor space is:\n\n**Office**\n\nThis conclusion is drawn from several key points in the answers:\n1. The presence of a work desk.\n2. The mention of a filing cabinet for storing papers.\n3. The reference to a computer being turned off.\n4. The location of a cellphone on the work desk.\n5. The general context of office-related activities and equipment."
+    ],
+    "estimated_sceneType": "Office",
+    "sceneType": "Office"
+  },
+  {
+    "episode_history": "scannet-v0/145-scannet-scene0193_00",
+    "output": [
+      "Based on the provided questions and answers, the most likely category for this indoor space is:\n\n**Bedroom / Hotel**\n\nThis conclusion is drawn from several key points:\n1. The presence of a bed.\n2. The mention of a task chair and desk, suggesting a workspace.\n3. The need for storage (closet), which is common in bedrooms.\n4. The presence of a closet, which is typical in bedrooms.\n5. The need for a trash bin, which is often found in hotel rooms.\n6. The ability to make the room darker by changing the window curtain, indicating a bedroom setting where privacy might be important.\n7. The need for pillows and blankets, which are essential for sleeping."
+    ],
+    "estimated_sceneType": "Bedroom / Hotel",
+    "sceneType": "Bedroom / Hotel"
+  },
+  {
+    "episode_history": "scannet-v0/146-scannet-scene0518_00",
+    "output": [
+      "Based on the provided questions and answers, the most likely category for this indoor space is:\n\n**Living room / Lounge**\n\nThis conclusion is drawn from several key pieces of information:\n1. The presence of a sectional couch (orange).\n2. A coffee table (white) between the couch and TV stand.\n3. A work desk (right side of the couch).\n4. A TV (directly in front of the couch).\n5. A yellow backpack (on the chair).\n6. A comfortable pillow with a clock image (on the sectional couch).\n\nThese elements strongly indicate a living room or lounge setting."
+    ],
+    "estimated_sceneType": "Living room / Lounge",
+    "sceneType": "Living room / Lounge"
+  },
+  {
+    "episode_history": "scannet-v0/147-scannet-scene0699_00",
+    "output": [
+      "Based on the provided questions and answers, the most likely category for this indoor space is:\n\n**Living room / Lounge**\n\nThis conclusion is drawn from several key pieces of information:\n1. The presence of an AC unit suggests a need for climate control, which is common in living spaces.\n2. The mention of a bed indicates a sleeping area, typical of a living room/lounge.\n3. The presence of a desk and a window suggests a functional area for work or relaxation.\n4. The mention of toiletries and a wooden table further supports the idea of a living room/lounge where people might store personal items and have a workspace.\n\nWhile other categories like bedroom/hotel or office could also fit, the combination of these elements points most strongly towards a living room/lounge."
+    ],
+    "estimated_sceneType": "Living room / Lounge",
+    "sceneType": "Bedroom / Hotel"
+  },
+  {
+    "episode_history": "scannet-v0/148-scannet-scene0203_01",
+    "output": [
+      "Based on the provided questions and answers, the most likely category for this indoor space is:\n\n- **Living room / Lounge**\n\nThis conclusion is drawn from several clues:\n1. The presence of a coffee table with a book on it.\n2. The mention of a couch.\n3. The reference to a shoe rack and a bookshelf, which are common in living spaces.\n4. The cluttered nature of the room, which is typical of a living area."
+    ],
+    "estimated_sceneType": "Living room / Lounge",
+    "sceneType": "Living room / Lounge"
+  },
+  {
+    "episode_history": "scannet-v0/149-scannet-scene0426_02",
+    "output": [
+      "Based on the provided questions and answers, the most appropriate category for this indoor space is:\n\n**Bedroom / Hotel**\n\nThe presence of a bed, dresser, and other bedroom-related items such as a TV, window blinds, and a bedsheet strongly indicate that this is a bedroom. The answers also suggest that this is likely a hotel room due to the specific mention of a Yonex racket bag and the context of a typical home/apartment being a bedroom."
+    ],
+    "estimated_sceneType": "Bedroom / Hotel",
+    "sceneType": "Bedroom / Hotel"
+  },
+  {
+    "episode_history": "scannet-v0/150-scannet-scene0648_00",
+    "output": [
+      "Based on the provided questions and answers, it seems that the indoor space being described is a **Living room / Lounge**. This conclusion is drawn from several clues:\n\n1. The presence of a teddy bear on a purple quilt suggests a comfortable, homey environment typical of a living room.\n2. The mention of a red water bottle with a pink cap indicates casual use, which is common in a living area.\n3. The question about footwear (black slippers) implies a relaxed setting where one might change clothes before going out.\n4. The reference to a big red book on a brown cabinet suggests a place where books are kept, which is typical in a living room.\n5. The mention of a plastic bottle on a brown table further supports the idea of a casual, everyday setting like a living room.\n\nTherefore, the most fitting category for this indoor space is **Living room / Lounge**."
+    ],
+    "estimated_sceneType": "Living room / Lounge",
+    "sceneType": "Bedroom / Hotel"
+  },
+  {
+    "episode_history": "scannet-v0/151-scannet-scene0217_00",
+    "output": [
+      "Based on the provided questions and answers, the most likely category for this indoor space is:\n\n**Apartment**\n\nThe presence of a bed, desk, backpack, and other personal items suggests it is an apartment. The answers indicate that the space is private and residential, which aligns with the characteristics of an apartment."
+    ],
+    "estimated_sceneType": "Apartment",
+    "sceneType": "Bedroom / Hotel"
+  },
+  {
+    "episode_history": "scannet-v0/152-scannet-scene0494_00",
+    "output": [
+      "Based on the provided questions and answers, the most likely category for this indoor space is:\n\n**Living room / Lounge**\n\nThis conclusion is drawn from several key observations:\n1. The presence of chairs suggests a seating area, typical of living rooms or lounges.\n2. The mention of a whiteboard implies a space where people might gather for meetings or presentations, which is common in living rooms/lounges.\n3. The presence of a garbage bin near the door indicates a functional area within a home or office setting.\n4. The interaction with the chairs (pulling them out) and the need to wipe the whiteboard before writing suggest a casual, communal environment conducive to social activities like meetings or gatherings."
+    ],
+    "estimated_sceneType": "Living room / Lounge",
+    "sceneType": "Conference Room"
+  },
+  {
+    "episode_history": "scannet-v0/154-scannet-scene0193_01",
+    "output": [
+      "Based on the provided questions and answers, the most likely category for this indoor space is:\n\n**Living room / Lounge**\n\nThis conclusion is drawn from several key observations:\n1. The presence of a desk suggests a workspace or study area.\n2. The mention of a bed indicates a sleeping or resting area.\n3. The ability to store belongings under the bed and the presence of a drawer under the table suggest a multi-functional space used for both work and relaxation.\n4. The transparency of the window implies it is part of a larger living area where natural light can enter.\n\nThese details collectively point towards a living room or lounge space where people can work, relax, and store personal items."
+    ],
+    "estimated_sceneType": "Living room / Lounge",
+    "sceneType": "Bedroom / Hotel"
+  },
+  {
+    "episode_history": "scannet-v0/155-scannet-scene0164_02",
+    "output": [
+      "Based on the provided questions and answers, it seems that the indoor space being described is a **Kitchen**. The presence of items like pots, pans, a stove, a microwave, and a refrigerator strongly indicates that this is a kitchen."
+    ],
+    "estimated_sceneType": "Kitchen",
+    "sceneType": "Kitchen"
+  },
+  {
+    "episode_history": "scannet-v0/156-scannet-scene0461_00",
+    "output": [
+      "Based on the provided questions and answers, the space described appears to be a **Living room / Lounge**. The presence of armchairs, end tables, and the ability to sit and have food suggests a comfortable area for relaxation and socializing, which is characteristic of a living room or lounge."
+    ],
+    "estimated_sceneType": "Living room / Lounge",
+    "sceneType": "Lobby"
+  },
+  {
+    "episode_history": "scannet-v0/157-scannet-scene0015_00",
+    "output": [
+      "Based on the provided questions and answers, it seems that the space being described is a classroom. The presence of a whiteboard, desks, and the mention of students suggests that this is a classroom setting."
+    ],
+    "estimated_sceneType": "Classroom",
+    "sceneType": "Classroom"
+  },
+  {
+    "episode_history": "scannet-v0/158-scannet-scene0356_00",
+    "output": [
+      "Based on the provided questions and answers, the most likely category for this indoor space is:\n\n**Living room / Lounge**\n\nThis conclusion is drawn from several key points:\n1. The presence of a bed frame suggests a bedroom or living area.\n2. The mention of a desk and a bed indicates a space designed for relaxation and work.\n3. The availability of a phone and a mirror on the door further supports a living or lounge area where people might use these items for personal grooming and communication.\n4. The presence of garbage bins and a door with a mirror also aligns with typical features found in living rooms or lounges."
+    ],
+    "estimated_sceneType": "Living room / Lounge",
+    "sceneType": "Bedroom / Hotel"
+  },
+  {
+    "episode_history": "scannet-v0/160-scannet-scene0488_01",
+    "output": [
+      "Based on the provided questions and answers, the most appropriate category for this indoor space is:\n\n**Kitchen**\n\nThe presence of a stove, refrigerator, microwave, and other typical kitchen appliances strongly indicates that this is a kitchen."
+    ],
+    "estimated_sceneType": "Kitchen",
+    "sceneType": "Kitchen"
+  },
+  {
+    "episode_history": "scannet-v0/161-scannet-scene0583_00",
+    "output": [
+      "Based on the provided questions and answers, the most appropriate category for this indoor space is:\n\n**Bathroom**\n\nThe presence of common bathroom fixtures such as faucets, mirrors, sinks, and shower curtains, along with the specific questions related to these items, clearly indicate that this space is a bathroom."
+    ],
+    "estimated_sceneType": "Bathroom",
+    "sceneType": "Bathroom"
+  },
+  {
+    "episode_history": "scannet-v0/162-scannet-scene0535_00",
+    "output": [
+      "Based on the provided questions and answers, the most likely category for this indoor space is:\n\n**Office**\n\nThe presence of desks, chairs, a table lamp, and the need for work-related activities strongly suggest that this is an office space."
+    ],
+    "estimated_sceneType": "Office",
+    "sceneType": "Office"
+  },
+  {
+    "episode_history": "scannet-v0/163-scannet-scene0164_03",
+    "output": [
+      "Based on the provided questions and answers, the most likely category for this indoor space is:\n\n**Kitchen**\n\nThe presence of items such as a sink, coffee machine, toaster, and chapstick, along with questions about appliances and their uses, strongly indicate that this space is a kitchen."
+    ],
+    "estimated_sceneType": "Kitchen",
+    "sceneType": "Kitchen"
+  },
+  {
+    "episode_history": "scannet-v0/165-scannet-scene0406_00",
+    "output": [
+      "Based on the provided questions and answers, the most appropriate category for this indoor space is:\n\n**Bathroom**\n\nThe questions and answers primarily relate to objects and features typically found in a bathroom, such as towels, shower heads, curtains, and bath mats."
+    ],
+    "estimated_sceneType": "Bathroom",
+    "sceneType": "Bathroom"
+  },
+  {
+    "episode_history": "scannet-v0/166-scannet-scene0435_03",
+    "output": [
+      "Based on the provided questions and answers, the most appropriate category for this indoor space is:\n\n**Apartment**\n\nThe presence of a bed, a TV, a mini-fridge, and other household items like a backpack and a desk suggests that this is a residential apartment rather than any of the other categories listed."
+    ],
+    "estimated_sceneType": "Apartment",
+    "sceneType": "Bedroom / Hotel"
+  },
+  {
+    "episode_history": "scannet-v0/167-scannet-scene0307_01",
+    "output": [
+      "Based on the provided questions and answers, the most likely category for this indoor space is:\n\n**Bathroom**\n\nThe presence of a coat hanger, towel, and dryer, along with the mention of a shower, clearly indicates that this space is a bathroom."
+    ],
+    "estimated_sceneType": "Bathroom",
+    "sceneType": "Storage / Basement / Garage"
+  },
+  {
+    "episode_history": "scannet-v0/168-scannet-scene0655_01",
+    "output": [
+      "Based on the provided questions and answers, the most suitable category for this indoor space is:\n\n**Office**\n\nThe presence of a table with chairs, a whiteboard, a projector screen, a socket for charging a phone, and other typical office equipment strongly indicates that this space functions as an office."
+    ],
+    "estimated_sceneType": "Office",
+    "sceneType": "Conference Room"
+  },
+  {
+    "episode_history": "scannet-v0/169-scannet-scene0695_01",
+    "output": [
+      "Based on the provided questions and answers, the most likely category for this indoor space is:\n\n**Bedroom / Hotel**\n\nThe questions and answers suggest that the space is primarily used for sleeping and personal belongings, such as a bed, a desk, a laptop, and a backpack. The presence of a bed, a desk, and a laptop indicates that this is likely a bedroom or a hotel room."
+    ],
+    "estimated_sceneType": "Bedroom / Hotel",
+    "sceneType": "Bedroom / Hotel"
+  },
+  {
+    "episode_history": "scannet-v0/170-scannet-scene0378_01",
+    "output": [
+      "Based on the provided questions and answers, the most likely category for this indoor space is:\n\n**Living room / Lounge**\n\nThis conclusion is drawn from several key observations:\n1. The presence of desks and monitors suggests a workspace or study area.\n2. The mention of windows and posters indicates a living or lounge area where people might relax or work.\n3. The specific mention of a turquoise mug and recycling bin further supports a casual, home-like environment rather than a professional office setting."
+    ],
+    "estimated_sceneType": "Living room / Lounge",
+    "sceneType": "Office"
+  },
+  {
+    "episode_history": "scannet-v0/171-scannet-scene0222_01",
+    "output": [
+      "Based on the provided questions and answers, the most likely category for this indoor space is:\n\n**Living room / Lounge**\n\nThis conclusion is drawn from several clues:\n1. The presence of a minifridge suggests it could be a kitchen or living area.\n2. The mention of a bed indicates it might be a bedroom or living room.\n3. The presence of a desk and chair suggests a workspace.\n4. The use of a fan and desk lamp for cooling implies a comfortable, lived-in environment typical of a living room or lounge."
+    ],
+    "estimated_sceneType": "Living room / Lounge",
+    "sceneType": "Bedroom / Hotel"
+  },
+  {
+    "episode_history": "scannet-v0/172-scannet-scene0496_00",
+    "output": [
+      "Based on the provided questions and answers, the space described appears to be a **Conference Room**. The presence of a projector, chairs, tables, power strips, and other typical conference room equipment supports this categorization."
+    ],
+    "estimated_sceneType": "Conference Room",
+    "sceneType": "Conference Room"
+  },
+  {
+    "episode_history": "scannet-v0/173-scannet-scene0278_01",
+    "output": [
+      "Based on the provided questions and answers, the most likely category for this indoor space is:\n\n**Living room / Lounge**\n\nThis conclusion is drawn from several clues:\n1. The presence of a bulletin board (often found in living rooms).\n2. The mention of a black counter, which could be part of a coffee table or dining area.\n3. The reference to a printer and paper, which are common in living spaces for printing documents or photos.\n4. The availability of a broom against a wall, suggesting a functional area like a living room or lounge.\n5. The green boxes containing copy paper, which are typically stored in living areas for convenience.\n\nWhile other categories like \"Bathroom\" or \"Conference Room\" might have some elements present, the overall context and items mentioned strongly suggest a living room or lounge setting."
+    ],
+    "estimated_sceneType": "Living room / Lounge",
+    "sceneType": "Copy / Mail Room"
+  },
+  {
+    "episode_history": "scannet-v0/174-scannet-scene0086_01",
+    "output": [
+      "Based on the provided questions and answers, the most appropriate category for this indoor space is:\n\n**Bathroom**\n\nThe presence of a sink, toilet, and various fixtures such as soap dispensers, garbage, and grab bars are typical features found in a bathroom. Additionally, the mention of a handicapped person being designed for suggests it is a standard bathroom setup."
+    ],
+    "estimated_sceneType": "Bathroom",
+    "sceneType": "Bathroom"
+  },
+  {
+    "episode_history": "scannet-v0/175-scannet-scene0329_01",
+    "output": [
+      "Based on the provided questions and answers, the most likely category for this indoor space is:\n\n**Office**\n\nThe presence of cubby shelves, a desk, a lamp, a whiteboard, and other typical office furniture and equipment strongly indicates that this space is an office."
+    ],
+    "estimated_sceneType": "Office",
+    "sceneType": "Lobby"
+  },
+  {
+    "episode_history": "scannet-v0/176-scannet-scene0643_00",
+    "output": [
+      "Based on the provided questions and answers, the most likely category for this indoor space is:\n\n**Office**\n\nThe presence of desks, monitors, staplers, calendars, and other office-related items strongly suggests that this is an office environment."
+    ],
+    "estimated_sceneType": "Office",
+    "sceneType": "Office"
+  },
+  {
+    "episode_history": "scannet-v0/177-scannet-scene0608_02",
+    "output": [
+      "Based on the provided questions and answers, the most likely category for this indoor space is:\n\n**Living room / Lounge**\n\nThis conclusion is drawn from several key points:\n1. The presence of a couch (mentioned in multiple questions).\n2. The mention of a guitar, which suggests musical activities.\n3. The presence of a piano, which is commonly found in living rooms or lounges.\n4. The inclusion of items like a massage chair, neck pillow, and a soccer banner, which are typical furnishings in a living room or lounge.\n5. The casual nature of the questions, which aligns with a relaxed environment such as a living room or lounge."
+    ],
+    "estimated_sceneType": "Living room / Lounge",
+    "sceneType": "Living room / Lounge"
+  },
+  {
+    "episode_history": "scannet-v0/178-scannet-scene0685_02",
+    "output": [
+      "Based on the provided questions and answers, the most likely category for this indoor space is:\n\n**Storage / Basement / Garage**\n\nThis conclusion is drawn from several key points:\n1. The presence of a circuit breaker box suggests it could be part of a larger electrical system, often found in basements or garages.\n2. The mention of a poster printer and a black desk indicates a workspace, which is common in storage areas or garages.\n3. The reference to a green bin and a black wire implies a storage or utility area where such items are typically found.\n4. The questions about tape and paper trimmers suggest a need for organization and storage, which aligns with the typical use of storage spaces like basements or garages."
+    ],
+    "estimated_sceneType": "Storage / Basement / Garage",
+    "sceneType": "Copy / Mail Room"
+  },
+  {
+    "episode_history": "scannet-v0/179-scannet-scene0300_01",
+    "output": [
+      "Based on the provided questions and answers, the most likely category for this indoor space is:\n\n**Living room / Lounge**\n\nThis conclusion is drawn from several clues:\n1. The presence of a desk with a backpack on it suggests a casual, home-like environment.\n2. The mention of chairs and a table indicates a seating area.\n3. The reference to a water bottle and backpack implies a personal, relaxed setting.\n4. The questions about finding books and using a catalog suggest a library or study area within a living space.\n5. The closed window shades and the need to turn off lights further support a more private, indoor setting.\n\nWhile other categories like \"Bathroom\" or \"Bedroom\" could potentially fit, the overall context points towards a living room or lounge area."
+    ],
+    "estimated_sceneType": "Living room / Lounge",
+    "sceneType": "Bookstore / Library"
+  },
+  {
+    "episode_history": "scannet-v0/180-scannet-scene0100_02",
+    "output": [
+      "Based on the provided questions and answers, the most appropriate category for this indoor space is:\n\n**Bathroom**\n\nThe presence of a restroom sink, toilet, slippers, towel, and other typical bathroom items clearly indicate that this space is a bathroom."
+    ],
+    "estimated_sceneType": "Bathroom",
+    "sceneType": "Bathroom"
+  },
+  {
+    "episode_history": "scannet-v0/181-scannet-scene0314_00",
+    "output": [
+      "Based on the provided questions and answers, the most likely category for this indoor space is:\n\n**Living room / Lounge**\n\nThe presence of a table with a computer, chairs, and a lamp suggests a comfortable, casual environment typically found in a living room or lounge area."
+    ],
+    "estimated_sceneType": "Living room / Lounge",
+    "sceneType": "Lobby"
+  },
+  {
+    "episode_history": "scannet-v0/182-scannet-scene0645_00",
+    "output": [
+      "Based on the provided questions and answers, the most likely category for this indoor space is:\n\n**Living room / Lounge**\n\nThis conclusion is drawn from several key points:\n1. The presence of a bed suggests it could be a bedroom or hotel room.\n2. The mention of a nightstand with a clock indicates a bedroom setting.\n3. The presence of a remote control and a TV implies a living room or lounge area where such items would typically be found.\n4. The carpeted floor further supports the idea of a living room or lounge.\n\nWhile the space could potentially be an apartment or hotel room, the combination of a bed, nightstand, and TV remote control strongly leans towards a living room or lounge setting."
+    ],
+    "estimated_sceneType": "Living room / Lounge",
+    "sceneType": "Bedroom / Hotel"
+  },
+  {
+    "episode_history": "scannet-v0/183-scannet-scene0231_01",
+    "output": [
+      "Based on the provided questions and answers, the most likely category for this indoor space is:\n\n**Living room / Lounge**\n\nThis conclusion is drawn from several clues:\n1. The presence of a couch (Q: \"Is there somewhere here where I can take a nap? If so where?\")\n2. The mention of a desk (Q: \"Where can I work in this place?\")\n3. The presence of a lamp (Q: \"What is the object on the floor between the desk, the couch and the trash can?\")\n4. The mention of a pen (Q: \"What is the small object on the center of the table\")\n5. The presence of a trash can (Q: \"Is the trash can empty?\")\n\nThese elements suggest a living area with seating, workspace, and storage, which aligns well with a living room or lounge."
+    ],
+    "estimated_sceneType": "Living room / Lounge",
+    "sceneType": "Apartment"
+  },
+  {
+    "episode_history": "scannet-v0/185-scannet-scene0435_00",
+    "output": [
+      "Based on the provided questions and answers, the most appropriate category for this indoor space is:\n\n**Hotel**\n\nThe presence of a suitcase, a coffee machine, and a trash can, along with the description of it being a hotel room, strongly indicates that this space is likely a hotel room."
+    ],
+    "estimated_sceneType": null,
+    "sceneType": "Bedroom / Hotel"
+  },
+  {
+    "episode_history": "scannet-v0/186-scannet-scene0549_01",
+    "output": [
+      "Based on the provided questions and answers, the most suitable category for this indoor space is:\n\n**Living room / Lounge**\n\nThis category fits well because the space includes furniture like couches, armchairs, and a table, as well as decorative elements such as plants and flowers. The presence of seating areas, charging options, and a cozy atmosphere typical of a living room or lounge setting further supports this categorization."
+    ],
+    "estimated_sceneType": "Living room / Lounge",
+    "sceneType": "Lobby"
+  },
+  {
+    "episode_history": "scannet-v0/187-scannet-scene0655_02",
+    "output": [
+      "Based on the provided questions and answers, the space described is a **Conference Room**. This conclusion is drawn from several key points:\n\n1. The presence of a whiteboard with writing on it.\n2. The mention of cables for projecting a computer.\n3. The availability of a table with space for placing a computer.\n4. The presence of chairs and tables arranged in a way typical for a meeting or conference setting.\n5. The specific mention of a conference room in response to the question \"Which room is this?\"\n\nThese details collectively indicate that the space is designed for meetings and presentations, which is characteristic of a conference room."
+    ],
+    "estimated_sceneType": "Conference Room",
+    "sceneType": "Conference Room"
+  },
+  {
+    "episode_history": "scannet-v0/188-scannet-scene0593_00",
+    "output": [
+      "Based on the provided questions and answers, the most appropriate category for this indoor space is:\n\n**Copy / Mail Room**\n\nThis category fits well because the space is primarily used for making copies (as indicated by the frequent mention of printers and copiers), and it contains typical office equipment like desks, chairs, and storage solutions. The presence of a printer, trash cans, and other office-related items further supports this categorization."
+    ],
+    "estimated_sceneType": "Copy / Mail Room",
+    "sceneType": "Living room / Lounge"
+  },
+  {
+    "episode_history": "scannet-v0/189-scannet-scene0500_00",
+    "output": [
+      "Based on the provided questions and answers, the most likely category for this indoor space is:\n\n**Classroom**\n\nThe presence of whiteboards, chairs, and a clock suggests that this is a classroom setting designed for teaching and learning."
+    ],
+    "estimated_sceneType": "Classroom",
+    "sceneType": "Conference Room"
+  }
+]

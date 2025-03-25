@@ -1,0 +1,207 @@
+  0%|          | 0/79 [00:00<?, ?it/s]Traceback (most recent call last):
+  File "/home/kobashi/miniconda3/envs/habitat/lib/python3.9/site-packages/tenacity/__init__.py", line 382, in __call__
+    result = fn(*args, **kwargs)
+  File "/media/data/code_llm_evaluations/open-eqa/openeqa_sceneType/utils/openai_utils.py", line 95, in call_openai_api
+    completion = client.chat.completions.create(**params)
+  File "/home/kobashi/miniconda3/envs/habitat/lib/python3.9/site-packages/openai/_utils/_utils.py", line 279, in wrapper
+    return func(*args, **kwargs)
+  File "/home/kobashi/miniconda3/envs/habitat/lib/python3.9/site-packages/openai/resources/chat/completions/completions.py", line 879, in create
+    return self._post(
+  File "/home/kobashi/miniconda3/envs/habitat/lib/python3.9/site-packages/openai/_base_client.py", line 1242, in post
+    return cast(ResponseT, self.request(cast_to, opts, stream=stream, stream_cls=stream_cls))
+  File "/home/kobashi/miniconda3/envs/habitat/lib/python3.9/site-packages/openai/_base_client.py", line 919, in request
+    return self._request(
+  File "/home/kobashi/miniconda3/envs/habitat/lib/python3.9/site-packages/openai/_base_client.py", line 1023, in _request
+    raise self._make_status_error_from_response(err.response) from None
+openai.APIStatusError: Error code: 405 - {'detail': 'Multimodal is not supported for model: {inp.model}'}
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/media/data/code_llm_evaluations/open-eqa/openeqa_sceneType/baselines/deepinfra.py", line 183, in ask_category
+    output = call_openai_api(
+  File "/home/kobashi/miniconda3/envs/habitat/lib/python3.9/site-packages/tenacity/__init__.py", line 289, in wrapped_f
+    return self(f, *args, **kw)
+  File "/home/kobashi/miniconda3/envs/habitat/lib/python3.9/site-packages/tenacity/__init__.py", line 379, in __call__
+    do = self.iter(retry_state=retry_state)
+  File "/home/kobashi/miniconda3/envs/habitat/lib/python3.9/site-packages/tenacity/__init__.py", line 326, in iter
+    raise retry_exc from fut.exception()
+tenacity.RetryError: RetryError[<Future at 0x7efc12cb3220 state=finished raised APIStatusError>]
+  0%|          | 0/79 [00:23<?, ?it/s]
+Traceback (most recent call last):
+  File "/home/kobashi/miniconda3/envs/habitat/lib/python3.9/site-packages/tenacity/__init__.py", line 382, in __call__
+    result = fn(*args, **kwargs)
+  File "/media/data/code_llm_evaluations/open-eqa/openeqa_sceneType/utils/openai_utils.py", line 95, in call_openai_api
+    completion = client.chat.completions.create(**params)
+  File "/home/kobashi/miniconda3/envs/habitat/lib/python3.9/site-packages/openai/_utils/_utils.py", line 279, in wrapper
+    return func(*args, **kwargs)
+  File "/home/kobashi/miniconda3/envs/habitat/lib/python3.9/site-packages/openai/resources/chat/completions/completions.py", line 879, in create
+    return self._post(
+  File "/home/kobashi/miniconda3/envs/habitat/lib/python3.9/site-packages/openai/_base_client.py", line 1242, in post
+    return cast(ResponseT, self.request(cast_to, opts, stream=stream, stream_cls=stream_cls))
+  File "/home/kobashi/miniconda3/envs/habitat/lib/python3.9/site-packages/openai/_base_client.py", line 919, in request
+    return self._request(
+  File "/home/kobashi/miniconda3/envs/habitat/lib/python3.9/site-packages/openai/_base_client.py", line 1023, in _request
+    raise self._make_status_error_from_response(err.response) from None
+openai.APIStatusError: Error code: 405 - {'detail': 'Multimodal is not supported for model: {inp.model}'}
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/kobashi/miniconda3/envs/habitat/lib/python3.9/runpy.py", line 197, in _run_module_as_main
+    return _run_code(code, main_globals, None,
+  File "/home/kobashi/miniconda3/envs/habitat/lib/python3.9/runpy.py", line 87, in _run_code
+    exec(code, run_globals)
+  File "/media/data/code_llm_evaluations/open-eqa/openeqa_sceneType/baselines/deepinfra.py", line 307, in <module>
+    main(parse_args())
+  File "/media/data/code_llm_evaluations/open-eqa/openeqa_sceneType/baselines/deepinfra.py", line 250, in main
+    output = ask_category(
+  File "/media/data/code_llm_evaluations/open-eqa/openeqa_sceneType/baselines/deepinfra.py", line 194, in ask_category
+    raise e
+  File "/media/data/code_llm_evaluations/open-eqa/openeqa_sceneType/baselines/deepinfra.py", line 183, in ask_category
+    output = call_openai_api(
+  File "/home/kobashi/miniconda3/envs/habitat/lib/python3.9/site-packages/tenacity/__init__.py", line 289, in wrapped_f
+    return self(f, *args, **kw)
+  File "/home/kobashi/miniconda3/envs/habitat/lib/python3.9/site-packages/tenacity/__init__.py", line 379, in __call__
+    do = self.iter(retry_state=retry_state)
+  File "/home/kobashi/miniconda3/envs/habitat/lib/python3.9/site-packages/tenacity/__init__.py", line 326, in iter
+    raise retry_exc from fut.exception()
+tenacity.RetryError: RetryError[<Future at 0x7efc12cb3220 state=finished raised APIStatusError>]
+  0%|          | 0/79 [00:00<?, ?it/s]Traceback (most recent call last):
+  File "/home/kobashi/miniconda3/envs/habitat/lib/python3.9/site-packages/tenacity/__init__.py", line 382, in __call__
+    result = fn(*args, **kwargs)
+  File "/media/data/code_llm_evaluations/open-eqa/openeqa_sceneType/utils/openai_utils.py", line 95, in call_openai_api
+    completion = client.chat.completions.create(**params)
+  File "/home/kobashi/miniconda3/envs/habitat/lib/python3.9/site-packages/openai/_utils/_utils.py", line 279, in wrapper
+    return func(*args, **kwargs)
+  File "/home/kobashi/miniconda3/envs/habitat/lib/python3.9/site-packages/openai/resources/chat/completions/completions.py", line 879, in create
+    return self._post(
+  File "/home/kobashi/miniconda3/envs/habitat/lib/python3.9/site-packages/openai/_base_client.py", line 1242, in post
+    return cast(ResponseT, self.request(cast_to, opts, stream=stream, stream_cls=stream_cls))
+  File "/home/kobashi/miniconda3/envs/habitat/lib/python3.9/site-packages/openai/_base_client.py", line 919, in request
+    return self._request(
+  File "/home/kobashi/miniconda3/envs/habitat/lib/python3.9/site-packages/openai/_base_client.py", line 1023, in _request
+    raise self._make_status_error_from_response(err.response) from None
+openai.APIStatusError: Error code: 405 - {'detail': 'Multimodal is not supported for model: {inp.model}'}
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/media/data/code_llm_evaluations/open-eqa/openeqa_sceneType/baselines/deepinfra.py", line 183, in ask_category
+    output = call_openai_api(
+  File "/home/kobashi/miniconda3/envs/habitat/lib/python3.9/site-packages/tenacity/__init__.py", line 289, in wrapped_f
+    return self(f, *args, **kw)
+  File "/home/kobashi/miniconda3/envs/habitat/lib/python3.9/site-packages/tenacity/__init__.py", line 379, in __call__
+    do = self.iter(retry_state=retry_state)
+  File "/home/kobashi/miniconda3/envs/habitat/lib/python3.9/site-packages/tenacity/__init__.py", line 326, in iter
+    raise retry_exc from fut.exception()
+tenacity.RetryError: RetryError[<Future at 0x7f0e365d8220 state=finished raised APIStatusError>]
+  0%|          | 0/79 [00:16<?, ?it/s]
+Traceback (most recent call last):
+  File "/home/kobashi/miniconda3/envs/habitat/lib/python3.9/site-packages/tenacity/__init__.py", line 382, in __call__
+    result = fn(*args, **kwargs)
+  File "/media/data/code_llm_evaluations/open-eqa/openeqa_sceneType/utils/openai_utils.py", line 95, in call_openai_api
+    completion = client.chat.completions.create(**params)
+  File "/home/kobashi/miniconda3/envs/habitat/lib/python3.9/site-packages/openai/_utils/_utils.py", line 279, in wrapper
+    return func(*args, **kwargs)
+  File "/home/kobashi/miniconda3/envs/habitat/lib/python3.9/site-packages/openai/resources/chat/completions/completions.py", line 879, in create
+    return self._post(
+  File "/home/kobashi/miniconda3/envs/habitat/lib/python3.9/site-packages/openai/_base_client.py", line 1242, in post
+    return cast(ResponseT, self.request(cast_to, opts, stream=stream, stream_cls=stream_cls))
+  File "/home/kobashi/miniconda3/envs/habitat/lib/python3.9/site-packages/openai/_base_client.py", line 919, in request
+    return self._request(
+  File "/home/kobashi/miniconda3/envs/habitat/lib/python3.9/site-packages/openai/_base_client.py", line 1023, in _request
+    raise self._make_status_error_from_response(err.response) from None
+openai.APIStatusError: Error code: 405 - {'detail': 'Multimodal is not supported for model: {inp.model}'}
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/kobashi/miniconda3/envs/habitat/lib/python3.9/runpy.py", line 197, in _run_module_as_main
+    return _run_code(code, main_globals, None,
+  File "/home/kobashi/miniconda3/envs/habitat/lib/python3.9/runpy.py", line 87, in _run_code
+    exec(code, run_globals)
+  File "/media/data/code_llm_evaluations/open-eqa/openeqa_sceneType/baselines/deepinfra.py", line 307, in <module>
+    main(parse_args())
+  File "/media/data/code_llm_evaluations/open-eqa/openeqa_sceneType/baselines/deepinfra.py", line 250, in main
+    output = ask_category(
+  File "/media/data/code_llm_evaluations/open-eqa/openeqa_sceneType/baselines/deepinfra.py", line 194, in ask_category
+    raise e
+  File "/media/data/code_llm_evaluations/open-eqa/openeqa_sceneType/baselines/deepinfra.py", line 183, in ask_category
+    output = call_openai_api(
+  File "/home/kobashi/miniconda3/envs/habitat/lib/python3.9/site-packages/tenacity/__init__.py", line 289, in wrapped_f
+    return self(f, *args, **kw)
+  File "/home/kobashi/miniconda3/envs/habitat/lib/python3.9/site-packages/tenacity/__init__.py", line 379, in __call__
+    do = self.iter(retry_state=retry_state)
+  File "/home/kobashi/miniconda3/envs/habitat/lib/python3.9/site-packages/tenacity/__init__.py", line 326, in iter
+    raise retry_exc from fut.exception()
+tenacity.RetryError: RetryError[<Future at 0x7f0e365d8220 state=finished raised APIStatusError>]
+  0%|          | 0/79 [00:00<?, ?it/s]Traceback (most recent call last):
+  File "/home/kobashi/miniconda3/envs/habitat/lib/python3.9/site-packages/tenacity/__init__.py", line 382, in __call__
+    result = fn(*args, **kwargs)
+  File "/media/data/code_llm_evaluations/open-eqa/openeqa_sceneType/utils/openai_utils.py", line 95, in call_openai_api
+    completion = client.chat.completions.create(**params)
+  File "/home/kobashi/miniconda3/envs/habitat/lib/python3.9/site-packages/openai/_utils/_utils.py", line 279, in wrapper
+    return func(*args, **kwargs)
+  File "/home/kobashi/miniconda3/envs/habitat/lib/python3.9/site-packages/openai/resources/chat/completions/completions.py", line 879, in create
+    return self._post(
+  File "/home/kobashi/miniconda3/envs/habitat/lib/python3.9/site-packages/openai/_base_client.py", line 1242, in post
+    return cast(ResponseT, self.request(cast_to, opts, stream=stream, stream_cls=stream_cls))
+  File "/home/kobashi/miniconda3/envs/habitat/lib/python3.9/site-packages/openai/_base_client.py", line 919, in request
+    return self._request(
+  File "/home/kobashi/miniconda3/envs/habitat/lib/python3.9/site-packages/openai/_base_client.py", line 1023, in _request
+    raise self._make_status_error_from_response(err.response) from None
+openai.APIStatusError: Error code: 405 - {'detail': 'Multimodal is not supported for model: {inp.model}'}
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/media/data/code_llm_evaluations/open-eqa/openeqa_sceneType/baselines/deepinfra.py", line 183, in ask_category
+    output = call_openai_api(
+  File "/home/kobashi/miniconda3/envs/habitat/lib/python3.9/site-packages/tenacity/__init__.py", line 289, in wrapped_f
+    return self(f, *args, **kw)
+  File "/home/kobashi/miniconda3/envs/habitat/lib/python3.9/site-packages/tenacity/__init__.py", line 379, in __call__
+    do = self.iter(retry_state=retry_state)
+  File "/home/kobashi/miniconda3/envs/habitat/lib/python3.9/site-packages/tenacity/__init__.py", line 326, in iter
+    raise retry_exc from fut.exception()
+tenacity.RetryError: RetryError[<Future at 0x7fd83e21c220 state=finished raised APIStatusError>]
+  0%|          | 0/79 [00:23<?, ?it/s]
+Traceback (most recent call last):
+  File "/home/kobashi/miniconda3/envs/habitat/lib/python3.9/site-packages/tenacity/__init__.py", line 382, in __call__
+    result = fn(*args, **kwargs)
+  File "/media/data/code_llm_evaluations/open-eqa/openeqa_sceneType/utils/openai_utils.py", line 95, in call_openai_api
+    completion = client.chat.completions.create(**params)
+  File "/home/kobashi/miniconda3/envs/habitat/lib/python3.9/site-packages/openai/_utils/_utils.py", line 279, in wrapper
+    return func(*args, **kwargs)
+  File "/home/kobashi/miniconda3/envs/habitat/lib/python3.9/site-packages/openai/resources/chat/completions/completions.py", line 879, in create
+    return self._post(
+  File "/home/kobashi/miniconda3/envs/habitat/lib/python3.9/site-packages/openai/_base_client.py", line 1242, in post
+    return cast(ResponseT, self.request(cast_to, opts, stream=stream, stream_cls=stream_cls))
+  File "/home/kobashi/miniconda3/envs/habitat/lib/python3.9/site-packages/openai/_base_client.py", line 919, in request
+    return self._request(
+  File "/home/kobashi/miniconda3/envs/habitat/lib/python3.9/site-packages/openai/_base_client.py", line 1023, in _request
+    raise self._make_status_error_from_response(err.response) from None
+openai.APIStatusError: Error code: 405 - {'detail': 'Multimodal is not supported for model: {inp.model}'}
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/kobashi/miniconda3/envs/habitat/lib/python3.9/runpy.py", line 197, in _run_module_as_main
+    return _run_code(code, main_globals, None,
+  File "/home/kobashi/miniconda3/envs/habitat/lib/python3.9/runpy.py", line 87, in _run_code
+    exec(code, run_globals)
+  File "/media/data/code_llm_evaluations/open-eqa/openeqa_sceneType/baselines/deepinfra.py", line 307, in <module>
+    main(parse_args())
+  File "/media/data/code_llm_evaluations/open-eqa/openeqa_sceneType/baselines/deepinfra.py", line 250, in main
+    output = ask_category(
+  File "/media/data/code_llm_evaluations/open-eqa/openeqa_sceneType/baselines/deepinfra.py", line 194, in ask_category
+    raise e
+  File "/media/data/code_llm_evaluations/open-eqa/openeqa_sceneType/baselines/deepinfra.py", line 183, in ask_category
+    output = call_openai_api(
+  File "/home/kobashi/miniconda3/envs/habitat/lib/python3.9/site-packages/tenacity/__init__.py", line 289, in wrapped_f
+    return self(f, *args, **kw)
+  File "/home/kobashi/miniconda3/envs/habitat/lib/python3.9/site-packages/tenacity/__init__.py", line 379, in __call__
+    do = self.iter(retry_state=retry_state)
+  File "/home/kobashi/miniconda3/envs/habitat/lib/python3.9/site-packages/tenacity/__init__.py", line 326, in iter
+    raise retry_exc from fut.exception()
+tenacity.RetryError: RetryError[<Future at 0x7fd83e21c220 state=finished raised APIStatusError>]

@@ -1,0 +1,476 @@
+[
+  {
+    "episode_history": "scannet-v0/100-scannet-scene0598_00",
+    "output": "Based on the provided questions and answers, the following categories best describe the indoor space:\n\n- **Apartment**\n- **Bathroom**\n- **Bedroom / Hotel**\n- **Bookstore / Library**\n- **Classroom**\n- **Conference Room**\n- **Copy / Mail Room**\n- **Kitchen**\n- **Laundry Room**\n- **Living room / Lounge**\n- **Lobby**\n- **Office**\n- **Storage / Basement / Garage**\n\nThe questions and answers suggest a variety of common indoor spaces, including residential areas, workspaces, and public or shared spaces like libraries.",
+    "estimated_sceneType": "Apartment",
+    "sceneType": "Bookstore / Library"
+  },
+  {
+    "episode_history": "scannet-v0/101-scannet-scene0256_00",
+    "output": "Based on the provided questions and answers, the best category for the indoor space described is:\n\n- Bedroom / Hotel\n\nThis category best fits the context of the questions and answers, which involve personal items and furniture typically found in a bedroom or hotel room.",
+    "estimated_sceneType": "Bedroom / Hotel",
+    "sceneType": "Office"
+  },
+  {
+    "episode_history": "scannet-v0/102-scannet-scene0222_00",
+    "output": "Based on the provided questions and answers, it is challenging to confidently determine a specific category for the indoor space. The questions and answers do not provide enough contextual information to categorize the space accurately. Therefore, an appropriate guess would be:\n\n\\boxed{\\text{Laundry Room}}",
+    "estimated_sceneType": null,
+    "sceneType": "Bedroom / Hotel"
+  },
+  {
+    "episode_history": "scannet-v0/103-scannet-scene0527_00",
+    "output": "Based on the questions and answers provided, the best category for the indoor space described is:\n\n\\boxed{\\text{Bathroom}}",
+    "estimated_sceneType": null,
+    "sceneType": "Bathroom"
+  },
+  {
+    "episode_history": "scannet-v0/104-scannet-scene0616_01",
+    "output": "Based on the provided questions and answers, the most appropriate category for the indoor space is:\n\n- **Apartment**",
+    "estimated_sceneType": "Apartment",
+    "sceneType": "Living room / Lounge"
+  },
+  {
+    "episode_history": "scannet-v0/105-scannet-scene0207_01",
+    "output": "Based on the provided questions and answers, the most appropriate category for the indoor space is:\n\n- **Laundry Room**",
+    "estimated_sceneType": "Laundry Room",
+    "sceneType": "Apartment"
+  },
+  {
+    "episode_history": "scannet-v0/106-scannet-scene0633_00",
+    "output": "Based on the questions and answers provided, the best category for the indoor space is:\n\n- **Living room / Lounge**",
+    "estimated_sceneType": "Living room / Lounge",
+    "sceneType": "Bedroom / Hotel"
+  },
+  {
+    "episode_history": "scannet-v0/108-scannet-scene0354_00",
+    "output": "Based on the provided questions and answers, the best category for the indoor space described is:\n\n- Conference Room\n\nThis is because the questions and answers involve details such as a conference table, a whiteboard, a television, and a charging outlet, which are common features in conference rooms.",
+    "estimated_sceneType": "Conference Room",
+    "sceneType": "Conference Room"
+  },
+  {
+    "episode_history": "scannet-v0/109-scannet-scene0648_01",
+    "output": "Based on the provided questions and answers, the most appropriate category for the indoor space is:\n\n- **Office**",
+    "estimated_sceneType": "Office",
+    "sceneType": "Bedroom / Hotel"
+  },
+  {
+    "episode_history": "scannet-v0/110-scannet-scene0050_00",
+    "output": "Based on the questions and answers provided, the best category for the indoor space is:\n\n- **Office**",
+    "estimated_sceneType": "Office",
+    "sceneType": "Living room / Lounge"
+  },
+  {
+    "episode_history": "scannet-v0/111-scannet-scene0550_00",
+    "output": "Based on the questions and answers provided, the best category for the indoor space is:\n\n- Bathroom",
+    "estimated_sceneType": "Bathroom",
+    "sceneType": "Bathroom"
+  },
+  {
+    "episode_history": "scannet-v0/112-scannet-scene0591_02",
+    "output": "Based on the provided questions and answers, the indoor space described in the questions seems to be an office. Here's the reasoning:\n\n1. **Yellow thing on the couch**: A throw pillow (Category: Bedroom / Hotel)\n2. **What is plugged in by the door**: A heater (Category: Laundry Room)\n3. **What color is the stapler**: Blue (Category: Laundry Room)\n4. **What color is the couch**: Black (Category: Bedroom / Hotel)\n5. **What is on each side of the wall where the door is located**: Shelves (Category: Bedroom / Hotel)\n6. **What color is the couch**: Black (Category: Bedroom / Hotel)\n7. **What is across from the couch**: A short bookshelf (Category: Bedroom / Hotel)\n8. **Is it daytime outside?**: No (Category: Office)\n9. **Is anything hanging on the wall hooks?**: No (Category: Office)\n10. **I need some energy, is there anything to drink?**: Yes, a can of Red Bull (Category: Office)\n11. **What logo is visible in the top shelf to the right when one enters?**: Red Bull (Category: Office)\n12. **What is visible on top of the desk divider to the left?**: A small golden trophy (Category: Office)\n13. **Where is the tape?**: On top of the shelves of files (Category: Office)\n14. **When one enters the room, which side is the research poster on?**: To the left (Category: Office)\n\nGiven the context and the questions, the most fitting category for this indoor space is an office.",
+    "estimated_sceneType": "Office",
+    "sceneType": "Office"
+  },
+  {
+    "episode_history": "scannet-v0/113-scannet-scene0207_00",
+    "output": "Based on the provided questions and answers, the most appropriate category for the indoor space is:\n\n- **Laundry Room**",
+    "estimated_sceneType": "Laundry Room",
+    "sceneType": "Apartment"
+  },
+  {
+    "episode_history": "scannet-v0/114-scannet-scene0084_00",
+    "output": "Based on the questions and answers provided, the indoor space described in the questions seems to be a bathroom. Here's the reasoning:\n\n1. **Trash bin under the sink** - This is a common feature in bathrooms.\n2. **A caution sign against the wall** - This is typical in bathrooms for safety reasons.\n3. **Beige counter** - Common in bathrooms for countertops.\n4. **Bright green piece of paper by the door** - This could be a paper towel or toilet paper, both of which are frequently found in bathrooms.\n5. **Sink turned off** - This is a safety measure in a bathroom.\n6. **Trash full** - This is not typical in a bathroom, as trash is usually stored in a designated bin.\n7. **Jacket on the counter** - This could be a piece of clothing left in a bathroom.\n8. **Light from a window** - This is a common source of natural light in bathrooms.\n9. **Lift the handle to turn on the sink** - This is a common action in a bathroom.\n10. **Shampoo behind the jacket** - This is a common place for shampoo in a bathroom.\n11. **Extra toilet paper rolls behind the paper towel dispenser** - This is a typical storage area in a bathroom.\n\nGiven these details, the best category for this space is **Bathroom**.",
+    "estimated_sceneType": "Bathroom",
+    "sceneType": "Bathroom"
+  },
+  {
+    "episode_history": "scannet-v0/115-scannet-scene0046_02",
+    "output": "Based on the provided questions and answers, the most appropriate category for the indoor space is:\n\n- **Office**",
+    "estimated_sceneType": "Office",
+    "sceneType": "Apartment"
+  },
+  {
+    "episode_history": "scannet-v0/116-scannet-scene0077_01",
+    "output": "Based on the provided questions and answers, the most appropriate category for the indoor space is:\n\n- **Office**",
+    "estimated_sceneType": "Office",
+    "sceneType": "Office"
+  },
+  {
+    "episode_history": "scannet-v0/120-scannet-scene0684_01",
+    "output": "Based on the provided questions and answers, the best category for the indoor space described is:\n\n- **Apartment**",
+    "estimated_sceneType": "Apartment",
+    "sceneType": "Office"
+  },
+  {
+    "episode_history": "scannet-v0/121-scannet-scene0462_00",
+    "output": "Based on the provided questions and answers, the best category for the indoor space described is:\n\n- **Laundry Room**",
+    "estimated_sceneType": "Laundry Room",
+    "sceneType": "Copy / Mail Room"
+  },
+  {
+    "episode_history": "scannet-v0/122-scannet-scene0647_01",
+    "output": "Based on the provided questions and answers, the best category to describe the indoor space is:\n\n- **Living room / Lounge**",
+    "estimated_sceneType": "Living room / Lounge",
+    "sceneType": "Living room / Lounge"
+  },
+  {
+    "episode_history": "scannet-v0/123-scannet-scene0412_01",
+    "output": "Based on the provided questions and answers, the best category for the indoor space described is:\n\n- **Apartment**",
+    "estimated_sceneType": "Apartment",
+    "sceneType": "Kitchen"
+  },
+  {
+    "episode_history": "scannet-v0/124-scannet-scene0131_02",
+    "output": "Based on the provided questions and answers, the indoor space described in the first question is most likely an \"Apartment.\" The description of the black, square-shape object on the table as a \"monitor\" aligns with common household items found in apartments. The other questions and answers do not provide enough specific details to confidently determine a category for the remaining spaces. Therefore, the most appropriate guess is:\n\n- Apartment",
+    "estimated_sceneType": "Apartment",
+    "sceneType": "Office"
+  },
+  {
+    "episode_history": "scannet-v0/125-scannet-scene0426_00",
+    "output": "Based on the provided questions and answers, it is challenging to confidently determine a specific category for the indoor space. The questions and answers do not provide enough specific details about the layout, furniture arrangement, or other distinguishing features that would allow for a precise categorization. Therefore, an appropriate guess would be:\n\n\\boxed{\\text{Laundry Room}}",
+    "estimated_sceneType": null,
+    "sceneType": "Bedroom / Hotel"
+  },
+  {
+    "episode_history": "scannet-v0/126-scannet-scene0574_02",
+    "output": "Based on the provided questions and answers, the most appropriate category for the indoor space described is:\n\n- **Apartment**",
+    "estimated_sceneType": "Apartment",
+    "sceneType": "Bathroom"
+  },
+  {
+    "episode_history": "scannet-v0/127-scannet-scene0578_00",
+    "output": "Based on the provided questions and answers, it is most likely that the indoor space is an **Office**. The context of the questions revolves around everyday items and activities typically found in an office setting, such as a backpack, a water bottle, and a table. The presence of a chair, a table, and a door also supports this categorization.",
+    "estimated_sceneType": "Office",
+    "sceneType": "Conference Room"
+  },
+  {
+    "episode_history": "scannet-v0/128-scannet-scene0678_02",
+    "output": "Based on the provided questions and answers, the most appropriate category for the indoor space is:\n\n- **Laundry Room**",
+    "estimated_sceneType": "Laundry Room",
+    "sceneType": "Laundry Room"
+  },
+  {
+    "episode_history": "scannet-v0/129-scannet-scene0575_00",
+    "output": "Based on the provided questions and answers, it appears that the indoor space is a **Conference Room**. The context of the questions and answers suggests a setting where a video conference system is being used, which is typically found in conference rooms.",
+    "estimated_sceneType": "Conference Room",
+    "sceneType": "Conference Room"
+  },
+  {
+    "episode_history": "scannet-v0/130-scannet-scene0696_00",
+    "output": "Based on the provided questions and answers, the indoor space described in the first question is most likely an \"Apartment.\" The other questions and answers do not provide enough specific details to confidently determine a category for the remaining spaces. Therefore, the most appropriate guess is:\n\n- Apartment",
+    "estimated_sceneType": "Apartment",
+    "sceneType": "Storage / Basement / Garage"
+  },
+  {
+    "episode_history": "scannet-v0/132-scannet-scene0645_01",
+    "output": "Based on the questions and answers provided, the indoor space described in the questions seems to be a bedroom or hotel room. Here's the reasoning:\n\n1. **Bed**: The questions mention beds, which are common in bedrooms and hotel rooms.\n2. **Nightstand**: The presence of a nightstand is also typical in bedrooms and hotel rooms.\n3. **Bedroom / Hotel**: The context of the questions and the items mentioned (beds, nightstand, etc.) strongly suggest that the space is a bedroom or a hotel room.\n\nTherefore, the category that best describes the space based on the given information is:\n\n\\boxed{\\text{Bedroom / Hotel}}",
+    "estimated_sceneType": "Bedroom / Hotel",
+    "sceneType": "Bedroom / Hotel"
+  },
+  {
+    "episode_history": "scannet-v0/133-scannet-scene0704_00",
+    "output": "Based on the provided questions and answers, the most appropriate category for the indoor space described is:\n\n- **Printing Room**\n\nThe questions and answers indicate that the space is involved in printing activities, such as retrieving paper from a printer, using a paper cup, and handling paper-related items.",
+    "estimated_sceneType": null,
+    "sceneType": "Copy / Mail Room"
+  },
+  {
+    "episode_history": "scannet-v0/134-scannet-scene0695_03",
+    "output": "Based on the provided questions and answers, the best category for the indoor space is:\n\n- **Living room / Lounge**",
+    "estimated_sceneType": "Living room / Lounge",
+    "sceneType": "Bedroom / Hotel"
+  },
+  {
+    "episode_history": "scannet-v0/135-scannet-scene0131_00",
+    "output": "Based on the provided questions and answers, the following categories can be determined:\n\nQ: What is located on the right wall?\nA: a whiteboard\n\nQ: What leans on the wall on the right?\nA: a poster\n\nQ: What is the color of the flag on the wall?\nA: red\n\nQ: What is the shape of the mirror on the table?\nA: round\n\nQ: Is there room on the whiteboard to write something?\nA: no\n\nQ: Is the whiteboard clean?\nA: no\n\nQ: Is the monitor on the right desk connected to the desktop?\nA: no\n\nQ: Where I can draw diagram?\nA: the whiteboard\n\nQ: I have a macbook, how can I connect it to the monitor?\nA: using the adapter on the desk\n\nQ: I am going to the scientific conference, what should I take with me?\nA: the poster\n\nQ: Where is the mirror located?\nA: on the desk\n\nQ: Where bottle with red liquid is located?\nA: on the desk\n\nThe most appropriate category for the given information is \"Office.\"",
+    "estimated_sceneType": "Office",
+    "sceneType": "Office"
+  },
+  {
+    "episode_history": "scannet-v0/137-scannet-scene0598_01",
+    "output": "Based on the provided questions and answers, the best category for the indoor space described is:\n\n- **Office**",
+    "estimated_sceneType": "Office",
+    "sceneType": "Bookstore / Library"
+  },
+  {
+    "episode_history": "scannet-v0/138-scannet-scene0500_01",
+    "output": "Based on the provided questions and answers, the best category for the indoor space is:\n\n\\boxed{\\text{Office}}",
+    "estimated_sceneType": null,
+    "sceneType": "Conference Room"
+  },
+  {
+    "episode_history": "scannet-v0/139-scannet-scene0647_00",
+    "output": "Based on the provided questions and answers, the following categories can be determined:\n\n1. **Apartment**: The room appears to be a common living space within a residential building, as indicated by the presence of a ping-pong table, barstools, sofa, and other typical household items.\n2. **Bathroom**: The mention of a ping-pong table and barstools suggests that the room is likely a bathroom, as these items are commonly found in bathrooms for casual activities.\n3. **Bedroom / Hotel**: The presence of a sofa and barstools, along with the typical layout of a bedroom or hotel room, supports this category.\n4. **Bookstore / Library**: The presence of a ping-pong table and barstools does not strongly suggest a bookstore or library setting, as these environments typically do not have such recreational furniture.\n5. **Classroom**: The presence of a sofa and barstools does not strongly suggest a classroom setting, as classrooms are usually designed for learning and do not have recreational furniture.\n6. **Conference Room**: The presence of a sofa and barstools does not strongly suggest a conference room setting, as conference rooms are typically designed for meetings and do not have recreational furniture.\n7. **Copy / Mail Room**: The presence of a ping-pong table and barstools does not strongly suggest a copy or mail room setting, as these environments typically do not have recreational furniture.\n8. **Kitchen**: The presence of a sofa and barstools does not strongly suggest a kitchen setting, as kitchens are typically designed for cooking and do not have recreational furniture.\n9. **Laundry Room**: The presence of a sofa and barstools does not strongly suggest a laundry room setting, as laundry rooms are typically designed for laundry and do not have recreational furniture.\n10. **Living room / Lounge**: The presence of a sofa and barstools suggests that the room is likely a living room or lounge, as these are common areas for relaxation and socializing.\n11. **Lobby**: The presence of a sofa and barstools suggests that the room is likely a lobby, as these are common areas for guests to relax and socialize.\n12. **Office**: The presence of a sofa and barstools suggests that the room is likely an office, as these are common areas for employees to work and socialize.\n13. **Storage / Basement / Garage**: The presence of a sofa and barstools does not strongly suggest a storage or basement/garage setting, as these environments typically do not have recreational furniture.\n\nGiven the information provided, the most likely categories are:\n- Apartment\n- Bathroom\n- Bedroom / Hotel\n- Living room / Lounge\n- Lobby\n- Office",
+    "estimated_sceneType": "Apartment",
+    "sceneType": "Living room / Lounge"
+  },
+  {
+    "episode_history": "scannet-v0/140-scannet-scene0077_00",
+    "output": "Based on the provided questions and answers, the most appropriate category for the indoor space described is:\n\n- **Apartment**",
+    "estimated_sceneType": "Apartment",
+    "sceneType": "Office"
+  },
+  {
+    "episode_history": "scannet-v0/141-scannet-scene0651_01",
+    "output": "Based on the provided questions and answers, the best category for the indoor space described is:\n\n- Kitchen",
+    "estimated_sceneType": "Kitchen",
+    "sceneType": "Kitchen"
+  },
+  {
+    "episode_history": "scannet-v0/142-scannet-scene0653_01",
+    "output": "Based on the provided questions and answers, the most appropriate category for the indoor space is:\n\n- Office",
+    "estimated_sceneType": "Office",
+    "sceneType": "Office"
+  },
+  {
+    "episode_history": "scannet-v0/144-scannet-scene0700_01",
+    "output": "Based on the provided questions and answers, the most appropriate category for the indoor space is:\n\n\\boxed{\\text{Office}}",
+    "estimated_sceneType": null,
+    "sceneType": "Office"
+  },
+  {
+    "episode_history": "scannet-v0/145-scannet-scene0193_00",
+    "output": "Based on the provided questions and answers, the most appropriate category for the indoor space is:\n\n- **Apartment**",
+    "estimated_sceneType": "Apartment",
+    "sceneType": "Bedroom / Hotel"
+  },
+  {
+    "episode_history": "scannet-v0/146-scannet-scene0518_00",
+    "output": "Based on the questions and answers provided, the indoor space described in the last question is most likely a \"Living room / Lounge.\" The description mentions a \"sectional couch\" and a \"comfy pillow with an image of a clock on it,\" which are typical features of a living room or lounge area.",
+    "estimated_sceneType": "Living room / Lounge",
+    "sceneType": "Living room / Lounge"
+  },
+  {
+    "episode_history": "scannet-v0/147-scannet-scene0699_00",
+    "output": "Based on the provided questions and answers, the most appropriate category for the indoor space is:\n\n- **Apartment**",
+    "estimated_sceneType": "Apartment",
+    "sceneType": "Bedroom / Hotel"
+  },
+  {
+    "episode_history": "scannet-v0/148-scannet-scene0203_01",
+    "output": "Based on the provided questions and answers, the best category for the indoor space is:\n\n- **Living room / Lounge**",
+    "estimated_sceneType": "Living room / Lounge",
+    "sceneType": "Living room / Lounge"
+  },
+  {
+    "episode_history": "scannet-v0/149-scannet-scene0426_02",
+    "output": "Based on the questions and answers provided, the most appropriate category for this indoor space is:\n\n- Bedroom / Hotel\n\nThe questions and answers revolve around typical bedroom items and activities, such as the bed, bedsheet, and window, which are common in bedrooms. The mention of a Yonex racket bag and a dresser suggests a bedroom setting. Additionally, the presence of a dresser and a chair in the room further supports this category.",
+    "estimated_sceneType": "Bedroom / Hotel",
+    "sceneType": "Bedroom / Hotel"
+  },
+  {
+    "episode_history": "scannet-v0/150-scannet-scene0648_00",
+    "output": "Based on the provided questions and answers, the most appropriate category for the indoor space is:\n\n- **Laundry Room**",
+    "estimated_sceneType": "Laundry Room",
+    "sceneType": "Bedroom / Hotel"
+  },
+  {
+    "episode_history": "scannet-v0/151-scannet-scene0217_00",
+    "output": "Based on the provided questions and answers, the best category for the indoor space is:\n\n- **Living room / Lounge**\n\nHere's the reasoning:\n\n1. **Q: What is on the table next to the door?**\n   - Answer: A red backpack\n   - Category: Not specified, but the presence of a backpack suggests it's a living room or lounge.\n\n2. **Q: What color is the mattress?**\n   - Answer: Black\n   - Category: Not specified, but the presence of a mattress suggests it's a living room or lounge.\n\n3. **Q: Can I stand in between my bed and my white desk?**\n   - Answer: No\n   - Category: Not specified, but the presence of a bed and a desk suggests it's a living room or lounge.\n\n4. **Q: Can I put something big under my bed?**\n   - Answer: Yes\n   - Category: Not specified, but the presence of a bed suggests it's a living room or lounge.\n\n5. **Q: Is the door open or closed?**\n   - Answer: Open\n   - Category: Not specified, but the presence of a door suggests it's a living room or lounge.\n\n6. **Q: Are the garbage bins full or empty?**\n   - Answer: Empty\n   - Category: Not specified, but the presence of garbage bins suggests it's a living room or lounge.\n\n7. **Q: Is the black chair easy to move around?**\n   - Answer: Yes\n   - Category: Not specified, but the presence of a chair suggests it's a living room or lounge.\n\n8. **Q: How many choices do I have if I want to recycle something?**\n   - Answer: 2\n   - Category: Not specified, but the presence of recycling suggests it's a living room or lounge.\n\n9. **Q: Is there anyone living in this room?**\n   - Answer: No\n   - Category: Not specified, but the presence of a room suggests it's a living room or lounge.\n\n10. **Q: How many roommate will I have if I live here?**\n    - Answer: 1\n    - Category: Not specified, but the presence of a room suggests it's a living room or lounge.\n\n11. **Where is my backpack?**\n    - Answer: On the white desk\n    - Category: Not specified, but the presence of a desk suggests it's a living room or lounge.\n\nThe other categories (Apartment, Bathroom, Bedroom / Hotel, Bookstore / Library, Classroom, Conference Room, Copy / Mail Room, Kitchen, Laundry Room, Office, Storage / Basement / Garage) are less likely based on the provided information.",
+    "estimated_sceneType": "Living room / Lounge",
+    "sceneType": "Bedroom / Hotel"
+  },
+  {
+    "episode_history": "scannet-v0/152-scannet-scene0494_00",
+    "output": "Based on the provided questions and answers, the best category for the indoor space is:\n\n- **Living room / Lounge**",
+    "estimated_sceneType": "Living room / Lounge",
+    "sceneType": "Conference Room"
+  },
+  {
+    "episode_history": "scannet-v0/154-scannet-scene0193_01",
+    "output": "Based on the provided questions and answers, the best category for the indoor space is:\n\n- **Living room / Lounge**",
+    "estimated_sceneType": "Living room / Lounge",
+    "sceneType": "Bedroom / Hotel"
+  },
+  {
+    "episode_history": "scannet-v0/155-scannet-scene0164_02",
+    "output": "Based on the provided questions and answers, the best category to describe the indoor space is:\n\n- Kitchen",
+    "estimated_sceneType": "Kitchen",
+    "sceneType": "Kitchen"
+  },
+  {
+    "episode_history": "scannet-v0/156-scannet-scene0461_00",
+    "output": "Based on the provided questions and answers, the best category for the indoor space described is:\n\n- Living room / Lounge",
+    "estimated_sceneType": "Living room / Lounge",
+    "sceneType": "Lobby"
+  },
+  {
+    "episode_history": "scannet-v0/157-scannet-scene0015_00",
+    "output": "Based on the provided questions and answers, the most appropriate category for the indoor space is:\n\n- **Office**",
+    "estimated_sceneType": "Office",
+    "sceneType": "Classroom"
+  },
+  {
+    "episode_history": "scannet-v0/158-scannet-scene0356_00",
+    "output": "Based on the provided questions and answers, the best category for the indoor space is:\n\n- **Office**",
+    "estimated_sceneType": "Office",
+    "sceneType": "Bedroom / Hotel"
+  },
+  {
+    "episode_history": "scannet-v0/160-scannet-scene0488_01",
+    "output": "Based on the provided questions and answers, the best category for the indoor space is:\n\n- Kitchen",
+    "estimated_sceneType": "Kitchen",
+    "sceneType": "Kitchen"
+  },
+  {
+    "episode_history": "scannet-v0/161-scannet-scene0583_00",
+    "output": "Based on the provided questions and answers, the best category to describe the indoor space is:\n\n- **Bathroom**",
+    "estimated_sceneType": "Bathroom",
+    "sceneType": "Bathroom"
+  },
+  {
+    "episode_history": "scannet-v0/162-scannet-scene0535_00",
+    "output": "Based on the provided questions and answers, the indoor space described in the questions seems to be a **Living room / Lounge**. Here's the reasoning:\n\n1. **Sweater Hanging**: The question mentions a \"char,\" which is a term often used in the context of a sweater, suggesting a personal or casual living space.\n2. **Cylindrical Object**: The description of a \"cylindrical object in the corner of the room\" could be a common feature in living rooms or lounges, such as a lampshade or a decorative item.\n3. **Tape Dispensers**: The color of the tape dispensers is mentioned, which is a detail that could be relevant to a specific type of living space.\n4. **Cables on the Floor**: The presence of cables on the floor is a detail that could be found in a living room or lounge where electronic devices are commonly used.\n5. **Binder Clip on the Cork Board**: The mention of a binder clip attached to a cork board near the door is a detail that could be found in a living room or lounge, where such items are often used for organization.\n6. **Blinds**: The question about whether the blinds are closed suggests a window or a door, which is a common feature in living rooms or lounges.\n7. **Lamp for Work**: The question about getting more light to work at the desk indicates a space designed for relaxation and work, which is characteristic of a living room or lounge.\n8. **Desks and Chairs**: The question about how many people can sit on chairs in the room suggests a space designed for seating, which is typical in a living room or lounge.\n9. **Building Flooring**: The question about the floor being on the ground floor suggests a space that is part of a larger building, which could be a living room or lounge in a multi-story building.\n10. **Work Space**: The question about the number of people intended to use the space for work indicates a space designed for specific activities, which is typical in a living room or lounge.\n11. **Mirror**: The question about the mirror being behind a brown bookshelf suggests a space with decorative elements, which is common in living rooms or lounges.\n\nGiven these details, the most fitting category for the described space is **Living room / Lounge**.",
+    "estimated_sceneType": "Living room / Lounge",
+    "sceneType": "Office"
+  },
+  {
+    "episode_history": "scannet-v0/163-scannet-scene0164_03",
+    "output": "Based on the provided questions and answers, it is challenging to confidently determine a category for the indoor space. The questions and answers do not provide enough specific details to narrow down the space to one of the listed categories. Therefore, an appropriate guess would be:\n\n\\boxed{\\text{Laundry Room}}",
+    "estimated_sceneType": null,
+    "sceneType": "Kitchen"
+  },
+  {
+    "episode_history": "scannet-v0/165-scannet-scene0406_00",
+    "output": "Based on the provided questions and answers, the indoor space described in the questions seems to be a bathroom. Here's the reasoning:\n\n1. **Towel on the toilet**: The question states, \"What is on top of the toilet?\" and the answer is, \"a towel.\" This indicates that the space is likely a bathroom where towels are commonly placed.\n\n2. **Shower head**: The question asks about the color of the shower head, which is \"silver.\" This is a detail that could be found in a bathroom, but it doesn't directly confirm the space.\n\n3. **Bath mat**: The question mentions, \"What is behind the curtain?\" and the answer is, \"a bath mat.\" Bath mats are typically found in bathrooms for drying off after a shower.\n\n4. **Shampoo and other items**: The question asks where to place a bottle of shampoo while showering, which is a common concern in a bathroom.\n\n5. **Towel drying**: The question asks where to place another towel to dry, which is another common activity in a bathroom.\n\n6. **Angled bar for balance**: The question about the angled bar in the shower area is a detail that could be found in a bathroom, but it doesn't confirm the space.\n\nGiven these points, the most appropriate category for the described space is:\n\n\\boxed{\\text{Bathroom}}",
+    "estimated_sceneType": "Bathroom",
+    "sceneType": "Bathroom"
+  },
+  {
+    "episode_history": "scannet-v0/166-scannet-scene0435_03",
+    "output": "Based on the questions and answers provided, the indoor space described in the questions seems to be a bedroom or hotel room. Here's the reasoning:\n\n1. **Questions about personal belongings and furniture**: The questions mention devices like an iPad, a piece of paper, and a crumpled piece of paper, which are common in personal spaces like bedrooms or hotel rooms.\n2. **Questions about the condition of the room**: The answers indicate that the space is not suitable for sitting (Q: Is the space on the chair to sit? - A: no) and that the bed is made (Q: Is the bed made? - A: yes), which are typical characteristics of a bedroom.\n3. **Questions about personal items**: The answers mention items like luggage (Q: What color is my luggage? - A: black) and snacks (Q: What can I use to carry some snacks on a hike? - A: the backpack), which are personal items that one might find in a bedroom or hotel room.\n\nGiven these points, the most appropriate category for this indoor space is \"Bedroom / Hotel.\"",
+    "estimated_sceneType": "Bedroom / Hotel",
+    "sceneType": "Bedroom / Hotel"
+  },
+  {
+    "episode_history": "scannet-v0/167-scannet-scene0307_01",
+    "output": "Based on the provided questions and answers, the indoor space described in the questions seems to be a \"Laundry Room.\" Here's the reasoning:\n\n1. **Laundry Room**: The questions mention a dryer, which is commonly found in a laundry room, and a towel, which is used for drying clothes.\n2. **Laundry Room**: The presence of a dryer and a towel indicates that the room is likely used for laundry purposes.\n3. **Laundry Room**: The questions also mention a key, which is typically used to lock and unlock doors, suggesting that the room is designed for laundry activities.\n\nGiven these clues, the best category for this indoor space is \"Laundry Room.\"",
+    "estimated_sceneType": "Laundry Room",
+    "sceneType": "Storage / Basement / Garage"
+  },
+  {
+    "episode_history": "scannet-v0/168-scannet-scene0655_01",
+    "output": "Based on the provided questions and answers, the best category for the indoor space is:\n\n- **Office**",
+    "estimated_sceneType": "Office",
+    "sceneType": "Conference Room"
+  },
+  {
+    "episode_history": "scannet-v0/169-scannet-scene0695_01",
+    "output": "Based on the provided questions and answers, the best category for the indoor space is:\n\n- **Living room / Lounge**",
+    "estimated_sceneType": "Living room / Lounge",
+    "sceneType": "Bedroom / Hotel"
+  },
+  {
+    "episode_history": "scannet-v0/170-scannet-scene0378_01",
+    "output": "Based on the provided questions and answers, the best category for the indoor space described is:\n\n- **Office**",
+    "estimated_sceneType": "Office",
+    "sceneType": "Office"
+  },
+  {
+    "episode_history": "scannet-v0/171-scannet-scene0222_01",
+    "output": "Based on the provided questions and answers, it is challenging to confidently determine a specific category for the indoor space. The questions and answers do not provide enough contextual information to categorize the space accurately. Therefore, an appropriate guess would be:\n\n\\boxed{\\text{Laundry Room}}",
+    "estimated_sceneType": null,
+    "sceneType": "Bedroom / Hotel"
+  },
+  {
+    "episode_history": "scannet-v0/172-scannet-scene0496_00",
+    "output": "Based on the provided questions and answers, the following categories can be determined:\n\n1. **Apartment** - The questions and answers mention various objects and furniture typically found in an indoor space, such as a projector, chairs, a table, and a chalkboard, which are common in an apartment setting.\n2. **Bathroom** - The presence of a projector and a chalkboard eraser suggests that the space could be a bathroom, as these items are often used in bathrooms for various purposes.\n3. **Bedroom / Hotel** - The mention of a projector and a chalkboard eraser could also suggest a bedroom or hotel room, as these items are commonly found in such spaces.\n4. **Bookstore / Library** - The presence of a projector and a chalkboard eraser could also suggest a bookstore or library, as these spaces often use projectors for presentations and chalkboards for displaying information.\n5. **Classroom** - The mention of a projector and a chalkboard eraser could also suggest a classroom, as these items are commonly used in educational settings.\n6. **Conference Room** - The mention of a projector and a chalkboard eraser could also suggest a conference room, as these items are commonly used in professional meetings and presentations.\n7. **Copy / Mail Room** - The mention of a projector and a chalkboard eraser could also suggest a copy or mail room, as these spaces often use projectors for presentations and chalkboards for displaying information.\n8. **Kitchen** - The mention of a projector and a chalkboard eraser does not strongly suggest a kitchen, as these items are not typically found in kitchens.\n9. **Laundry Room** - The mention of a projector and a chalkboard eraser does not strongly suggest a laundry room, as these items are not typically found in laundry rooms.\n10. **Living room / Lounge** - The mention of a projector and a chalkboard eraser does not strongly suggest a living room or lounge, as these items are not typically found in living rooms or lounges.\n11. **Lobby** - The mention of a projector and a chalkboard eraser does not strongly suggest a lobby, as these items are not typically found in lobbies.\n12. **Office** - The mention of a projector and a chalkboard eraser does not strongly suggest an office, as these items are not typically found in offices.\n13. **Storage / Basement / Garage** - The mention of a projector and a chalkboard eraser does not strongly suggest storage or a basement/garage, as these items are not typically found in these spaces.\n\nGiven the context and the items mentioned, the most likely categories are **Apartment**, **Bathroom**, and **Bedroom / Hotel**.",
+    "estimated_sceneType": "Apartment",
+    "sceneType": "Conference Room"
+  },
+  {
+    "episode_history": "scannet-v0/173-scannet-scene0278_01",
+    "output": "Based on the provided questions and answers, it is challenging to confidently determine a specific category for the indoor space. The questions and answers mostly pertain to objects and their locations within an indoor setting, such as a workspace, office, or storage area. However, the presence of a bulletin board, chairs, counters, and a printer suggests that the space could be an office or a similar workspace.\n\nGiven the available information, the most appropriate category for this indoor space is:\n\n\\boxed{\\text{Office}}",
+    "estimated_sceneType": "Office",
+    "sceneType": "Copy / Mail Room"
+  },
+  {
+    "episode_history": "scannet-v0/174-scannet-scene0086_01",
+    "output": "Based on the provided questions and answers, the following categories can be determined:\n\n1. **Bathroom**: \n   - Q: What is the black object above the sink?\n     - A: A soap dispenser\n   - Q: What is the color of the wall?\n     - A: Yellow\n   - Q: Are the toilet paper holders filled?\n     - A: Yes\n   - Q: What is below the sink?\n     - A: A floor drain.\n   - Q: What is the silver object on the wall next to the second toilet?\n     - A: Garbage\n   - Q: Is the sink running?\n     - A: No\n   - Q: What might help a person in a wheel chair stabilize themselves while transitioning to the toilet?\n     - A: The grab bars above the toilet in the second stall\n   - Q: Do the toilets flush automatically or need to be flushed manually?\n     - A: Manually\n   - Q: What kind of person is the larger bathroom designed for?\n     - A: Handicapped person\n   - Q: Where is the plant?\n     - A: Above the paper towel holder.\n\nThe answers suggest that the space is a bathroom, as indicated by the presence of a sink, toilets, and various bathroom-related items.",
+    "estimated_sceneType": "Bathroom",
+    "sceneType": "Bathroom"
+  },
+  {
+    "episode_history": "scannet-v0/175-scannet-scene0329_01",
+    "output": "Based on the provided questions and answers, the most appropriate category for the indoor space is:\n\n- **Office**\n\nThis is because the questions and answers involve office-related items and activities, such as writing messages, using a water bottle, and dealing with office equipment like a fire alarm.",
+    "estimated_sceneType": "Office",
+    "sceneType": "Lobby"
+  },
+  {
+    "episode_history": "scannet-v0/176-scannet-scene0643_00",
+    "output": "Based on the provided questions and answers, the indoor space described in the questions seems to be an office. Here's the reasoning:\n\n1. **Monitor and Desk Setup**: The presence of two monitors and desks suggests a workspace.\n2. **Office Items**: Items like a stapler, calendar, mug, and paper with a checkerboard pattern are common in office environments.\n3. **Office Supplies**: The mention of a stapler, mug, and calendar are typical office supplies.\n4. **Office Furniture**: Desks and office chairs are typical furniture in an office setting.\n\nGiven these clues, the most appropriate category for this space is **Office**.",
+    "estimated_sceneType": "Office",
+    "sceneType": "Office"
+  },
+  {
+    "episode_history": "scannet-v0/177-scannet-scene0608_02",
+    "output": "Based on the provided questions and answers, the best category to describe the indoor space is:\n\n- **Living room / Lounge**",
+    "estimated_sceneType": "Living room / Lounge",
+    "sceneType": "Living room / Lounge"
+  },
+  {
+    "episode_history": "scannet-v0/178-scannet-scene0685_02",
+    "output": "Based on the provided questions and answers, the most appropriate category for the indoor space is:\n\n- **Office**",
+    "estimated_sceneType": "Office",
+    "sceneType": "Copy / Mail Room"
+  },
+  {
+    "episode_history": "scannet-v0/179-scannet-scene0300_01",
+    "output": "Based on the provided questions and answers, the best category for the indoor space is:\n\n- **Apartment**",
+    "estimated_sceneType": "Apartment",
+    "sceneType": "Bookstore / Library"
+  },
+  {
+    "episode_history": "scannet-v0/180-scannet-scene0100_02",
+    "output": "Based on the provided questions and answers, the best category for the indoor space described is:\n\n- **Bathroom**",
+    "estimated_sceneType": "Bathroom",
+    "sceneType": "Bathroom"
+  },
+  {
+    "episode_history": "scannet-v0/181-scannet-scene0314_00",
+    "output": "Based on the provided questions and answers, the best category for the indoor space is:\n\n- **Apartment**",
+    "estimated_sceneType": "Apartment",
+    "sceneType": "Lobby"
+  },
+  {
+    "episode_history": "scannet-v0/182-scannet-scene0645_00",
+    "output": "Based on the provided questions and answers, the indoor space described in the questions seems to be a bedroom or hotel room. Here's the reasoning:\n\n1. **Nightstand with a Lamp and a Clock**: This indicates a bedroom or hotel room where a lamp and a clock are common fixtures.\n2. **Bed and Bedding**: The presence of a bed and bedding suggests a bedroom or hotel room setting.\n3. **Nightstand**: A nightstand is typically found in bedrooms or hotel rooms.\n4. **Bedding Color**: The mention of white bedding aligns with common bedroom settings.\n5. **Floor Material**: The mention of a carpeted floor is common in bedrooms or hotel rooms.\n6. **Nightstand and Bed**: The nightstand is mentioned between two beds, which is typical in a bedroom or hotel room setup.\n\nGiven these clues, the most appropriate category for this space is **Bedroom / Hotel**.",
+    "estimated_sceneType": "Bedroom / Hotel",
+    "sceneType": "Bedroom / Hotel"
+  },
+  {
+    "episode_history": "scannet-v0/183-scannet-scene0231_01",
+    "output": "Based on the provided questions and answers, the best category for the indoor space is:\n\n- **Living room / Lounge**",
+    "estimated_sceneType": "Living room / Lounge",
+    "sceneType": "Apartment"
+  },
+  {
+    "episode_history": "scannet-v0/185-scannet-scene0435_00",
+    "output": "Based on the provided questions and answers, the best category for the indoor space described in the questions is:\n\n- **Bathroom**\n\nThe questions and answers indicate various elements such as a trash can, a chair, a painting, a coffee machine, a suitcase, and a light, which are commonly found in a bathroom setting.",
+    "estimated_sceneType": "Bathroom",
+    "sceneType": "Bedroom / Hotel"
+  },
+  {
+    "episode_history": "scannet-v0/186-scannet-scene0549_01",
+    "output": "Based on the provided questions and answers, the most appropriate category for the indoor space is:\n\n- **Living room / Lounge**",
+    "estimated_sceneType": "Living room / Lounge",
+    "sceneType": "Lobby"
+  },
+  {
+    "episode_history": "scannet-v0/187-scannet-scene0655_02",
+    "output": "Based on the questions and answers provided, the most appropriate category for the indoor space is:\n\n- Conference Room",
+    "estimated_sceneType": "Conference Room",
+    "sceneType": "Conference Room"
+  },
+  {
+    "episode_history": "scannet-v0/188-scannet-scene0593_00",
+    "output": "Based on the questions and answers provided, the most appropriate category for the indoor space is:\n\n- Office",
+    "estimated_sceneType": "Office",
+    "sceneType": "Living room / Lounge"
+  },
+  {
+    "episode_history": "scannet-v0/189-scannet-scene0500_00",
+    "output": "Based on the provided questions and answers, the most predominant category that best describes the indoor space is:\n\n- **Classroom**\n\nThis is because the questions and answers revolve around typical classroom elements such as whiteboards, chairs, and a focus on teaching and learning activities.",
+    "estimated_sceneType": "Classroom",
+    "sceneType": "Conference Room"
+  }
+]

@@ -1,0 +1,476 @@
+[
+  {
+    "episode_history": "scannet-v0/100-scannet-scene0598_00",
+    "output": "Based on the image, my best guess is **Bookstore / Library**. \n\nHere's why:\n\n*   There's a large wooden table and chair set-up, suggesting a study or reading area.\n*   The presence of a backpack and the overall setting with windows and what appears to be shelving in the background points to a place for books and studying.\n\nLet me know if you\u2019d like me to elaborate on my reasoning!",
+    "estimated_sceneType": "Bookstore / Library",
+    "sceneType": "Bookstore / Library"
+  },
+  {
+    "episode_history": "scannet-v0/101-scannet-scene0256_00",
+    "output": "Based on the image, my best guess is **Office**. \n\nHere's why:\n\n*   **Large Desk:** The prominent white desk suggests a workspace.\n*   **Sewing Machine:** The presence of a sewing machine indicates it's likely a space for crafting or design work.\n*   **Storage Cart:** The rolling cart suggests storage for supplies.\n\nLet me know if you\u2019d like me to elaborate on my reasoning!",
+    "estimated_sceneType": "Office",
+    "sceneType": "Office"
+  },
+  {
+    "episode_history": "scannet-v0/102-scannet-scene0222_00",
+    "output": "Based on the image, my best guess is **Bedroom / Hotel**. \n\nHere's why:\n\n*   **Desk and Bed:** The presence of a desk and a bed are strong indicators of a bedroom.\n*   **Storage:** The shelving unit and storage bins suggest a personal space for belongings.\n*   **Hotel-like appearance:** The overall style and arrangement resemble a typical student dorm room or a hotel room.\n\nIt's not a perfect fit for any of the other categories.",
+    "estimated_sceneType": "Bedroom / Hotel",
+    "sceneType": "Bedroom / Hotel"
+  },
+  {
+    "episode_history": "scannet-v0/103-scannet-scene0527_00",
+    "output": "Based on the image, the most likely category is **Bathroom**. \n\nHere's why:\n\n*   There\u2019s a sink, faucet, and tile backsplash \u2013 all common features of a bathroom.\n*   The presence of a shower curtain further supports this.\n\nLet me know if you\u2019d like me to elaborate on why I chose this category!",
+    "estimated_sceneType": "Bathroom",
+    "sceneType": "Bathroom"
+  },
+  {
+    "episode_history": "scannet-v0/104-scannet-scene0616_01",
+    "output": "Based on the image, my best guess is **Living room / Lounge**. \n\nThe presence of two armchairs suggests a seating area, which is characteristic of a living room or lounge.",
+    "estimated_sceneType": "Living room / Lounge",
+    "sceneType": "Living room / Lounge"
+  },
+  {
+    "episode_history": "scannet-v0/105-scannet-scene0207_01",
+    "output": "Based on the image, my best guess is **Living room / Lounge**. \n\nHere's my reasoning:\n\n*   There's a sofa and chairs \u2013 typical furniture for a living room.\n*   The general arrangement and clutter suggest a relaxed, informal space.\n\nLet me know if you\u2019d like me to refine my answer!",
+    "estimated_sceneType": "Living room / Lounge",
+    "sceneType": "Apartment"
+  },
+  {
+    "episode_history": "scannet-v0/106-scannet-scene0633_00",
+    "output": "Based on the image, my best guess is **Bedroom / Hotel**.\n\nHere's why:\n\n*   **Baby Changing Station:** The prominent changing table indicates a space designed for childcare.\n*   **Comfortable Chair:** The armchair suggests a comfortable space for feeding or soothing a baby.\n*   **Small Side Table:** A small table with a lamp is typical of a bedroom or hotel room.\n*   **Neutral Decor:** The muted color palette and simple furnishings are common in these types of rooms.\n\nLet me know if you'd like me to elaborate on my reasoning!",
+    "estimated_sceneType": "Bedroom / Hotel",
+    "sceneType": "Bedroom / Hotel"
+  },
+  {
+    "episode_history": "scannet-v0/108-scannet-scene0354_00",
+    "output": "Based on the image showing a table and chairs, it appears to be a **Conference Room**.",
+    "estimated_sceneType": "Conference Room",
+    "sceneType": "Conference Room"
+  },
+  {
+    "episode_history": "scannet-v0/109-scannet-scene0648_01",
+    "output": "Based on the image, my best guess is **Bedroom / Hotel**.\n\nHere's why:\n\n*   **Desk and Chair:** The presence of a small desk and a chair are common features of bedrooms or hotel rooms.\n*   **Furniture Style:** The style of the furniture (wood desk, simple chair) is typical of hotel rooms.\n*   **Rug:** The carpeted floor is another common element in these types of spaces.\n*   **Other Items:** The backpack and sandals further support the idea of a guest room.\n\nIt's not definitively an apartment, as apartments can have similar setups, but the overall composition leans towards a hotel room setting.",
+    "estimated_sceneType": "Bedroom / Hotel",
+    "sceneType": "Bedroom / Hotel"
+  },
+  {
+    "episode_history": "scannet-v0/110-scannet-scene0050_00",
+    "output": "Based on the image, my best guess is **Living room / Lounge**. \n\nHere's my reasoning:\n\n*   There's a piano, a music stand, and a piano bench \u2013 all items commonly found in a living room or lounge area.\n*   The surrounding space appears to be a typical room within a home.\n\nLet me know if you'd like me to elaborate on why I chose that category!",
+    "estimated_sceneType": "Living room / Lounge",
+    "sceneType": "Living room / Lounge"
+  },
+  {
+    "episode_history": "scannet-v0/111-scannet-scene0550_00",
+    "output": "Based on the image, the most likely category is **Bathroom**. \n\nHere's why:\n\n*   There\u2019s a toilet and sink.\n*   There\u2019s a shower curtain.\n*   The general appearance and fixtures are consistent with a bathroom space.\n\nLet me know if you\u2019d like me to analyze another image!",
+    "estimated_sceneType": "Bathroom",
+    "sceneType": "Bathroom"
+  },
+  {
+    "episode_history": "scannet-v0/112-scannet-scene0591_02",
+    "output": "Based on the image, my best guess is **Office**. \n\nHere's why:\n\n*   **Storage Furniture:** The presence of a tall, multi-drawer unit suggests it\u2019s for storage, common in office environments.\n*   **Desk/Chair:** A small desk and chair are present.\n*   **Wall Features:** The electrical outlet and light switch suggest a functional space.\n*   **Overall Arrangement:** The layout\u2014a small workspace with storage\u2014points towards an office setting.\n\nIt's not a perfect fit, but office seems the most likely category.",
+    "estimated_sceneType": "Office",
+    "sceneType": "Office"
+  },
+  {
+    "episode_history": "scannet-v0/113-scannet-scene0207_00",
+    "output": "Based on the image, my best guess is **Bedroom / Hotel**.\n\nHere's why:\n\n*   There\u2019s a bed prominently displayed.\n*   There are pillows and blankets on the bed.\n*   A television is present.\n*   A dark-colored blanket is draped over a chair.\n\nThese elements are typical of a bedroom, especially in a hotel setting.",
+    "estimated_sceneType": "Bedroom / Hotel",
+    "sceneType": "Apartment"
+  },
+  {
+    "episode_history": "scannet-v0/114-scannet-scene0084_00",
+    "output": "Based on the image, my best guess is **Bathroom**. \n\nHere's why:\n\n*   I see a sink, faucet, countertop, and a soap dispenser \u2013 all common features of a bathroom.\n*   The tile flooring and white walls further support this identification.\n\nLet me know if you\u2019d like me to analyze another image!",
+    "estimated_sceneType": "Bathroom",
+    "sceneType": "Bathroom"
+  },
+  {
+    "episode_history": "scannet-v0/115-scannet-scene0046_02",
+    "output": "Based on the image, my best guess is **Bedroom / Hotel**.\n\nHere's why:\n\n*   **Desk and Chairs:** The presence of a desk and chair strongly suggests a space for working or relaxing.\n*   **Luggage:** The bags indicate this is likely a guest room.\n*   **Window:** The window confirms it's an indoor space, probably within a building.\n*   **Decor:** The curtains and framed picture are typical of a hotel room.\n\nLet me know if you'd like me to elaborate on any of my reasoning!",
+    "estimated_sceneType": "Bedroom / Hotel",
+    "sceneType": "Apartment"
+  },
+  {
+    "episode_history": "scannet-v0/116-scannet-scene0077_01",
+    "output": "Based on the image, my best guess is **Storage / Basement / Garage**. \n\nHere's my reasoning:\n\n*   **The furniture:** The presence of a large, flat surface (likely a workbench or table) and stacked boxes suggests storage.\n*   **The lighting:** The dim lighting and cluttered appearance are typical of these types of spaces.\n\nI'm less confident in other categories like \"Office\" due to the lack of typical office equipment.",
+    "estimated_sceneType": "Storage / Basement / Garage",
+    "sceneType": "Office"
+  },
+  {
+    "episode_history": "scannet-v0/120-scannet-scene0684_01",
+    "output": "Based on the image, my best guess is **Office**. \n\nHere's why:\n\n*   The presence of a storage box and a plastic container suggests organizational needs.\n*   The plain walls and flooring are typical of an office environment.\n*   The location appears to be in a corner, which is common in offices.\n\nLet me know if you'd like me to elaborate on my reasoning!",
+    "estimated_sceneType": "Office",
+    "sceneType": "Office"
+  },
+  {
+    "episode_history": "scannet-v0/121-scannet-scene0462_00",
+    "output": "Based on the image, my best guess is **Copy/Mail Room**. \n\nHere's why:\n\n*   The prominent device is a large-format copier/scanner, which is a key feature of a copy/mail room.\n*   The overall space appears to be a functional area with minimal decor, consistent with a room used for administrative tasks.\n\nLet me know if you\u2019d like me to elaborate on my reasoning!",
+    "estimated_sceneType": null,
+    "sceneType": "Copy / Mail Room"
+  },
+  {
+    "episode_history": "scannet-v0/122-scannet-scene0647_01",
+    "output": "Based on the image, my best guess is **Office**. \n\nHere's why:\n\n*   **Large Artwork:** The prominent, colorful dandelion painting suggests a space intended for visual interest, common in offices.\n*   **Ping Pong Table:** The presence of a ping pong table indicates a recreational area, frequently found in office break rooms or common areas.\n*   **Wall Panels:** The pegboard-like wall panels are often used for storage and organization in office environments.\n\nLet me know if you'd like me to elaborate on my reasoning!",
+    "estimated_sceneType": "Office",
+    "sceneType": "Living room / Lounge"
+  },
+  {
+    "episode_history": "scannet-v0/123-scannet-scene0412_01",
+    "output": "Based on the image, my best guess is **Office**. \n\nHere's why:\n\n*   **Large windows:** The expansive windows suggest a space designed for natural light, common in offices.\n*   **Rows of chairs and tables:** The arrangement of chairs and tables in the foreground is typical of an office space.\n*   **White walls:** White walls are frequently used in office environments to create a clean and neutral atmosphere.\n\nWhile it could potentially be a lobby or conference room, the presence of chairs and tables leaning against the wall points more strongly towards an office setting.",
+    "estimated_sceneType": "Office",
+    "sceneType": "Kitchen"
+  },
+  {
+    "episode_history": "scannet-v0/124-scannet-scene0131_02",
+    "output": "Based on the image, my best guess is **Office**. \n\nHere's why:\n\n*   **Desk and Computer:** The prominent desk with a computer and monitor are strong indicators.\n*   **Office Supplies:** There are papers, a small mirror, and what appears to be a stapler, typical office items.\n*   **Storage:** The wooden drawers suggest a workspace with storage. \n\nWhile it could potentially be a student's study area (leaning towards a bedroom/hotel), the overall setup feels more aligned with a professional office environment.",
+    "estimated_sceneType": "Office",
+    "sceneType": "Office"
+  },
+  {
+    "episode_history": "scannet-v0/125-scannet-scene0426_00",
+    "output": "Based on the image, my best guess is **Bedroom / Hotel**.\n\nHere's why:\n\n*   There\u2019s a bed visible in the lower left corner.\n*   The main focus is on a keyboard and computer setup, which is a common setup for someone who spends time in their room.\n*   The overall arrangement suggests a personal space within a room, typical of a bedroom or hotel room.\n\nLet me know if you\u2019d like me to analyze the image further!",
+    "estimated_sceneType": "Bedroom / Hotel",
+    "sceneType": "Bedroom / Hotel"
+  },
+  {
+    "episode_history": "scannet-v0/126-scannet-scene0574_02",
+    "output": "Based on the image, my best guess is **Bedroom / Hotel**.\n\nHere's why:\n\n*   The presence of a door with a handle and a keyhole suggests it\u2019s an entrance to a room.\n*   The wallpaper pattern and the overall appearance are consistent with a hotel room.\n\nLet me know if you\u2019d like me to analyze the image further or provide a different guess!",
+    "estimated_sceneType": "Bedroom / Hotel",
+    "sceneType": "Bathroom"
+  },
+  {
+    "episode_history": "scannet-v0/127-scannet-scene0578_00",
+    "output": "Based on the image, my best guess is **Conference Room**. \n\nHere's why:\n\n*   There\u2019s a table and chairs, suggesting a space for meetings or presentations.\n*   A projector screen is visible.\n*   The room appears relatively small and enclosed, typical of a meeting space.\n\nLet me know if you\u2019d like me to elaborate on my reasoning!",
+    "estimated_sceneType": "Conference Room",
+    "sceneType": "Conference Room"
+  },
+  {
+    "episode_history": "scannet-v0/128-scannet-scene0678_02",
+    "output": "Based on the presence of a washing machine, laundry baskets, and stacks of folded clothes, I'd guess this is a **Laundry Room**.",
+    "estimated_sceneType": "Laundry Room",
+    "sceneType": "Laundry Room"
+  },
+  {
+    "episode_history": "scannet-v0/129-scannet-scene0575_00",
+    "output": "Based on the image, my best guess is **Office**. \n\nHere's why:\n\n*   There\u2019s a large desk with a telephone.\n*   There are two office chairs.\n*   The background shows a glass wall, typical of modern office spaces.\n\nLet me know if you\u2019d like me to elaborate on my reasoning!",
+    "estimated_sceneType": "Office",
+    "sceneType": "Conference Room"
+  },
+  {
+    "episode_history": "scannet-v0/130-scannet-scene0696_00",
+    "output": "Based on the image, my best guess is **Living room / Lounge**. \n\nHere's my reasoning:\n\n*   There's a large table and chairs suggesting a place for eating or socializing.\n*   There's a sofa present.\n*   The overall layout and furniture arrangement point to a relaxed, informal space.\n\nLet me know if you'd like me to elaborate on why I chose that category!",
+    "estimated_sceneType": "Living room / Lounge",
+    "sceneType": "Storage / Basement / Garage"
+  },
+  {
+    "episode_history": "scannet-v0/132-scannet-scene0645_01",
+    "output": "Based on the image, my best guess is **Bedroom / Hotel**. \n\nHere's why:\n\n*   There's a bed with pillows and a decorative cushion.\n*   There\u2019s a bedside lamp and table.\n*   The room has a fairly standard, slightly formal appearance, which is common in hotel rooms.\n\nLet me know if you'd like me to elaborate on my reasoning!",
+    "estimated_sceneType": "Bedroom / Hotel",
+    "sceneType": "Bedroom / Hotel"
+  },
+  {
+    "episode_history": "scannet-v0/133-scannet-scene0704_00",
+    "output": "Based on the image, my best guess is **Classroom**. \n\nHere's why:\n\n*   There\u2019s a printer and copier.\n*   There\u2019s a desk area with cabinets.\n*   There\u2019s a trash can.\n*   The floor is a typical linoleum pattern found in educational spaces.\n\nLet me know if you\u2019d like me to elaborate on my reasoning!",
+    "estimated_sceneType": "Classroom",
+    "sceneType": "Copy / Mail Room"
+  },
+  {
+    "episode_history": "scannet-v0/134-scannet-scene0695_03",
+    "output": "Based on the image, my best guess is **Bedroom / Hotel**.\n\nHere's my reasoning:\n\n*   **Desk and Chair:** The presence of a desk and office chair strongly suggests a workspace, common in bedrooms or hotel rooms.\n*   **Electronics:** The laptop, tablet, and lamp point to a space for studying or working.\n*   **Miscellaneous Items:** The scattered items (McDonald's bag, bottles, etc.) suggest a lived-in space, often seen in a bedroom or hotel room.\n*   **Window and Curtains:** The window and curtains are typical of a room where someone might sleep.\n\nLet me know if you\u2019d like me to elaborate on my reasoning!",
+    "estimated_sceneType": "Bedroom / Hotel",
+    "sceneType": "Bedroom / Hotel"
+  },
+  {
+    "episode_history": "scannet-v0/135-scannet-scene0131_00",
+    "output": "Based on the image, my best guess is **Office**. \n\nHere's why:\n\n*   **Desks and Chairs:** The presence of multiple desks and chairs strongly suggests a workspace.\n*   **Computer Monitor:** The computer monitor is a typical piece of equipment found in an office.\n*   **Storage Cabinet:** The wooden cabinet is also a common element in office spaces. \n\nLet me know if you\u2019d like me to elaborate on my reasoning!",
+    "estimated_sceneType": "Office",
+    "sceneType": "Office"
+  },
+  {
+    "episode_history": "scannet-v0/137-scannet-scene0598_01",
+    "output": "Based on the image, my best guess is **Bookstore / Library**. \n\nHere's why:\n\n*   The presence of a large wooden table with attached metal supports is common in libraries and bookstores for studying or browsing.\n*   The shelves in the background are also consistent with a library setting.\n\nLet me know if you'd like me to elaborate on my reasoning or if you have another image to analyze!",
+    "estimated_sceneType": "Bookstore / Library",
+    "sceneType": "Bookstore / Library"
+  },
+  {
+    "episode_history": "scannet-v0/138-scannet-scene0500_01",
+    "output": "Based on the image, my best guess is **Classroom**. \n\nHere's why:\n\n*   **Blackboard:** The prominent chalkboard is a key indicator.\n*   **Tables and Chairs:** The arrangement of tables and chairs suggests a space for instruction or study.\n*   **Wooden Paneling:** The wood paneling and overall aesthetic are consistent with a school or educational environment.\n\nLet me know if you\u2019d like me to elaborate on my reasoning!",
+    "estimated_sceneType": "Classroom",
+    "sceneType": "Conference Room"
+  },
+  {
+    "episode_history": "scannet-v0/139-scannet-scene0647_00",
+    "output": "Based on the image, my best guess is **Storage / Basement / Garage**. \n\nHere's my reasoning:\n\n*   **The large, prominent artwork** suggests a space that isn't frequently used for typical activities.\n*   **The exposed ceiling and concrete walls** are characteristic of storage or basement areas.\n*   **The presence of a ping pong table** suggests it's a space for recreation or possibly storing equipment. \n\nLet me know if you\u2019d like me to elaborate on my reasoning or consider alternative possibilities!",
+    "estimated_sceneType": "Storage / Basement / Garage",
+    "sceneType": "Living room / Lounge"
+  },
+  {
+    "episode_history": "scannet-v0/140-scannet-scene0077_00",
+    "output": "Based on the image, my best guess is **Copy/Mail Room**. \n\nHere's why:\n\n*   There's a prominent copier/multifunction printer.\n*   There are filing cabinets and trays of documents.\n*   The space appears to be a small, functional area dedicated to paperwork and printing.\n\nLet me know if you'd like me to analyze another image!",
+    "estimated_sceneType": null,
+    "sceneType": "Office"
+  },
+  {
+    "episode_history": "scannet-v0/141-scannet-scene0651_01",
+    "output": "Based on the image showing a stove and refrigerator, my guess is **Kitchen**.",
+    "estimated_sceneType": "Kitchen",
+    "sceneType": "Kitchen"
+  },
+  {
+    "episode_history": "scannet-v0/142-scannet-scene0653_01",
+    "output": "Based on the image, my best guess is **Office**. \n\nHere's why:\n\n*   There's a desk with a computer and monitors, suggesting a workspace.\n*   There's a keyboard, mouse, and other office supplies.\n*   A small filing cabinet is present.\n\nLet me know if you'd like me to elaborate on my reasoning or if you have another image to analyze!",
+    "estimated_sceneType": "Office",
+    "sceneType": "Office"
+  },
+  {
+    "episode_history": "scannet-v0/144-scannet-scene0700_01",
+    "output": "Based on the image, my best guess is **Office**. \n\nHere's why:\n\n*   There's a desk with a computer monitor, keyboard, mouse, and documents.\n*   There are pens and stationary items.\n*   A cell phone is present, suggesting it\u2019s a working space.\n\nLet me know if you\u2019d like me to analyze another image!",
+    "estimated_sceneType": "Office",
+    "sceneType": "Office"
+  },
+  {
+    "episode_history": "scannet-v0/145-scannet-scene0193_00",
+    "output": "Based on the image, my best guess is **Bedroom / Hotel**.\n\nHere's why:\n\n*   There\u2019s a bed visible in the background.\n*   A desk and chair are present, suggesting a workspace.\n*   The overall layout and furnishings are typical of a small bedroom, likely in a hotel or student dorm.\n\nLet me know if you\u2019d like me to analyze another image!",
+    "estimated_sceneType": "Bedroom / Hotel",
+    "sceneType": "Bedroom / Hotel"
+  },
+  {
+    "episode_history": "scannet-v0/146-scannet-scene0518_00",
+    "output": "Based on the image, my best guess is **Office**. \n\nHere's why:\n\n*   There are desks with drawers and paperwork.\n*   There are shelving units and whiteboards, which are common features in offices.\n*   The overall arrangement of the space suggests a workspace.\n\nLet me know if you\u2019d like me to elaborate on my reasoning!",
+    "estimated_sceneType": "Office",
+    "sceneType": "Living room / Lounge"
+  },
+  {
+    "episode_history": "scannet-v0/147-scannet-scene0699_00",
+    "output": "Based on the image, my guess is **Bedroom / Hotel**. \n\nHere's why:\n\n*   There\u2019s a bed with bedding.\n*   There\u2019s a bedside table with objects commonly found in a bedroom.\n*   The room has a neutral-colored wall, which is typical of a bedroom or hotel room.\n\n",
+    "estimated_sceneType": "Bedroom / Hotel",
+    "sceneType": "Bedroom / Hotel"
+  },
+  {
+    "episode_history": "scannet-v0/148-scannet-scene0203_01",
+    "output": "Based on the image, my best guess is **Living room / Lounge**. \n\nHere's why:\n\n*   The prominent feature is a large, decorative armchair \u2013 a common element in living rooms or lounges.\n*   There\u2019s a small stool and a blanket, suggesting a comfortable space for relaxation.\n*   The room appears to be a residential area with a wooden floor and a window.\n\n",
+    "estimated_sceneType": "Living room / Lounge",
+    "sceneType": "Living room / Lounge"
+  },
+  {
+    "episode_history": "scannet-v0/149-scannet-scene0426_02",
+    "output": "Based on the image, my best guess is **Living room / Lounge**. \n\nHere's my reasoning:\n\n*   There's a comfortable gaming chair, suggesting a space for relaxation and entertainment.\n*   There's a television and a dresser, typical furniture found in a living room.\n\nLet me know if you\u2019d like me to elaborate on why I chose that category!",
+    "estimated_sceneType": "Living room / Lounge",
+    "sceneType": "Bedroom / Hotel"
+  },
+  {
+    "episode_history": "scannet-v0/150-scannet-scene0648_00",
+    "output": "Based on the image, my best guess is **Bedroom / Hotel**. \n\nHere's why:\n\n*   There's a bed prominently displayed.\n*   There is a desk and bedside table.\n*   The overall impression is of a personal space, likely a bedroom. \n\nLet me know if you\u2019d like me to elaborate on my reasoning!",
+    "estimated_sceneType": "Bedroom / Hotel",
+    "sceneType": "Bedroom / Hotel"
+  },
+  {
+    "episode_history": "scannet-v0/151-scannet-scene0217_00",
+    "output": "Based on the image, my best guess is **Bedroom / Hotel**.\n\nHere's why:\n\n*   There\u2019s a bed with a built-in bench.\n*   There's a wardrobe.\n*   There are drawers.\n\nThese are typical features found in a bedroom, particularly in a hotel room or student dorm.",
+    "estimated_sceneType": "Bedroom / Hotel",
+    "sceneType": "Bedroom / Hotel"
+  },
+  {
+    "episode_history": "scannet-v0/152-scannet-scene0494_00",
+    "output": "Based on the image showing a table and chairs, it appears to be a **Conference Room**. \n\nHere's why:\n\n*   The presence of a table and chairs is a characteristic feature of meeting spaces.\n*   The wall with a whiteboard suggests it\u2019s a space designed for discussion and collaboration.",
+    "estimated_sceneType": "Conference Room",
+    "sceneType": "Conference Room"
+  },
+  {
+    "episode_history": "scannet-v0/154-scannet-scene0193_01",
+    "output": "Based on the image, my best guess is **Office**. \n\nHere's why:\n\n*   There\u2019s a desk and chair, suggesting a workspace.\n*   The room appears to be a small, functional space rather than a living area or a more specialized location like a classroom or lobby.\n\nLet me know if you\u2019d like me to elaborate on my reasoning or if you have another image to analyze!",
+    "estimated_sceneType": "Office",
+    "sceneType": "Bedroom / Hotel"
+  },
+  {
+    "episode_history": "scannet-v0/155-scannet-scene0164_02",
+    "output": "Based on the image, the most appropriate category is **Kitchen**. \n\nHere's why:\n\n*   There\u2019s a stove and an electric coffee maker visible.\n*   There are pots and pans on the stove.\n*   The countertop and cabinets are typical of a kitchen area.",
+    "estimated_sceneType": "Kitchen",
+    "sceneType": "Kitchen"
+  },
+  {
+    "episode_history": "scannet-v0/156-scannet-scene0461_00",
+    "output": "Based on the image, my best guess is **Office**. \n\nHere's why:\n\n*   **Two armchairs and a small table** suggest a waiting or break area.\n*   The overall look \u2013 neutral colors, simple furniture \u2013 is typical of office spaces.\n\nLet me know if you\u2019d like me to elaborate on my reasoning!",
+    "estimated_sceneType": "Office",
+    "sceneType": "Lobby"
+  },
+  {
+    "episode_history": "scannet-v0/157-scannet-scene0015_00",
+    "output": "Based on the image, my best guess is **Conference Room**. \n\nHere's why:\n\n*   There\u2019s a table and chairs, suggesting a space for meetings or discussions.\n*   The whiteboard on the wall is a common feature in conference rooms.\n\nLet me know if you\u2019d like me to elaborate on my reasoning!",
+    "estimated_sceneType": "Conference Room",
+    "sceneType": "Classroom"
+  },
+  {
+    "episode_history": "scannet-v0/158-scannet-scene0356_00",
+    "output": "Based on the image, my best guess is **Bedroom / Hotel**.\n\nHere's why:\n\n*   There\u2019s a desk and chair, suggesting a workspace.\n*   There's a bookshelf, which is common in bedrooms or hotel rooms.\n*   The overall layout and furniture arrangement point towards a private room, likely a bedroom or a hotel room.\n\nLet me know if you\u2019d like me to elaborate on my reasoning!",
+    "estimated_sceneType": "Bedroom / Hotel",
+    "sceneType": "Bedroom / Hotel"
+  },
+  {
+    "episode_history": "scannet-v0/160-scannet-scene0488_01",
+    "output": "Based on the image, my guess is **Kitchen**. \n\nThe presence of a sink, dishwasher, countertops, and cabinets strongly suggests this is a kitchen space.",
+    "estimated_sceneType": "Kitchen",
+    "sceneType": "Kitchen"
+  },
+  {
+    "episode_history": "scannet-v0/161-scannet-scene0583_00",
+    "output": "Based on the image, my guess is **Bathroom**. \n\nThe presence of a toilet, sink, and shower curtain strongly suggests this is a bathroom.",
+    "estimated_sceneType": "Bathroom",
+    "sceneType": "Bathroom"
+  },
+  {
+    "episode_history": "scannet-v0/162-scannet-scene0535_00",
+    "output": "Based on the image, my best guess is **Office**. \n\nHere's why:\n\n*   There are several desks and small tables.\n*   There are office chairs and a stool.\n*   The general arrangement and furnishings suggest a workspace rather than a residential or public space like a lobby or living room.\n\nLet me know if you\u2019d like me to analyze another image!",
+    "estimated_sceneType": "Office",
+    "sceneType": "Office"
+  },
+  {
+    "episode_history": "scannet-v0/163-scannet-scene0164_03",
+    "output": "Based on the image, the most appropriate category is **Kitchen**. \n\nI can see a stove, coffee maker, and various kitchen items on the counter, strongly suggesting it's a kitchen space.",
+    "estimated_sceneType": "Kitchen",
+    "sceneType": "Kitchen"
+  },
+  {
+    "episode_history": "scannet-v0/165-scannet-scene0406_00",
+    "output": "Based on the image, the most appropriate category is **Bathroom**. \n\nI can clearly see a toilet, sink, towels, and toilet paper holder \u2013 all elements commonly found in a bathroom.",
+    "estimated_sceneType": "Bathroom",
+    "sceneType": "Bathroom"
+  },
+  {
+    "episode_history": "scannet-v0/166-scannet-scene0435_03",
+    "output": "Based on the image, my best guess is **Bedroom / Hotel**.\n\nHere's why:\n\n*   **Desk and Chair:** The presence of a desk and chair suggests a workspace.\n*   **Lamp:** Indicates a room intended for relaxation and potentially work.\n*   **Wall Color:** The yellow walls are typical of hotel rooms.\n*   **Overall Arrangement:** The general layout feels like a hotel room setup rather than a home or office.\n\nLet me know if you\u2019d like me to elaborate on my reasoning!",
+    "estimated_sceneType": "Bedroom / Hotel",
+    "sceneType": "Bedroom / Hotel"
+  },
+  {
+    "episode_history": "scannet-v0/167-scannet-scene0307_01",
+    "output": "Based on the image, my best guess is **Laundry Room**. \n\nHere's why:\n\n*   There\u2019s a washing machine and a sink, suggesting laundry facilities.\n*   There's a laundry basket and towels.\n\nLet me know if you'd like me to elaborate on my reasoning!",
+    "estimated_sceneType": "Laundry Room",
+    "sceneType": "Storage / Basement / Garage"
+  },
+  {
+    "episode_history": "scannet-v0/168-scannet-scene0655_01",
+    "output": "Based on the image, my best guess is **Conference Room**. \n\nHere's why:\n\n*   There\u2019s a large table suitable for meetings.\n*   There are multiple chairs around the table.\n*   There\u2019s a whiteboard, often found in meeting spaces.\n*   There are power outlets for electronic devices. \n\nLet me know if you\u2019d like me to analyze another image!",
+    "estimated_sceneType": "Conference Room",
+    "sceneType": "Conference Room"
+  },
+  {
+    "episode_history": "scannet-v0/169-scannet-scene0695_01",
+    "output": "Based on the image, my best guess is **Apartment**. \n\nHere's why:\n\n*   There\u2019s a desk with a laptop, suggesting a workspace.\n*   There\u2019s a bed or couch visible in the background.\n*   The clutter on the desk and around the area is typical of a lived-in apartment setting.\n\nIt's not a clear-cut match for any of the other categories.",
+    "estimated_sceneType": "Apartment",
+    "sceneType": "Bedroom / Hotel"
+  },
+  {
+    "episode_history": "scannet-v0/170-scannet-scene0378_01",
+    "output": "Based on the image, my best guess is **Office**. \n\nHere's why:\n\n*   There's a computer and monitor.\n*   There\u2019s a printer.\n*   There are papers and documents on the desk.\n*   The setup suggests a workspace.\n\nLet me know if you\u2019d like me to elaborate!",
+    "estimated_sceneType": "Office",
+    "sceneType": "Office"
+  },
+  {
+    "episode_history": "scannet-v0/171-scannet-scene0222_01",
+    "output": "Based on the image, my best guess is **Bedroom / Hotel**. \n\nHere's my reasoning:\n\n*   The presence of a chair with cushions and a blanket suggests a place for rest.\n*   The dark lighting and the overall composition resemble a hotel room or a bedroom setting. \n\nLet me know if you\u2019d like me to elaborate on my reasoning!",
+    "estimated_sceneType": "Bedroom / Hotel",
+    "sceneType": "Bedroom / Hotel"
+  },
+  {
+    "episode_history": "scannet-v0/172-scannet-scene0496_00",
+    "output": "Based on the image, my best guess is **Conference Room**. \n\nHere's why:\n\n*   There\u2019s a large chalkboard.\n*   There are several chairs arranged around a table, suggesting a space for meetings or discussions.\n*   A projector screen is visible.\n\nLet me know if you\u2019d like me to elaborate on my reasoning or if you have another image to analyze!",
+    "estimated_sceneType": "Conference Room",
+    "sceneType": "Conference Room"
+  },
+  {
+    "episode_history": "scannet-v0/173-scannet-scene0278_01",
+    "output": "Based on the image, my best guess is **Classroom**. \n\nHere's why:\n\n*   There are desks and chairs visible in the background.\n*   There are bins for trash, which are common in classrooms.\n*   The overall space looks like a learning environment.\n\nLet me know if you\u2019d like me to elaborate on my reasoning!",
+    "estimated_sceneType": "Classroom",
+    "sceneType": "Copy / Mail Room"
+  },
+  {
+    "episode_history": "scannet-v0/174-scannet-scene0086_01",
+    "output": "Based on the image, my best guess is **Bathroom**. \n\nThe presence of two sinks, tiled walls, and flooring strongly suggests this is a restroom or bathroom area.",
+    "estimated_sceneType": "Bathroom",
+    "sceneType": "Bathroom"
+  },
+  {
+    "episode_history": "scannet-v0/175-scannet-scene0329_01",
+    "output": "Based on the image, my best guess is **Living room / Lounge**. \n\nHere's my reasoning:\n\n*   There's a sofa \u2013 a key piece of furniture in a living room or lounge.\n*   The setting appears to be indoors. \n\nLet me know if you\u2019d like me to elaborate on why I chose this category!",
+    "estimated_sceneType": "Living room / Lounge",
+    "sceneType": "Lobby"
+  },
+  {
+    "episode_history": "scannet-v0/176-scannet-scene0643_00",
+    "output": "Based on the image, my best guess is **Office**. \n\nHere's why:\n\n*   There\u2019s a large desk with a computer and office supplies.\n*   There's a phone and paperwork.\n*   The overall setup suggests a workspace.\n\nLet me know if you\u2019d like me to elaborate on why I think it\u2019s an office!",
+    "estimated_sceneType": "Office",
+    "sceneType": "Office"
+  },
+  {
+    "episode_history": "scannet-v0/177-scannet-scene0608_02",
+    "output": "Based on the image, my best guess is **Living room / Lounge**. \n\nHere's my reasoning:\n\n*   There's a comfortable armchair.\n*   A guitar and keyboard are present, suggesting a space for hobbies or relaxation.\n*   There are decorative items and a plant, indicating a lived-in space.\n\nLet me know if you'd like me to elaborate on why I chose that category!",
+    "estimated_sceneType": "Living room / Lounge",
+    "sceneType": "Living room / Lounge"
+  },
+  {
+    "episode_history": "scannet-v0/178-scannet-scene0685_02",
+    "output": "Based on the image, my best guess is **Office**. \n\nHere's why:\n\n*   **Trash Can:** The presence of a large trash can suggests a space where waste disposal is needed, common in offices.\n*   **Door:** The door looks like it leads to an office space.\n*   **Wall Material:** The walls appear to be a plain, neutral color, a frequent feature in office environments.\n\nIt's not a perfect fit, but it\u2019s the most likely category given the visible elements.",
+    "estimated_sceneType": "Office",
+    "sceneType": "Copy / Mail Room"
+  },
+  {
+    "episode_history": "scannet-v0/179-scannet-scene0300_01",
+    "output": "Based on the image, my best guess is **Office**. \n\nHere's why:\n\n*   **Computers:** The presence of two Apple iMacs strongly suggests an office environment.\n*   **Desk and Chairs:** The desk and chairs are typical office furniture.\n*   **Neutral Walls:** The simple, neutral wall color is common in office spaces.\n\nLet me know if you'd like me to refine my guess further!",
+    "estimated_sceneType": "Office",
+    "sceneType": "Bookstore / Library"
+  },
+  {
+    "episode_history": "scannet-v0/180-scannet-scene0100_02",
+    "output": "Based on the image, the category is **Bathroom**. \n\nThe presence of a toilet, sink, and vanity strongly suggests this is a bathroom space.",
+    "estimated_sceneType": "Bathroom",
+    "sceneType": "Bathroom"
+  },
+  {
+    "episode_history": "scannet-v0/181-scannet-scene0314_00",
+    "output": "Based on the image, my best guess is **Conference Room**. \n\nHere's why:\n\n*   There\u2019s a large table suitable for meetings.\n*   There are chairs designed for formal seating.\n*   There\u2019s a partition or screen, suggesting a designated space for discussions.\n\nLet me know if you\u2019d like me to elaborate on my reasoning!",
+    "estimated_sceneType": "Conference Room",
+    "sceneType": "Lobby"
+  },
+  {
+    "episode_history": "scannet-v0/182-scannet-scene0645_00",
+    "output": "Based on the image, my best guess is **Bedroom / Hotel**.\n\nHere's why:\n\n*   There\u2019s a bed prominently displayed.\n*   There\u2019s a bedside table with a lamp and other items commonly found in a bedroom.\n*   The overall setting suggests a private room, typical of a hotel room or a bedroom in a home. \n\nLet me know if you\u2019d like me to elaborate on my reasoning!",
+    "estimated_sceneType": "Bedroom / Hotel",
+    "sceneType": "Bedroom / Hotel"
+  },
+  {
+    "episode_history": "scannet-v0/183-scannet-scene0231_01",
+    "output": "Based on the image, my best guess is **Living room / Lounge**. \n\nHere's my reasoning:\n\n*   There's a comfortable armchair with a cushion.\n*   There\u2019s a small table with books and a lamp.\n*   The room appears to be furnished for relaxation and casual use.\n\nLet me know if you\u2019d like me to analyze another image!",
+    "estimated_sceneType": "Living room / Lounge",
+    "sceneType": "Apartment"
+  },
+  {
+    "episode_history": "scannet-v0/185-scannet-scene0435_00",
+    "output": "Based on the image, my best guess is **Bedroom / Hotel**.\n\nHere's why:\n\n*   There\u2019s a bed visible in the lower right corner.\n*   There's a chair and a small table with a television.\n*   The room appears to be a standard hotel room setup.\n\nLet me know if you\u2019d like me to elaborate on my reasoning!",
+    "estimated_sceneType": "Bedroom / Hotel",
+    "sceneType": "Bedroom / Hotel"
+  },
+  {
+    "episode_history": "scannet-v0/186-scannet-scene0549_01",
+    "output": "Based on the image, my best guess is **Lobby**. \n\nHere's why:\n\n*   The space appears to be a hallway with a decorative plant and framed artwork, suggesting a reception or waiting area.\n*   There are doors lining the hallway, typical of a lobby area. \n\nLet me know if you\u2019d like me to elaborate on my reasoning!",
+    "estimated_sceneType": "Lobby",
+    "sceneType": "Lobby"
+  },
+  {
+    "episode_history": "scannet-v0/187-scannet-scene0655_02",
+    "output": "Based on the image, my best guess is **Conference Room**. \n\nHere's why:\n\n*   There\u2019s a large table with what appears to be audio/microphone equipment.\n*   There are several red chairs around the table.\n*   The room appears to be designed for meetings or presentations.\n\nLet me know if you\u2019d like me to elaborate on my reasoning!",
+    "estimated_sceneType": "Conference Room",
+    "sceneType": "Conference Room"
+  },
+  {
+    "episode_history": "scannet-v0/188-scannet-scene0593_00",
+    "output": "Based on the image, my best guess is **Copy/Mail Room**. \n\nThe prominent feature is the large wall of mail slots and cubbies, suggesting a space for receiving and organizing mail or documents.",
+    "estimated_sceneType": null,
+    "sceneType": "Living room / Lounge"
+  },
+  {
+    "episode_history": "scannet-v0/189-scannet-scene0500_00",
+    "output": "Based on the image, my best guess is **Conference Room**. \n\nHere's why:\n\n*   There\u2019s a large table suitable for meetings.\n*   There are many chairs arranged around the table.\n*   There\u2019s a whiteboard.\n*   The room has a professional, functional feel.\n\nLet me know if you\u2019d like me to analyze another image!",
+    "estimated_sceneType": "Conference Room",
+    "sceneType": "Conference Room"
+  }
+]

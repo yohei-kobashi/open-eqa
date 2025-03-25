@@ -1,0 +1,476 @@
+[
+  {
+    "episode_history": "scannet-v0/100-scannet-scene0598_00",
+    "output": "Based on the questions and answers, the best category for this indoor space is:\n\n**Office**\n\nHere\u2019s why:\n\n*   **Computer and Apple Computers:** The questions directly mention computers and the company \"apple computers\".\n*   **White Table:** The presence of a computer on a white table strongly suggests an office setting.\n*   **Book Shelf:** The question about the book shelf indicates a workspace.\n*   **Other categories:** The other categories don\u2019t fit the specific details presented.",
+    "estimated_sceneType": "Office",
+    "sceneType": "Bookstore / Library"
+  },
+  {
+    "episode_history": "scannet-v0/101-scannet-scene0256_00",
+    "output": "Based on the questions and answers, the best category for the indoor space is:\n\n**Living room / Lounge** \n\nHere\u2019s why:\n\n*   The questions revolve around items found within the space \u2013 sewing machine, pillows, lamps, hat, undergarments, and the location of the items.\n*   The presence of a sewing machine, lamp, and the discussion of storing items in a basket strongly suggest a living area.",
+    "estimated_sceneType": "Living room / Lounge",
+    "sceneType": "Office"
+  },
+  {
+    "episode_history": "scannet-v0/102-scannet-scene0222_00",
+    "output": "Based on the questions and answers, the best category for the indoor space is:\n\n**Storage / Basement / Garage**\n\nHere\u2019s why:\n\n*   **\u201cWhere did I leave my keys?\u201d** \u2013 This directly points to a storage area.\n*   **\u201cWhere did I leave my toothpaste?\u201d** \u2013 This also suggests a storage area.\n*   **\u201cWhere did I leave my laptop?\u201d** \u2013 This also suggests a storage area.\n\nLet me know if you\u2019d like me to analyze another set of questions and answers!",
+    "estimated_sceneType": "Storage / Basement / Garage",
+    "sceneType": "Bedroom / Hotel"
+  },
+  {
+    "episode_history": "scannet-v0/103-scannet-scene0527_00",
+    "output": "Based on the questions and answers, the best category for the indoor space is:\n\n**Laundry Room** \n\nHere\u2019s why:\n\n*   The presence of \"bathrobes,\" \"cloth hangers,\" and \"bathrooms\" strongly suggests a laundry area.\n*   The question about the location of the bathrobe and cloth hanger directly points to this space.",
+    "estimated_sceneType": "Laundry Room",
+    "sceneType": "Bathroom"
+  },
+  {
+    "episode_history": "scannet-v0/104-scannet-scene0616_01",
+    "output": "Based on the questions and answers, the best category for the indoor space is:\n\n**Living room / Lounge** \n\nHere\u2019s why:\n\n*   The questions focus on objects, room features, and actions related to a general living area.\n*   The lamp, table, door, and the description of the room\u2019s features all point to a living space.",
+    "estimated_sceneType": "Living room / Lounge",
+    "sceneType": "Living room / Lounge"
+  },
+  {
+    "episode_history": "scannet-v0/105-scannet-scene0207_01",
+    "output": "Based on the questions and answers, the best category for the indoor space is:\n\n**Laundry Room** \n\nHere\u2019s why:\n\n*   **Q: Where is the paper napkin?** \u2013 A paper napkin is typically found in a laundry room.\n*   **Q: Where is my laundry basket?** \u2013 Laundry baskets are commonly found in laundry rooms.\n*   **Q: Where is the paper towel?** \u2013 Paper towels are frequently used in laundry rooms.",
+    "estimated_sceneType": "Laundry Room",
+    "sceneType": "Apartment"
+  },
+  {
+    "episode_history": "scannet-v0/106-scannet-scene0633_00",
+    "output": "Based on the questions and answers, the best category for the indoor space is:\n\n**Living room / Lounge** \n\nHere\u2019s why:\n\n*   The questions focus on items like basketball, frog, lamp, pillow, sofa, baby, and diapers \u2013 all commonly found in a living room or lounge.\n*   The presence of a crib and a table next to the sofa strongly suggests a space for relaxation and family activities.",
+    "estimated_sceneType": "Living room / Lounge",
+    "sceneType": "Bedroom / Hotel"
+  },
+  {
+    "episode_history": "scannet-v0/108-scannet-scene0354_00",
+    "output": "Based on the questions and answers, the best category for the indoor space is:\n\n**Conference Room** \n\nHere\u2019s why:\n\n*   The questions frequently refer to the room\u2019s purpose \u2013 displaying images, writing equations, and using the whiteboard.\n*   The location of the trash bin, charging outlet, and whiteboard all point to a conference room setting.",
+    "estimated_sceneType": "Conference Room",
+    "sceneType": "Conference Room"
+  },
+  {
+    "episode_history": "scannet-v0/109-scannet-scene0648_01",
+    "output": "Based on the questions and answers, the best category for the indoor space is:\n\n**Office** \n\nHere\u2019s why:\n\n*   The questions involve calculating, using a calculator, and referencing a notebook.\n*   The presence of a mobile phone, a laptop charger, and a white candle all point to an office setting.",
+    "estimated_sceneType": "Office",
+    "sceneType": "Bedroom / Hotel"
+  },
+  {
+    "episode_history": "scannet-v0/110-scannet-scene0050_00",
+    "output": "Based on the questions and answers, the best category for this indoor space is:\n\n**Kitchen** \n\nHere\u2019s why:\n\n*   **Tools and Accessories:** The presence of toolboxes, screwdriver, laptop, backpack, and tissue box strongly suggests a kitchen area.\n*   **Laptop Usage:** The mention of laptops and the need for a laptop carrier points to a kitchen setting.\n*   **Other Items:** The presence of a cooler, a roomba, and a piano further supports a kitchen context.",
+    "estimated_sceneType": "Kitchen",
+    "sceneType": "Living room / Lounge"
+  },
+  {
+    "episode_history": "scannet-v0/111-scannet-scene0550_00",
+    "output": "Bathroom",
+    "estimated_sceneType": "Bathroom",
+    "sceneType": "Bathroom"
+  },
+  {
+    "episode_history": "scannet-v0/112-scannet-scene0591_02",
+    "output": "Based on the questions and answers, the best category for the indoor space is **Office**.\n\nHere\u2019s why:\n\n*   **Q: What logo is visible in the top shelf to the right when one enters?** \u2013 A red bull logo\n*   **Q: Whats visible on top of the desk divider to the left?** \u2013 A small golden trophy\n\nLet me know if you\u2019d like me to analyze another set of questions and answers!",
+    "estimated_sceneType": "Office",
+    "sceneType": "Office"
+  },
+  {
+    "episode_history": "scannet-v0/113-scannet-scene0207_00",
+    "output": "Based on the questions and answers, the best category for the indoor space is:\n\n**Laundry Room** \n\nHere\u2019s why:\n\n*   The questions about the vacuum cleaner, the black backpacks, the wooden bowl, and the laundry baskets all point to a space dedicated to laundry.",
+    "estimated_sceneType": "Laundry Room",
+    "sceneType": "Apartment"
+  },
+  {
+    "episode_history": "scannet-v0/114-scannet-scene0084_00",
+    "output": "Based on the questions and answers, the best category for this indoor space is **Laundry Room**. \n\nHere\u2019s why:\n\n*   **Trash bin:** This is a key element of a laundry room.\n*   **Caution sign:**  A common feature of laundry rooms.\n*   **Behind the soap dispenser by the sink:**  This is a typical location for laundry supplies.\n*   **Behind the jacket on the counter:**  This suggests a storage area for laundry items.\n*   **Behind the paper towel dispenser, stacked on the counter:** This is a common location for laundry supplies.",
+    "estimated_sceneType": "Laundry Room",
+    "sceneType": "Bathroom"
+  },
+  {
+    "episode_history": "scannet-v0/115-scannet-scene0046_02",
+    "output": "Based on the questions and answers, the best category for the indoor space is:\n\n**Living room / Lounge**\n\nHere\u2019s why:\n\n*   The questions focus on items found in a space designed for relaxation, entertainment, and general use.\n*   The presence of a laptop, television, iPad, a green bench, a blue chair, and a bed all point to a comfortable and functional living area.\n*   The questions about the purse, wallet, and the desk suggest a place for personal belongings and activities.",
+    "estimated_sceneType": "Living room / Lounge",
+    "sceneType": "Apartment"
+  },
+  {
+    "episode_history": "scannet-v0/116-scannet-scene0077_01",
+    "output": "Based on the questions and answers, the best category for the indoor space is:\n\n**Kitchen**\n\nHere\u2019s why:\n\n*   **Kitchen:** The presence of printers, cardboard boxes, a hand sanitizer, and the mention of \u201cpaper cutter\u201d strongly suggest a kitchen environment.",
+    "estimated_sceneType": "Kitchen",
+    "sceneType": "Office"
+  },
+  {
+    "episode_history": "scannet-v0/120-scannet-scene0684_01",
+    "output": "Based on the questions and answers, the best category for the indoor space is:\n\n**Storage / Basement / Garage** \n\nHere\u2019s why:\n\n*   The questions frequently refer to items stored in the room \u2013 desk phone, paper towels, bins, and the overall arrangement suggests a place for things to be kept.",
+    "estimated_sceneType": "Storage / Basement / Garage",
+    "sceneType": "Office"
+  },
+  {
+    "episode_history": "scannet-v0/121-scannet-scene0462_00",
+    "output": "Based on the questions and answers, the best category for the indoor space is:\n\n**Storage / Basement / Garage** \n\nHere\u2019s why:\n\n*   The questions about the paper box, mail, and the bin all point to a storage area.\n*   The \u201cbrown paper box\u201d and \u201cUSPS bin\u201d are key indicators of storage.",
+    "estimated_sceneType": "Storage / Basement / Garage",
+    "sceneType": "Copy / Mail Room"
+  },
+  {
+    "episode_history": "scannet-v0/122-scannet-scene0647_01",
+    "output": "Based on the questions and answers, the best category for the indoor space is:\n\n**Living room / Lounge** \n\nHere\u2019s why:\n\n*   The presence of a ping-pong table, a square table, a coach, and a dandelion all point towards a comfortable and social space for relaxation and entertainment.\n*   The questions about the door, the exit sign, and the painting suggest a room designed for living and leisure.",
+    "estimated_sceneType": "Living room / Lounge",
+    "sceneType": "Living room / Lounge"
+  },
+  {
+    "episode_history": "scannet-v0/123-scannet-scene0412_01",
+    "output": "Based on the questions and answers, the best category for the indoor space is **Storage / Basement / Garage**. \n\nHere\u2019s why:\n\n*   The repeated mention of \u201cstack of plastic cups\u201d and \u201con the bottom layer of the shelf\u201d strongly suggests a storage area.",
+    "estimated_sceneType": "Storage / Basement / Garage",
+    "sceneType": "Kitchen"
+  },
+  {
+    "episode_history": "scannet-v0/124-scannet-scene0131_02",
+    "output": "Based on the questions and answers, the best category for the indoor space is:\n\n**Office** \n\nHere\u2019s why:\n\n*   **Monitor and Keyboard:** The questions repeatedly mention a monitor and keyboard, which are core components of an office setup.\n*   **Storage:** The mention of the black mini fridge and extension chords suggests a storage area.\n*   **Dell Monitor:** The question about the laptop charger chord indicates a need for an office space.",
+    "estimated_sceneType": "Office",
+    "sceneType": "Office"
+  },
+  {
+    "episode_history": "scannet-v0/125-scannet-scene0426_00",
+    "output": "Based on the questions and answers, the best category for the indoor space is:\n\n**Kitchen** \n\nHere\u2019s why:\n\n*   The questions involve objects like a remote controller, a jacket, a piano keyboard, bottled water, and a box of water.\n*   The presence of a kitchen suggests the space is used for food preparation and cooking.",
+    "estimated_sceneType": "Kitchen",
+    "sceneType": "Bedroom / Hotel"
+  },
+  {
+    "episode_history": "scannet-v0/126-scannet-scene0574_02",
+    "output": "Based on the questions and answers, the best category for this indoor space is:\n\n**Lobby** \n\nHere\u2019s why:\n\n*   The presence of a mirror on the left of the door with a peephole strongly suggests a lobby \u2013 a central area for visitors and guests.\n*   The questions about clothes, drying, and finding shoes point to a functional area for general use.",
+    "estimated_sceneType": "Lobby",
+    "sceneType": "Bathroom"
+  },
+  {
+    "episode_history": "scannet-v0/127-scannet-scene0578_00",
+    "output": "Based on the questions and answers, the best category for the indoor space is:\n\n**Laundry Room** \n\nHere\u2019s why:\n\n*   The questions involve items related to cleaning and storage (backpack, water bottle, food packages, and the location of the backpack and water bottle).\n*   The presence of electric outlets and the trash can further support this classification.",
+    "estimated_sceneType": "Laundry Room",
+    "sceneType": "Conference Room"
+  },
+  {
+    "episode_history": "scannet-v0/128-scannet-scene0678_02",
+    "output": "Based on the questions and answers, the best category for the indoor space is:\n\n**Storage / Basement / Garage**\n\nHere\u2019s why:\n\n*   **\u201cWhere did I leave my paper bag?\u201d** \u2013 The answer directly indicates it was in a storage area.\n*   **\u201ctwo microwaves and a plastic drawer\u201d** \u2013 This strongly suggests a storage area.\n*   **\u201cbuy some from the vending machine near the corner of the laundry room\u201d** \u2013 This implies a storage area for vending machine items.",
+    "estimated_sceneType": "Storage / Basement / Garage",
+    "sceneType": "Laundry Room"
+  },
+  {
+    "episode_history": "scannet-v0/129-scannet-scene0575_00",
+    "output": "Based on the questions and answers, the best category for the indoor space is:\n\n**Office** \n\nHere\u2019s why:\n\n*   The questions involve technology (AV system, video conference, remote controller), instruction sheets, and a focus on functionality.\n*   The presence of monitors, a table, and a microphone strongly suggests an office environment.",
+    "estimated_sceneType": "Office",
+    "sceneType": "Conference Room"
+  },
+  {
+    "episode_history": "scannet-v0/130-scannet-scene0696_00",
+    "output": "Based on the questions and answers, the best category for the indoor space is **Tennis Table**. \n\nHere\u2019s why:\n\n*   The questions directly relate to the presence of a tennis table.\n*   The question about the color of the box on the table confirms this.",
+    "estimated_sceneType": null,
+    "sceneType": "Storage / Basement / Garage"
+  },
+  {
+    "episode_history": "scannet-v0/132-scannet-scene0645_01",
+    "output": "Based on the questions and answers, the best category for the indoor space is:\n\n**Living room / Lounge** \n\nHere\u2019s why:\n\n*   The questions focus on items found *within* the space \u2013 the remote, the clock, the pillow, the notebook, and the TV.\n*   The descriptions of the room\u2019s features (e.g., \"arm chair,\" \"nightstand\") strongly suggest a space for relaxation and entertainment.",
+    "estimated_sceneType": "Living room / Lounge",
+    "sceneType": "Bedroom / Hotel"
+  },
+  {
+    "episode_history": "scannet-v0/133-scannet-scene0704_00",
+    "output": "Based on the questions and answers, the best category for the indoor space is **Copy / Mail Room**. \n\nHere\u2019s why:\n\n*   **Printer:** The question directly states \u201cwhat is located on the counter on the left?\u201d and the answer is a printer.\n*   **Paper Stack:** The question about the paper cup confirms the presence of a stack of paper.\n*   **Other categories:** The other categories don\u2019t align with the specific items mentioned in the questions.",
+    "estimated_sceneType": "Copy / Mail Room",
+    "sceneType": "Copy / Mail Room"
+  },
+  {
+    "episode_history": "scannet-v0/134-scannet-scene0695_03",
+    "output": "Based on the questions and answers, the best category for the indoor space is:\n\n**Office**\n\nHere\u2019s why:\n\n*   The questions involve using a game console, laptop, and coding, all of which are commonly used in an office setting.\n*   The presence of a tapestry and a mandala suggests a decorative or artistic space.\n*   The questions about leaving items on the bed and table indicate a functional area for work or study.",
+    "estimated_sceneType": "Office",
+    "sceneType": "Bedroom / Hotel"
+  },
+  {
+    "episode_history": "scannet-v0/135-scannet-scene0131_00",
+    "output": "Based on the questions and answers, the best category for the indoor space is:\n\n**Whiteboard** \n\nHere\u2019s why:\n\n*   The questions consistently refer to the whiteboard.\n*   The answers directly state \u201ca whiteboard\u201d in multiple instances.",
+    "estimated_sceneType": null,
+    "sceneType": "Office"
+  },
+  {
+    "episode_history": "scannet-v0/137-scannet-scene0598_01",
+    "output": "Based on the questions and answers, the best category for the indoor space is:\n\n**Office** \n\nHere\u2019s why:\n\n*   The presence of a computer, desks, and a focus on technology strongly suggest an office environment.\n*   The questions about accessing the internet and charging devices point to an office setting.\n*   The location of the backpack and the desk itself align with an office space.",
+    "estimated_sceneType": "Office",
+    "sceneType": "Bookstore / Library"
+  },
+  {
+    "episode_history": "scannet-v0/138-scannet-scene0500_01",
+    "output": "Based on the questions and answers, the best category for the indoor space is:\n\n**Living room / Lounge** \n\nHere\u2019s why:\n\n*   The questions focus on items found *on* the space \u2013 the remote, the window, the table, the chair, the blackboard, the wire, the projector, and the remote itself.\n*   The presence of a \u201cliving room\u201d context strongly suggests this is a space for relaxation and entertainment.",
+    "estimated_sceneType": "Living room / Lounge",
+    "sceneType": "Conference Room"
+  },
+  {
+    "episode_history": "scannet-v0/139-scannet-scene0647_00",
+    "output": "Based on the questions and answers, the best category for the room is **Living room / Lounge**. \n\nHere\u2019s why:\n\n*   The questions all relate to furniture placement and the room\u2019s overall layout \u2013 the ping-pong table, barstools, sofa, backpack, and the presence of a table and barstools suggest a space designed for relaxation and socializing.",
+    "estimated_sceneType": "Living room / Lounge",
+    "sceneType": "Living room / Lounge"
+  },
+  {
+    "episode_history": "scannet-v0/140-scannet-scene0077_00",
+    "output": "Based on the questions and answers, the best category for this indoor space is **Copy / Mail Room**. \n\nHere\u2019s why:\n\n*   **Printer:** The primary function is printing.\n*   **Paper recycling trash bin:** This directly relates to the disposal of paper waste.\n*   **Scientific posters:** These are displayed on the walls.\n*   **Small clock with a white dial:** Located on a shelf.",
+    "estimated_sceneType": "Copy / Mail Room",
+    "sceneType": "Office"
+  },
+  {
+    "episode_history": "scannet-v0/141-scannet-scene0651_01",
+    "output": "Based on the questions and answers, the best category for the indoor space is **Kitchen**. \n\nHere\u2019s why:\n\n*   The questions primarily revolve around the kitchen \u2013 the location of appliances, countertop cleanliness, and the use of the kitchen for tasks.",
+    "estimated_sceneType": "Kitchen",
+    "sceneType": "Kitchen"
+  },
+  {
+    "episode_history": "scannet-v0/142-scannet-scene0653_01",
+    "output": "Based on the questions and answers, the best category for this indoor space is **Copy / Mail Room**.\n\nHere\u2019s why:\n\n*   **Whiteboard marker:** This is a key element of a copy/mail room.\n*   **Filing cabinet:** This is a central location for documents and correspondence.\n*   **Hand sanitizer:** Used for hygiene.\n*   **The questions about needing to explain equations and protecting against diseases** also align with a workspace focused on administrative tasks.",
+    "estimated_sceneType": "Copy / Mail Room",
+    "sceneType": "Office"
+  },
+  {
+    "episode_history": "scannet-v0/144-scannet-scene0700_01",
+    "output": "Based on the questions and answers, the best category for this indoor space is **Office**. \n\nHere\u2019s why:\n\n*   **Questions about desk and papers:** The questions directly relate to the desk and its contents.\n*   **Questions about storage:** The statement \u201cIn the filing cabinet\u201d confirms the space is used for storage.\n*   **Overall description:** The multiple questions about the desk and its contents strongly suggest an office environment.",
+    "estimated_sceneType": "Office",
+    "sceneType": "Office"
+  },
+  {
+    "episode_history": "scannet-v0/145-scannet-scene0193_00",
+    "output": "Based on the questions and answers, the best category for this indoor space is:\n\n**Kitchen**\n\nHere\u2019s why:\n\n*   **Trash bin:** This is a key element of a kitchen.\n*   **Shelf:** The shelf is located on top of the desk, which is a common location for kitchen storage.\n*   **Task chair and desk:** These are essential for kitchen work.\n*   **Black window curtain:** This is a typical feature of a kitchen.\n*   **Storage / Basement / Garage:** The closet is located in the room, and the trash bin is on the floor.",
+    "estimated_sceneType": "Kitchen",
+    "sceneType": "Bedroom / Hotel"
+  },
+  {
+    "episode_history": "scannet-v0/146-scannet-scene0518_00",
+    "output": "Based on the questions and answers, the best category for this indoor space is **Living room / Lounge**. \n\nHere\u2019s why:\n\n*   **Questions about furniture placement:** The questions about the couch, work desk, coffee table, and computer placement strongly suggest a living room setting.\n*   **Focus on comfort and relaxation:** The questions about pillows, clocks, and the overall feeling of the space point to a place for relaxation and enjoyment.\n*   **The backpack and yellow object:** The backpack and yellow object are clearly located in a living room setting.",
+    "estimated_sceneType": "Living room / Lounge",
+    "sceneType": "Living room / Lounge"
+  },
+  {
+    "episode_history": "scannet-v0/147-scannet-scene0699_00",
+    "output": "Based on the questions and answers, the best category for this indoor space is **Copy / Mail Room**. \n\nHere\u2019s why:\n\n*   **Tissue box near the window AC unit:** This directly relates to the function of a copy/mail room \u2013 storing and distributing supplies.\n*   **Other answers:** The other options don\u2019t fit the specific context of a copy/mail room.",
+    "estimated_sceneType": "Copy / Mail Room",
+    "sceneType": "Bedroom / Hotel"
+  },
+  {
+    "episode_history": "scannet-v0/148-scannet-scene0203_01",
+    "output": "Based on the questions and answers, the best category for the indoor space is:\n\n**Bookstore / Library** \n\nHere\u2019s why:\n\n*   **Q: What is the title of the book on the coffee table?** \u2013 The answer directly points to a book.\n*   **Q: Where is the book on sailing located?** \u2013 The answer specifies it\u2019s on the coffee table.\n*   **Q: Where is the gray colored pillow?** \u2013 The answer indicates it\u2019s on the floor, near the couch.\n*   **Q: Is the bookshelf empty?** \u2013 The answer states \u201cno\u201d \u2013 implying a collection of books.",
+    "estimated_sceneType": "Bookstore / Library",
+    "sceneType": "Living room / Lounge"
+  },
+  {
+    "episode_history": "scannet-v0/149-scannet-scene0426_02",
+    "output": "Based on the questions and answers, the best category for this indoor space is **Living room / Lounge**.\n\nHere\u2019s why:\n\n*   **Q: What type of room is this one?** \u2013 The questions consistently refer to a \u201cLiving room / Lounge\u201d \u2013 the room is used for relaxing and socializing.\n*   **Q: What can the yonex bag in this room be used for?** \u2013 The question directly relates to the bag\u2019s purpose.\n*   **Q: I'm looking for my Yonex racket bag. Can you find it?** \u2013 The question explicitly asks for the bag.\n\nLet me know if you\u2019d like me to analyze another set of questions and answers!",
+    "estimated_sceneType": "Living room / Lounge",
+    "sceneType": "Bedroom / Hotel"
+  },
+  {
+    "episode_history": "scannet-v0/150-scannet-scene0648_00",
+    "output": "Based on the questions and answers, the best category for the indoor space is:\n\n**Storage / Basement / Garage**\n\nHere\u2019s why:\n\n*   **\u201cWhere is the big red book?\u201d** \u2013 The answer directly indicates it\u2019s located in a storage area.\n*   **\u201cWhere is the plastic bottle?\u201d** \u2013 The answer indicates it\u2019s in a storage area.\n*   **\u201cWhere is the big red book?\u201d** \u2013 The answer indicates it\u2019s in a storage area.\n\nLet me know if you\u2019d like me to analyze another set of questions and answers!",
+    "estimated_sceneType": "Storage / Basement / Garage",
+    "sceneType": "Bedroom / Hotel"
+  },
+  {
+    "episode_history": "scannet-v0/151-scannet-scene0217_00",
+    "output": "Based on the questions and answers, the best category for the indoor space is **Apartment**. \n\nHere\u2019s why:\n\n*   **Q: A red backpack** \u2013 This is a common item found in apartments.\n*   **Q: Can I stand in between my bed and my white desk?** \u2013 This suggests a room with furniture.\n*   **Q: Can I put something big under my bed?** \u2013 This implies a room with space for storage.\n*   **Q: Is the door open or closed?** \u2013 This is a standard feature of an apartment.\n*   **Q: Is the black chair easy to move around?** \u2013 This is a typical feature of an apartment.\n\nLet me know if you\u2019d like me to analyze another set of questions and answers!",
+    "estimated_sceneType": "Apartment",
+    "sceneType": "Bedroom / Hotel"
+  },
+  {
+    "episode_history": "scannet-v0/152-scannet-scene0494_00",
+    "output": "Based on the questions and answers, the best category for the indoor space is:\n\n**Kitchen**\n\nHere\u2019s why:\n\n*   **Chairs:** The question explicitly states there are 4 chairs.\n*   **Garbage bin:** The question states a garbage bin is near the door.\n*   **Whiteboard:** The question states the whiteboard is on the wall.\n*   **Other details:** The other details (color of the wall, laptop port, wiping the whiteboard) are not relevant to a kitchen.",
+    "estimated_sceneType": "Kitchen",
+    "sceneType": "Conference Room"
+  },
+  {
+    "episode_history": "scannet-v0/154-scannet-scene0193_01",
+    "output": "Based on the questions and answers, the best category for the indoor space is **Storage / Basement / Garage**. \n\nHere\u2019s why:\n\n*   The questions about the black object, the transparent object between the desk and the bed, and the drawer all point to a storage area.\n*   The \u201cyes\u201d response to the question about going out implies a space that isn\u2019t primarily for living.",
+    "estimated_sceneType": "Storage / Basement / Garage",
+    "sceneType": "Bedroom / Hotel"
+  },
+  {
+    "episode_history": "scannet-v0/155-scannet-scene0164_02",
+    "output": "Based on the questions and answers, the best category for this indoor space is **Kitchen**. \n\nHere\u2019s why:\n\n*   **Q: What objects could you possibly find inside the ref box next to the microwave?** A \u2013 coke can\n*   **Q: What can be used as the quickest way to warm up my lunch?** A \u2013 microwave",
+    "estimated_sceneType": "Kitchen",
+    "sceneType": "Kitchen"
+  },
+  {
+    "episode_history": "scannet-v0/156-scannet-scene0461_00",
+    "output": "Based on the questions and answers, the best category for this indoor space is:\n\n**Living room / Lounge** \n\nHere\u2019s why:\n\n*   The questions focus on the arrangement of furniture \u2013 armchairs, end table, and the overall layout.\n*   \u201cWhere can I sit to rest?\u201d and \u201cwhere can I place my food for comfortably having lunch?\u201d directly relate to the living room.\n*   The descriptions of the armchair\u2019s position and the need for a place to sit imply a comfortable living space.",
+    "estimated_sceneType": "Living room / Lounge",
+    "sceneType": "Lobby"
+  },
+  {
+    "episode_history": "scannet-v0/157-scannet-scene0015_00",
+    "output": "Based on the questions and answers, the best category for the indoor space is:\n\n**Kitchen**\n\nHere\u2019s why:\n\n*   The questions involve items like a backpack, paper, a pencil, a marker, and a Starbucks drink \u2013 all commonly found in a kitchen.\n*   The presence of a whiteboard and a table near it further supports this.",
+    "estimated_sceneType": "Kitchen",
+    "sceneType": "Classroom"
+  },
+  {
+    "episode_history": "scannet-v0/158-scannet-scene0356_00",
+    "output": "Based on the questions and answers, the best category for this indoor space is **Storage / Basement / Garage**. \n\nHere\u2019s why:\n\n*   **Garbage bins:** Suggests a storage area for waste.\n*   **Three-level cabinets:** Indicates a storage area.\n*   **The question about the phone under the phone at the corner** suggests a storage area.",
+    "estimated_sceneType": "Storage / Basement / Garage",
+    "sceneType": "Bedroom / Hotel"
+  },
+  {
+    "episode_history": "scannet-v0/160-scannet-scene0488_01",
+    "output": "Based on the questions and answers, the best category for this indoor space is:\n\n**Kitchen** \n\nHere\u2019s why:\n\n*   The questions focus heavily on appliances, cooking, and the general functionality of the space.\n*   The answers directly relate to the items and features present \u2013 the stove, refrigerator, sink, dishwasher, and various cooking equipment.",
+    "estimated_sceneType": "Kitchen",
+    "sceneType": "Kitchen"
+  },
+  {
+    "episode_history": "scannet-v0/161-scannet-scene0583_00",
+    "output": "Based on the questions and answers, the best category for this indoor space is:\n\n**Laundry Room** \n\nHere\u2019s why:\n\n*   The questions about towels, soap, and instructions point directly to a laundry area.\n*   The location of the stool and the hand towel further supports this.",
+    "estimated_sceneType": "Laundry Room",
+    "sceneType": "Bathroom"
+  },
+  {
+    "episode_history": "scannet-v0/162-scannet-scene0535_00",
+    "output": "Based on the questions and answers, the best category for this indoor space is **Living room / Lounge**.\n\nHere\u2019s why:\n\n*   **Questions about furniture and items:** The questions about the sweater, poster tube, binder clip, power strip, and blinds all relate to items found in a living room.\n*   **Questions about space usage:** The questions about the number of people, the number of chairs, and the location of the mirror all point to a room designed for relaxation and social interaction.",
+    "estimated_sceneType": "Living room / Lounge",
+    "sceneType": "Office"
+  },
+  {
+    "episode_history": "scannet-v0/163-scannet-scene0164_03",
+    "output": "Based on the questions and answers, the best category for the indoor space is:\n\n**Kitchen**\n\nHere\u2019s why:\n\n*   The questions about the water carbonator, salt, and chapstick directly relate to kitchen appliances and supplies.\n*   The question about the hand towel and the toaster confirms it\u2019s a kitchen space.",
+    "estimated_sceneType": "Kitchen",
+    "sceneType": "Kitchen"
+  },
+  {
+    "episode_history": "scannet-v0/165-scannet-scene0406_00",
+    "output": "Based on the questions and answers, the best category for this indoor space is **Laundry Room**. \n\nHere\u2019s why:\n\n*   **Towels and Bath Mats:** The questions repeatedly mention towels and bath mats being present.\n*   **Placement:** The location of the towels and bath mat is specifically described as being on the tub.\n*   **Other items:** The questions also mention a bottle of shampoo being placed in the shower area.\n\nLet me know if you\u2019d like me to analyze another set of questions and answers!",
+    "estimated_sceneType": "Laundry Room",
+    "sceneType": "Bathroom"
+  },
+  {
+    "episode_history": "scannet-v0/166-scannet-scene0435_03",
+    "output": "Based on the questions and answers, the best category for the space is **Lobby**.\n\nHere\u2019s why:\n\n*   **Q: What is likely the maximum number of people that are allowed to sleep in this room?** \u2013 A \u2013 4\n*   **Q: Is this a private residence?** \u2013 No\n*   **Q: Where is my room key?** \u2013 On the desk\n*   **Q: Where is the bottled water?** \u2013 Above the mini-fridge\n\nThese clues strongly suggest a public or shared space \u2013 a lobby \u2013 rather than a private residence or a room.",
+    "estimated_sceneType": "Lobby",
+    "sceneType": "Bedroom / Hotel"
+  },
+  {
+    "episode_history": "scannet-v0/167-scannet-scene0307_01",
+    "output": "Based on the questions and answers, the best category for this indoor space is **Living room / Lounge**. \n\nHere\u2019s why:\n\n*   **Questions about hanging items, materials, and the door:** These relate to the living room.\n*   **Questions about the room\u2019s functions:** Laundry, storage, and showering are all typical activities in a living room.\n*   **Questions about the plant:** This indicates a living space.\n*   **Questions about the key:** This indicates a room that is used for storage.",
+    "estimated_sceneType": "Living room / Lounge",
+    "sceneType": "Storage / Basement / Garage"
+  },
+  {
+    "episode_history": "scannet-v0/168-scannet-scene0655_01",
+    "output": "Based on the questions and answers, the best category for the room is **Office**. \n\nHere\u2019s why:\n\n*   **Table:** Indicates a workspace.\n*   **Chairs:** Suggests a meeting or working area.\n*   **Whiteboard:** Indicates a place for writing or drawing.\n*   **Socket:** Indicates a power source.\n*   **Projector Screen & Cables:** Indicates a media setup.\n*   **Remote:** Indicates a control device.\n\n",
+    "estimated_sceneType": "Office",
+    "sceneType": "Conference Room"
+  },
+  {
+    "episode_history": "scannet-v0/169-scannet-scene0695_01",
+    "output": "Based on the questions and answers, the best category for this indoor space is **Living room / Lounge**. \n\nHere\u2019s why:\n\n*   The questions about the room\u2019s layout (desk, laptop, monitor, and a cloth with a star shape) strongly suggest a space designed for relaxation and entertainment.\n*   The presence of a bed and a backpack against the bed further supports this.",
+    "estimated_sceneType": "Living room / Lounge",
+    "sceneType": "Bedroom / Hotel"
+  },
+  {
+    "episode_history": "scannet-v0/170-scannet-scene0378_01",
+    "output": "Based on the questions and answers, the best category for the indoor space is:\n\n**Living room / Lounge** \n\nHere\u2019s why:\n\n*   The questions focus on desk items, picture frames, pens, blackboard, and the placement of items.\n*   The description of the desk and the items on it strongly suggests a space designed for relaxation and informal activities \u2013 a living room or lounge.",
+    "estimated_sceneType": "Living room / Lounge",
+    "sceneType": "Office"
+  },
+  {
+    "episode_history": "scannet-v0/171-scannet-scene0222_01",
+    "output": "Based on the questions and answers, the best category for the indoor space is:\n\n**Kitchen**\n\nHere\u2019s why:\n\n*   The presence of a minifridge, a pair of shorts, a dark grey towel, a see-through plastic container, and a desk lamp all point towards a kitchen-related activity.",
+    "estimated_sceneType": "Kitchen",
+    "sceneType": "Bedroom / Hotel"
+  },
+  {
+    "episode_history": "scannet-v0/172-scannet-scene0496_00",
+    "output": "Based on the questions and answers, the best category for the indoor space is:\n\n**Office**\n\nHere\u2019s why:\n\n*   **Projector:** Used for displaying content.\n*   **Power strip:** Needed for charging electronics.\n*   **Black chairs:** Suggests a workspace.\n*   **Black chalkboard eraser:** Indicates a place for a chalkboard.\n*   **Clock:** Located on the wall.\n\n",
+    "estimated_sceneType": "Office",
+    "sceneType": "Conference Room"
+  },
+  {
+    "episode_history": "scannet-v0/173-scannet-scene0278_01",
+    "output": "Based on the questions and answers, the best category for the indoor space is **Copy / Mail Room**. \n\nHere\u2019s why:\n\n*   **Green boxes:** The repeated mention of \"green boxes\" strongly suggests a storage area for documents and paper.\n*   **Paper cutter:** The question about using a paper cutter to trim edges points to a workspace for printing and document preparation.\n*   **Bulletin board:** This indicates a place for displaying information and documents.",
+    "estimated_sceneType": "Copy / Mail Room",
+    "sceneType": "Copy / Mail Room"
+  },
+  {
+    "episode_history": "scannet-v0/174-scannet-scene0086_01",
+    "output": "Based on the questions and answers, the best category for the indoor space is:\n\n**Laundry Room**\n\nHere\u2019s why:\n\n*   **Laundry Room:** The questions about the sink, drain, and grab bars strongly suggest a space dedicated to laundry.\n*   **Other categories:** The other categories don\u2019t fit the specific details provided.",
+    "estimated_sceneType": "Laundry Room",
+    "sceneType": "Bathroom"
+  },
+  {
+    "episode_history": "scannet-v0/175-scannet-scene0329_01",
+    "output": "Based on the questions and answers, the best category for the indoor space is:\n\n**Office** \n\nHere\u2019s why:\n\n*   The questions involve desk items, communication, and general office procedures.\n*   The answers point to a workspace with a whiteboard, a black garbage bin, and a focus on written communication.",
+    "estimated_sceneType": "Office",
+    "sceneType": "Lobby"
+  },
+  {
+    "episode_history": "scannet-v0/176-scannet-scene0643_00",
+    "output": "Based on the questions and answers, the best category for the indoor space is:\n\n**Kitchen**\n\nHere\u2019s why:\n\n*   **Q: Where is the lime bottle?** \u2013 It\u2019s next to the desk, in front of the telephone.\n*   **Q: Where is the brown bag?** \u2013 It\u2019s in the grey trash can.\n*   **Q: What is today\u2019s date on the calendar?** \u2013 June 6.\n*   **Q: What is missing on the second desk?** \u2013 A keyboard and mouse.\n\nLet me know if you\u2019d like me to analyze another set of questions and answers!",
+    "estimated_sceneType": "Kitchen",
+    "sceneType": "Office"
+  },
+  {
+    "episode_history": "scannet-v0/177-scannet-scene0608_02",
+    "output": "Based on the questions and answers, the best category for the indoor space is:\n\n**Office** \n\nHere\u2019s why:\n\n*   The questions involve musical instruments, a guitar, a chess board, a piano, and a room with a microphone.\n*   The presence of a massage chair, a world map, and a guitar strongly suggests an office setting.",
+    "estimated_sceneType": "Office",
+    "sceneType": "Living room / Lounge"
+  },
+  {
+    "episode_history": "scannet-v0/178-scannet-scene0685_02",
+    "output": "Based on the questions and answers, the best category for this indoor space is:\n\n**Storage / Basement / Garage**\n\nHere\u2019s why:\n\n*   **\u201cWhere did I leave the tape?\u201d** \u2013 The answer directly indicates it\u2019s on the right edge of the brown desk, which is a storage area.\n*   **\u201cWhere is the painting?\u201d** \u2013 The answer refers to the right of the green garbage can, which is a storage area.\n*   **\u201cWhere is the tape?\u201d** \u2013 The tape is on the right edge of the brown desk, which is a storage area.\n\nLet me know if you\u2019d like me to analyze another set of questions and answers!",
+    "estimated_sceneType": "Storage / Basement / Garage",
+    "sceneType": "Copy / Mail Room"
+  },
+  {
+    "episode_history": "scannet-v0/179-scannet-scene0300_01",
+    "output": "Based on the questions and answers, the best category for this indoor space is **Apartment**. \n\nHere\u2019s why:\n\n*   **Apartment:** The questions about the desk, backpack, and the location of items (wire, waterbottle) strongly suggest a residential setting.",
+    "estimated_sceneType": "Apartment",
+    "sceneType": "Bookstore / Library"
+  },
+  {
+    "episode_history": "scannet-v0/180-scannet-scene0100_02",
+    "output": "Based on the questions and answers, the best category for the indoor space is:\n\n**Storage / Basement / Garage** \n\nHere\u2019s why:\n\n*   The questions about slippers, toothbrush, and the mirror all point to a storage area.\n*   The location of the slippers near the door suggests a storage space.\n*   The description of the electric toothbrush being on top of the vanity further supports this.",
+    "estimated_sceneType": "Storage / Basement / Garage",
+    "sceneType": "Bathroom"
+  },
+  {
+    "episode_history": "scannet-v0/181-scannet-scene0314_00",
+    "output": "Office",
+    "estimated_sceneType": "Office",
+    "sceneType": "Lobby"
+  },
+  {
+    "episode_history": "scannet-v0/182-scannet-scene0645_00",
+    "output": "Based on the questions and answers, the best category for the indoor space is:\n\n**Living room / Lounge** \n\nHere\u2019s why:\n\n*   The questions frequently refer to the room\u2019s furnishings and objects \u2013 the nightstand, clock, remote, and the presence of a television.\n*   The \u201cliving room / lounge\u201d category encompasses these elements and is the most logical fit.",
+    "estimated_sceneType": "Living room / Lounge",
+    "sceneType": "Bedroom / Hotel"
+  },
+  {
+    "episode_history": "scannet-v0/183-scannet-scene0231_01",
+    "output": "Based on the questions and answers, the best category for the indoor space is:\n\n**Storage / Basement / Garage** \n\nHere\u2019s why:\n\n*   The questions frequently refer to objects being \"on the floor,\" \"between the desk, the couch and the trash can,\" and \"on the floor.\"\n*   The mention of a \"paper bag\" further supports this idea.\n*   The context of \"Where can I work in this place?\" and \"Where is the paper bag?\" suggests a storage area.",
+    "estimated_sceneType": "Storage / Basement / Garage",
+    "sceneType": "Apartment"
+  },
+  {
+    "episode_history": "scannet-v0/185-scannet-scene0435_00",
+    "output": "Based on the questions and answers, the best category for this indoor space is **Lobby**.\n\nHere\u2019s why:\n\n*   **The questions all relate to the general purpose and location of the space.** The questions about the desk, suitcase, trash can, coffee machine, and water all point to a public or reception area.\n*   **The description of the room as a \"hotel room\" strongly suggests a lobby.**",
+    "estimated_sceneType": "Lobby",
+    "sceneType": "Bedroom / Hotel"
+  },
+  {
+    "episode_history": "scannet-v0/186-scannet-scene0549_01",
+    "output": "Based on the questions and answers, the best category for the indoor space is:\n\n**Living room / Lounge** \n\nHere\u2019s why:\n\n*   The questions frequently refer to the \u201ccouch\u201d and \u201carmchairs,\u201d indicating a space designed for relaxation and socializing.\n*   The presence of a \u201cplant\u201d and \u201cflowers\u201d strongly suggests a decorative or living space.\n*   The multiple mentions of \u201ccouch\u201d and \u201carmchairs\u201d point to a room primarily used for sitting and relaxing.",
+    "estimated_sceneType": "Living room / Lounge",
+    "sceneType": "Lobby"
+  },
+  {
+    "episode_history": "scannet-v0/187-scannet-scene0655_02",
+    "output": "Based on the questions and answers, the best category for this indoor space is **Conference Room**. \n\nHere\u2019s why:\n\n*   **Red objects:** The presence of red chairs strongly suggests a conference room setting.\n*   **Whiteboard:** The question about writing on the whiteboard is a key indicator.\n*   **Markers:** The location of the markers on the table confirms this.\n*   **Conference Room** is the most logical category given the context of the questions.",
+    "estimated_sceneType": "Conference Room",
+    "sceneType": "Conference Room"
+  },
+  {
+    "episode_history": "scannet-v0/188-scannet-scene0593_00",
+    "output": "Based on the questions and answers, the best category for the indoor space is:\n\n**Copy / Mail Room** \n\nHere\u2019s why:\n\n*   **Printer:** The question directly states \u201cA printer\u201d and the answer confirms it\u2019s a printer.\n*   **Paper cutter:** The question about the Kleenex box confirms the presence of a paper cutter.\n*   **Other categories:** The other options don\u2019t align with the specific items and activities described in the questions.",
+    "estimated_sceneType": "Copy / Mail Room",
+    "sceneType": "Living room / Lounge"
+  },
+  {
+    "episode_history": "scannet-v0/189-scannet-scene0500_00",
+    "output": "Based on the questions and answers, the best category for this indoor space is:\n\n**Kitchen**\n\nHere\u2019s why:\n\n*   **Furniture:** The presence of chairs strongly suggests a kitchen area.\n*   **Material:** The furniture is made of wood.\n*   **Whiteboards:** The presence of whiteboards is a key indicator of a kitchen setting.\n*   **Other details:** The trash can, red and black marker, and the presence of math equations all point towards a kitchen.",
+    "estimated_sceneType": "Kitchen",
+    "sceneType": "Conference Room"
+  }
+]

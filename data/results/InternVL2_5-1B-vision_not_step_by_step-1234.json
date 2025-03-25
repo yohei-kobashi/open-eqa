@@ -1,0 +1,476 @@
+[
+  {
+    "episode_history": "scannet-v0/100-scannet-scene0598_00",
+    "output": "The image shows an indoor space with a wooden table, chairs, and a backpack on the table. This setting is most likely a library or a study area, as it resembles a typical environment found in such spaces.",
+    "estimated_sceneType": null,
+    "sceneType": "Bookstore / Library"
+  },
+  {
+    "episode_history": "scannet-v0/101-scannet-scene0256_00",
+    "output": "The image shows an indoor space with sewing equipment and a display table, which suggests it could be a workspace or a craft area. This setting is more consistent with an \"Office\" category.",
+    "estimated_sceneType": "Office",
+    "sceneType": "Office"
+  },
+  {
+    "episode_history": "scannet-v0/102-scannet-scene0222_00",
+    "output": "The image shows an indoor space that appears to be a bedroom or dorm room. It contains a desk with various items such as a lamp, books, a bottle of lotion, and personal care items. The presence of a bed, a desk, and personal items like clothes and a bag suggests it is a living space. Based on these clues, the category is likely \"Room.\"",
+    "estimated_sceneType": null,
+    "sceneType": "Bedroom / Hotel"
+  },
+  {
+    "episode_history": "scannet-v0/103-scannet-scene0527_00",
+    "output": "The image shows a bathroom with a sink, faucet, and some toiletries. The presence of a door and the layout suggest it is in an apartment setting.",
+    "estimated_sceneType": "Bathroom",
+    "sceneType": "Bathroom"
+  },
+  {
+    "episode_history": "scannet-v0/104-scannet-scene0616_01",
+    "output": "The image shows an indoor space with two armchairs and a carpeted floor. Based on the visible elements, it appears to be a living room or lounge area. Therefore, the category is likely \"Living room / Lounge.\"",
+    "estimated_sceneType": "Living room / Lounge",
+    "sceneType": "Living room / Lounge"
+  },
+  {
+    "episode_history": "scannet-v0/105-scannet-scene0207_01",
+    "output": "The image shows an indoor space with a couch and a chair, along with some items on the couch. This suggests it could be an apartment or a similar type of living space.",
+    "estimated_sceneType": "Apartment",
+    "sceneType": "Apartment"
+  },
+  {
+    "episode_history": "scannet-v0/106-scannet-scene0633_00",
+    "output": "The image shows a nursery or baby room with a crib, a baby changing table, a chair, and various storage units. The room has a cozy and child-friendly atmosphere, which is typical for a living room or lounge area in a home. Based on these elements, the category would likely be \"Living room / Lounge.\"",
+    "estimated_sceneType": "Living room / Lounge",
+    "sceneType": "Bedroom / Hotel"
+  },
+  {
+    "episode_history": "scannet-v0/108-scannet-scene0354_00",
+    "output": "The image shows an indoor space with a table and chairs, which is typical of an office setting. Based on the context, the category is likely \"Office.\"",
+    "estimated_sceneType": "Office",
+    "sceneType": "Conference Room"
+  },
+  {
+    "episode_history": "scannet-v0/109-scannet-scene0648_01",
+    "output": "The image shows an indoor space with a chair, desk, backpack, and a pair of slippers on the floor. This suggests it could be a hotel room or a similar type of accommodation. Based on the items present, it is likely to be an apartment or a hotel room.",
+    "estimated_sceneType": "Apartment",
+    "sceneType": "Bedroom / Hotel"
+  },
+  {
+    "episode_history": "scannet-v0/110-scannet-scene0050_00",
+    "output": "The image shows an indoor space with a piano, a stool, and some boxes. It appears to be a room in an apartment or similar setting. Based on the details, the most appropriate category is:\n\n- Apartment",
+    "estimated_sceneType": "Apartment",
+    "sceneType": "Living room / Lounge"
+  },
+  {
+    "episode_history": "scannet-v0/111-scannet-scene0550_00",
+    "output": "The image shows a bathroom with a toilet, a trash can filled with paper, and a radiator. The floor is dirty, and there is a brown mat near the toilet. Based on these details, the category is likely \"Bathroom.\"",
+    "estimated_sceneType": "Bathroom",
+    "sceneType": "Bathroom"
+  },
+  {
+    "episode_history": "scannet-v0/112-scannet-scene0591_02",
+    "output": "The image shows an indoor space with a shelving unit, a door, and some storage items. Based on the layout and items present, it resembles an \"Office\" category.",
+    "estimated_sceneType": "Office",
+    "sceneType": "Office"
+  },
+  {
+    "episode_history": "scannet-v0/113-scannet-scene0207_00",
+    "output": "The image shows an indoor space with a bed, a table with various items, and a cluttered appearance. Based on the items and setting, it is most likely an apartment or a similar type of living space.",
+    "estimated_sceneType": "Apartment",
+    "sceneType": "Apartment"
+  },
+  {
+    "episode_history": "scannet-v0/114-scannet-scene0084_00",
+    "output": "The image shows a bathroom with a sink, mirror, and various toiletries. The presence of a sink, mirror, and personal items like a jacket and a trash bin suggests it is a bathroom.",
+    "estimated_sceneType": "Bathroom",
+    "sceneType": "Bathroom"
+  },
+  {
+    "episode_history": "scannet-v0/115-scannet-scene0046_02",
+    "output": "The image shows an indoor space that appears to be a hotel room or a similar type of accommodation. The presence of a desk with a laptop, a chair, and various items on the desk suggests it is a space used for work or study. The overall setup is typical of a hotel room, which typically includes a desk, chair, and other necessary items for a comfortable workspace. Therefore, the category would most likely be \"Hotel.\"",
+    "estimated_sceneType": null,
+    "sceneType": "Apartment"
+  },
+  {
+    "episode_history": "scannet-v0/116-scannet-scene0077_01",
+    "output": "The image shows an indoor space with a table, boxes, and some items on it. Based on the items and layout, it appears to be a storage or basement area, possibly in an apartment or apartment complex.",
+    "estimated_sceneType": "Apartment",
+    "sceneType": "Office"
+  },
+  {
+    "episode_history": "scannet-v0/120-scannet-scene0684_01",
+    "output": "The image shows an indoor space with a cardboard box and a white container, likely in a storage or utility area. Based on these elements, the category could be \"Storage / Basement / Garage.\"",
+    "estimated_sceneType": "Storage / Basement / Garage",
+    "sceneType": "Office"
+  },
+  {
+    "episode_history": "scannet-v0/121-scannet-scene0462_00",
+    "output": "The image shows a room with a printer, a door, and some storage containers, which suggests it could be a copy or mail room.",
+    "estimated_sceneType": "Copy / Mail Room",
+    "sceneType": "Copy / Mail Room"
+  },
+  {
+    "episode_history": "scannet-v0/122-scannet-scene0647_01",
+    "output": "The image shows an indoor space with a large abstract painting on the wall and a table with a ping pong table underneath. Based on these elements, the category that best fits the image is:\n\n- **Office**",
+    "estimated_sceneType": "Office",
+    "sceneType": "Living room / Lounge"
+  },
+  {
+    "episode_history": "scannet-v0/123-scannet-scene0412_01",
+    "output": "The image shows an indoor space with shelves, cups, and other items, which suggests it could be a kitchen or a similar area. Based on the context, it could be categorized as:\n\n- Kitchen",
+    "estimated_sceneType": "Kitchen",
+    "sceneType": "Kitchen"
+  },
+  {
+    "episode_history": "scannet-v0/124-scannet-scene0131_02",
+    "output": "The image shows an office space with a desk, computer, office chair, and various papers and posters on the wall. This suggests it is an office environment.",
+    "estimated_sceneType": "Office",
+    "sceneType": "Office"
+  },
+  {
+    "episode_history": "scannet-v0/125-scannet-scene0426_00",
+    "output": "The image shows an indoor space with a desk, a computer setup, and a keyboard. This suggests it could be a bedroom or a hotel room, as these are common areas where such items are found. The presence of a bed and a desk setup also supports this category.",
+    "estimated_sceneType": null,
+    "sceneType": "Bedroom / Hotel"
+  },
+  {
+    "episode_history": "scannet-v0/126-scannet-scene0574_02",
+    "output": "The image shows a door with an emergency evacuation plan sign, indicating it is likely in a hotel or similar establishment. This suggests it could be in a hotel or apartment complex.",
+    "estimated_sceneType": "Apartment",
+    "sceneType": "Bathroom"
+  },
+  {
+    "episode_history": "scannet-v0/127-scannet-scene0578_00",
+    "output": "The image shows an indoor space with a table, chairs, a backpack, and a water bottle, which suggests it could be a classroom or a study area. Based on these details, I would guess that the category is:\n\n- Classroom",
+    "estimated_sceneType": "Classroom",
+    "sceneType": "Conference Room"
+  },
+  {
+    "episode_history": "scannet-v0/128-scannet-scene0678_02",
+    "output": "The image shows a laundry room, identifiable by the presence of a washing machine, a laundry basket, and other typical laundry-related items.",
+    "estimated_sceneType": "Laundry Room",
+    "sceneType": "Laundry Room"
+  },
+  {
+    "episode_history": "scannet-v0/129-scannet-scene0575_00",
+    "output": "The image shows an indoor office space with a table, chairs, and some office equipment. Based on these elements, I would guess that the category is \"Office.\"",
+    "estimated_sceneType": "Office",
+    "sceneType": "Conference Room"
+  },
+  {
+    "episode_history": "scannet-v0/130-scannet-scene0696_00",
+    "output": "The image shows an indoor space with a table, chairs, and some boxes, which suggests it could be a living room or lounge area. Based on the details, it could be an apartment or a similar residential setting.",
+    "estimated_sceneType": "Living room / Lounge",
+    "sceneType": "Storage / Basement / Garage"
+  },
+  {
+    "episode_history": "scannet-v0/132-scannet-scene0645_01",
+    "output": "The image shows a bedroom with a bed, pillows, a nightstand with a lamp, and a framed picture on the wall. These elements are typical of a bedroom setting. Therefore, the category is likely \"Bedroom / Hotel.\"",
+    "estimated_sceneType": "Bedroom / Hotel",
+    "sceneType": "Bedroom / Hotel"
+  },
+  {
+    "episode_history": "scannet-v0/133-scannet-scene0704_00",
+    "output": "The image shows an indoor space with a counter, a printer, and a trash can. This setting resembles a typical office environment, where such items are commonly found. Therefore, the category that best fits this image is:\n\nOffice",
+    "estimated_sceneType": "Office",
+    "sceneType": "Copy / Mail Room"
+  },
+  {
+    "episode_history": "scannet-v0/134-scannet-scene0695_03",
+    "output": "The image shows an indoor space that appears to be a desk area in an apartment or similar setting. The presence of a desk, computer, and various items on it, along with the overall layout and furnishings, suggests it is likely an apartment or similar type of living space.",
+    "estimated_sceneType": "Apartment",
+    "sceneType": "Bedroom / Hotel"
+  },
+  {
+    "episode_history": "scannet-v0/135-scannet-scene0131_00",
+    "output": "The image shows an office space with a desk, chairs, and various items on the desk, such as papers and a computer monitor. This suggests that it is an office setting.",
+    "estimated_sceneType": "Office",
+    "sceneType": "Office"
+  },
+  {
+    "episode_history": "scannet-v0/137-scannet-scene0598_01",
+    "output": "The image shows an indoor space with a wooden table, chairs, and bookshelves, which is characteristic of a library setting. Therefore, the category is likely \"Bookstore / Library.\"",
+    "estimated_sceneType": "Bookstore / Library",
+    "sceneType": "Bookstore / Library"
+  },
+  {
+    "episode_history": "scannet-v0/138-scannet-scene0500_01",
+    "output": "The image shows an indoor space with a chalkboard, wooden furniture, and a round table, which suggests it is a classroom or educational setting. Therefore, the category is likely \"Classroom.\"",
+    "estimated_sceneType": "Classroom",
+    "sceneType": "Conference Room"
+  },
+  {
+    "episode_history": "scannet-v0/139-scannet-scene0647_00",
+    "output": "The image shows an indoor space with a large abstract painting on the wall and a table with a ping pong table in the foreground. Based on these elements, the category could be \"Office.\"",
+    "estimated_sceneType": "Office",
+    "sceneType": "Living room / Lounge"
+  },
+  {
+    "episode_history": "scannet-v0/140-scannet-scene0077_00",
+    "output": "The image shows an indoor space with office equipment, such as printers and copiers, and a window with blinds. This suggests it is likely an office or a workspace. Based on the context, the category that best fits this image is:\n\nOffice",
+    "estimated_sceneType": "Office",
+    "sceneType": "Office"
+  },
+  {
+    "episode_history": "scannet-v0/141-scannet-scene0651_01",
+    "output": "The image shows a kitchen setting with a stove and refrigerator, which suggests it could be in an apartment or a similar type of residential space.",
+    "estimated_sceneType": "Kitchen",
+    "sceneType": "Kitchen"
+  },
+  {
+    "episode_history": "scannet-v0/142-scannet-scene0653_01",
+    "output": "The image shows an office space with a desk, two monitors, a keyboard, mouse, and various cables. This setup is typical for an office environment. Therefore, the category is likely \"Office.\"",
+    "estimated_sceneType": "Office",
+    "sceneType": "Office"
+  },
+  {
+    "episode_history": "scannet-v0/144-scannet-scene0700_01",
+    "output": "The image shows an office workspace with a desk, two computer monitors, a keyboard, a mouse, a smartphone, a ball, and some coins. This setup is typical for an office environment. Based on the items present, the most likely category is \"Office.\"",
+    "estimated_sceneType": "Office",
+    "sceneType": "Office"
+  },
+  {
+    "episode_history": "scannet-v0/145-scannet-scene0193_00",
+    "output": "The image shows an indoor space with a desk, chair, and bed, which suggests it could be a bedroom or a dormitory room. Based on the details, the category could be \"Room\" or \"Bedroom.\"",
+    "estimated_sceneType": null,
+    "sceneType": "Bedroom / Hotel"
+  },
+  {
+    "episode_history": "scannet-v0/146-scannet-scene0518_00",
+    "output": "The image shows an indoor space with furniture, including a desk, chairs, and shelving units, which suggests it could be a retail or showroom setting. This type of space is often found in an apartment or apartment complex.",
+    "estimated_sceneType": "Apartment",
+    "sceneType": "Living room / Lounge"
+  },
+  {
+    "episode_history": "scannet-v0/147-scannet-scene0699_00",
+    "output": "The image shows a bedroom with a bed, pillows, and a bedside table. The presence of a framed picture and some items on the bedside table suggests it is a bedroom in a hotel or similar accommodation. Therefore, the category is likely \"Bedroom / Hotel.\"",
+    "estimated_sceneType": "Bedroom / Hotel",
+    "sceneType": "Bedroom / Hotel"
+  },
+  {
+    "episode_history": "scannet-v0/148-scannet-scene0203_01",
+    "output": "The image shows an indoor space with a chair and pillows, which suggests a living room or lounge area. Based on the details, it seems to be a living room or lounge area.",
+    "estimated_sceneType": "Living room / Lounge",
+    "sceneType": "Living room / Lounge"
+  },
+  {
+    "episode_history": "scannet-v0/149-scannet-scene0426_02",
+    "output": "The image shows an indoor space with a TV, a guitar case, and a desk with various items. This suggests it could be a living room or a similar area where people might relax or work. Based on the context, the most appropriate category is:\n\n- Living room / Lounge",
+    "estimated_sceneType": "Living room / Lounge",
+    "sceneType": "Bedroom / Hotel"
+  },
+  {
+    "episode_history": "scannet-v0/150-scannet-scene0648_00",
+    "output": "The image shows a bedroom with a bed, a desk, and some personal items. The presence of a stuffed animal and a blanket suggests it's a personal space, likely a bedroom. Therefore, the category is likely \"Bedroom / Hotel.\"",
+    "estimated_sceneType": "Bedroom / Hotel",
+    "sceneType": "Bedroom / Hotel"
+  },
+  {
+    "episode_history": "scannet-v0/151-scannet-scene0217_00",
+    "output": "The image shows an indoor space with a bunk bed and a dresser, which suggests it could be part of a bedroom or dormitory setting. Based on the details, the category could be:\n\n- **Apartment**",
+    "estimated_sceneType": "Apartment",
+    "sceneType": "Bedroom / Hotel"
+  },
+  {
+    "episode_history": "scannet-v0/152-scannet-scene0494_00",
+    "output": "The image shows an indoor space with a table and chairs, which is typical of an office setting. Based on the context, the category is likely \"Office.\"",
+    "estimated_sceneType": "Office",
+    "sceneType": "Conference Room"
+  },
+  {
+    "episode_history": "scannet-v0/154-scannet-scene0193_01",
+    "output": "The image shows an office space with a desk, chair, and carpeted floor. Based on the items present, it is most likely an office.",
+    "estimated_sceneType": "Office",
+    "sceneType": "Bedroom / Hotel"
+  },
+  {
+    "episode_history": "scannet-v0/155-scannet-scene0164_02",
+    "output": "The image shows a kitchen with a stove, coffee maker, and other typical kitchen items. Based on these details, I would guess that the category is \"Kitchen.\"",
+    "estimated_sceneType": "Kitchen",
+    "sceneType": "Kitchen"
+  },
+  {
+    "episode_history": "scannet-v0/156-scannet-scene0461_00",
+    "output": "The image shows an indoor space with a seating area, a coffee table, and a wall, which suggests it could be a hotel lobby or a similar public area. The presence of two armchairs and a small table indicates a waiting area or a lounge, which is common in hotels or similar establishments. Therefore, the category could be \"Hotel\".",
+    "estimated_sceneType": "Lobby",
+    "sceneType": "Lobby"
+  },
+  {
+    "episode_history": "scannet-v0/157-scannet-scene0015_00",
+    "output": "The image shows an indoor space with a chair, a table, and a radiator, which suggests it could be a conference room or a similar setting. Based on the details, it could be an office or a meeting room.",
+    "estimated_sceneType": "Conference Room",
+    "sceneType": "Classroom"
+  },
+  {
+    "episode_history": "scannet-v0/158-scannet-scene0356_00",
+    "output": "The image shows an indoor space with a desk, shelves, and storage bins, which suggests it is likely an office or workspace. Therefore, the category is most likely \"Office.\"",
+    "estimated_sceneType": "Office",
+    "sceneType": "Bedroom / Hotel"
+  },
+  {
+    "episode_history": "scannet-v0/160-scannet-scene0488_01",
+    "output": "The image shows a kitchen with cabinets, a countertop, a sink, and appliances like a dishwasher and refrigerator. This suggests it is a kitchen.",
+    "estimated_sceneType": "Kitchen",
+    "sceneType": "Kitchen"
+  },
+  {
+    "episode_history": "scannet-v0/161-scannet-scene0583_00",
+    "output": "The image shows a bathroom with a toilet, sink, and towel, which suggests it is an apartment bathroom.",
+    "estimated_sceneType": "Bathroom",
+    "sceneType": "Bathroom"
+  },
+  {
+    "episode_history": "scannet-v0/162-scannet-scene0535_00",
+    "output": "The image shows an indoor space with furniture such as chairs, a desk, and a vanity area. This suggests it could be an office or a study room. Based on the context, it fits the category of \"Office.\"",
+    "estimated_sceneType": "Office",
+    "sceneType": "Office"
+  },
+  {
+    "episode_history": "scannet-v0/163-scannet-scene0164_03",
+    "output": "The image shows a kitchen with a stove, coffee maker, and other typical kitchen items. Based on these details, I would guess that the category is \"Kitchen.\"",
+    "estimated_sceneType": "Kitchen",
+    "sceneType": "Kitchen"
+  },
+  {
+    "episode_history": "scannet-v0/165-scannet-scene0406_00",
+    "output": "The image shows a bathroom with a toilet, toilet paper holder, trash can, and towels. Based on these elements, I would guess that the category is \"Bathroom.\"",
+    "estimated_sceneType": "Bathroom",
+    "sceneType": "Bathroom"
+  },
+  {
+    "episode_history": "scannet-v0/166-scannet-scene0435_03",
+    "output": "The image shows an indoor space that appears to be a hotel room or office space. It includes a desk with a chair, a laptop, some papers, and a lamp. The presence of a suitcase suggests it might be a hotel room, but the overall setup and furnishings suggest it could also be an office or hotel room. Therefore, a reasonable guess for the category is:\n\n- Office",
+    "estimated_sceneType": "Office",
+    "sceneType": "Bedroom / Hotel"
+  },
+  {
+    "episode_history": "scannet-v0/167-scannet-scene0307_01",
+    "output": "The image shows a kitchen area with a sink, countertop, and various items scattered around. It appears to be a typical kitchen space, which suggests it could be categorized under \"Kitchen.\"",
+    "estimated_sceneType": "Kitchen",
+    "sceneType": "Storage / Basement / Garage"
+  },
+  {
+    "episode_history": "scannet-v0/168-scannet-scene0655_01",
+    "output": "The image shows an indoor space with a table, chairs, and a whiteboard, which suggests it could be a conference room or a meeting area. Based on the details, it seems to be an office setting.",
+    "estimated_sceneType": "Conference Room",
+    "sceneType": "Conference Room"
+  },
+  {
+    "episode_history": "scannet-v0/169-scannet-scene0695_01",
+    "output": "The image shows an indoor space with a desk cluttered with various items, including a laptop, snacks, and personal belongings. This suggests it is likely an office or workspace setting. Therefore, the category is most likely \"Office.\"",
+    "estimated_sceneType": "Office",
+    "sceneType": "Bedroom / Hotel"
+  },
+  {
+    "episode_history": "scannet-v0/170-scannet-scene0378_01",
+    "output": "The image shows an office space with a desk, computer, office chair, and various papers and office supplies. This suggests that the category is likely \"Office.\"",
+    "estimated_sceneType": "Office",
+    "sceneType": "Office"
+  },
+  {
+    "episode_history": "scannet-v0/171-scannet-scene0222_01",
+    "output": "The image shows an indoor space with a cushioned item on the floor, which could be in a hotel room or similar setting. Based on the context, it seems to be a hotel room or similar establishment.",
+    "estimated_sceneType": null,
+    "sceneType": "Bedroom / Hotel"
+  },
+  {
+    "episode_history": "scannet-v0/172-scannet-scene0496_00",
+    "output": "The image shows an indoor space with a projector screen, chairs, and a chalkboard, which suggests it is a classroom or educational setting. Therefore, the category would be \"Classroom.\"",
+    "estimated_sceneType": "Classroom",
+    "sceneType": "Conference Room"
+  },
+  {
+    "episode_history": "scannet-v0/173-scannet-scene0278_01",
+    "output": "The image shows an indoor space with trash bins and a filing cabinet, which suggests it could be an office or a similar workspace. The presence of a calendar and posters on the wall further supports this category.",
+    "estimated_sceneType": "Office",
+    "sceneType": "Copy / Mail Room"
+  },
+  {
+    "episode_history": "scannet-v0/174-scannet-scene0086_01",
+    "output": "The image shows a bathroom with a sink and a paper towel dispenser, which is typical for such a space.",
+    "estimated_sceneType": "Bathroom",
+    "sceneType": "Bathroom"
+  },
+  {
+    "episode_history": "scannet-v0/175-scannet-scene0329_01",
+    "output": "The image shows an indoor space with a brown leather couch and a black backpack on it. This setting suggests a living room or lounge area, as it is a common place for people to relax and store their belongings. Therefore, the category is likely \"Living room / Lounge.\"",
+    "estimated_sceneType": "Living room / Lounge",
+    "sceneType": "Lobby"
+  },
+  {
+    "episode_history": "scannet-v0/176-scannet-scene0643_00",
+    "output": "The image shows an office space with a desk, computer, office supplies, and a bulletin board. This suggests it is likely an office environment.",
+    "estimated_sceneType": "Office",
+    "sceneType": "Office"
+  },
+  {
+    "episode_history": "scannet-v0/177-scannet-scene0608_02",
+    "output": "The image shows an indoor space with a guitar, a piano, a bean bag, and some books. It appears to be a living room or lounge area. Based on the items present, it is likely to be a living room or lounge area.",
+    "estimated_sceneType": "Living room / Lounge",
+    "sceneType": "Living room / Lounge"
+  },
+  {
+    "episode_history": "scannet-v0/178-scannet-scene0685_02",
+    "output": "The image shows a green recycling bin, which is typically found in a storage or basement area of a building, such as a hotel or apartment complex. This type of room is usually designated for recycling and waste disposal. Therefore, the category for this image is likely:\n\n- Storage / Basement / Garage",
+    "estimated_sceneType": "Apartment",
+    "sceneType": "Copy / Mail Room"
+  },
+  {
+    "episode_history": "scannet-v0/179-scannet-scene0300_01",
+    "output": "The image shows an indoor space with a desk, two Apple iMac computers, and a chair. This setup is typical of an office environment. Therefore, the category is likely \"Office.\"",
+    "estimated_sceneType": "Office",
+    "sceneType": "Bookstore / Library"
+  },
+  {
+    "episode_history": "scannet-v0/180-scannet-scene0100_02",
+    "output": "The image shows a bathroom with a toilet, a trash can, and a towel rack. Based on the visible elements, it is most likely an apartment bathroom.",
+    "estimated_sceneType": "Bathroom",
+    "sceneType": "Bathroom"
+  },
+  {
+    "episode_history": "scannet-v0/181-scannet-scene0314_00",
+    "output": "The image shows an indoor space with a round table and a chair, suggesting a setting that could be a conference room or a similar office environment. The presence of a patterned carpet and the design of the furniture further supports this category.",
+    "estimated_sceneType": "Conference Room",
+    "sceneType": "Lobby"
+  },
+  {
+    "episode_history": "scannet-v0/182-scannet-scene0645_00",
+    "output": "The image shows a bedroom with a bed, pillows, and a nightstand with a lamp. The setting appears to be a hotel room, as indicated by the framed picture on the wall and the presence of a lamp. Therefore, the category is likely \"Bedroom / Hotel.\"",
+    "estimated_sceneType": "Bedroom / Hotel",
+    "sceneType": "Bedroom / Hotel"
+  },
+  {
+    "episode_history": "scannet-v0/183-scannet-scene0231_01",
+    "output": "The image shows an indoor space with a chair, a lamp, a rug, and some stacked items. It appears to be a living room or lounge area. Based on the details, the category is likely \"Living room / Lounge.\"",
+    "estimated_sceneType": "Living room / Lounge",
+    "sceneType": "Apartment"
+  },
+  {
+    "episode_history": "scannet-v0/185-scannet-scene0435_00",
+    "output": "The image shows an indoor space that appears to be a hotel room. Based on the presence of a suitcase, a chair, a desk, and a cabinet with items on top, it is likely that this is a hotel room. Therefore, the category is likely \"Hotel.\"",
+    "estimated_sceneType": null,
+    "sceneType": "Bedroom / Hotel"
+  },
+  {
+    "episode_history": "scannet-v0/186-scannet-scene0549_01",
+    "output": "The image shows an indoor space with a framed picture, a potted plant, and a hallway. Based on the elements present, it appears to be an office space.",
+    "estimated_sceneType": "Office",
+    "sceneType": "Lobby"
+  },
+  {
+    "episode_history": "scannet-v0/187-scannet-scene0655_02",
+    "output": "The image shows an indoor space with a table and chairs, which is typical for an office or conference room setting. Therefore, the category is likely \"Office.\"",
+    "estimated_sceneType": "Office",
+    "sceneType": "Conference Room"
+  },
+  {
+    "episode_history": "scannet-v0/188-scannet-scene0593_00",
+    "output": "The image shows an indoor space with mailboxes and a counter, which suggests it is a mail room or a similar area for handling mail.",
+    "estimated_sceneType": null,
+    "sceneType": "Living room / Lounge"
+  },
+  {
+    "episode_history": "scannet-v0/189-scannet-scene0500_00",
+    "output": "The image shows an indoor space with wooden chairs, a table, and a clock on the wall, which suggests it could be a conference room or a similar type of meeting or meeting space.",
+    "estimated_sceneType": "Conference Room",
+    "sceneType": "Conference Room"
+  }
+]

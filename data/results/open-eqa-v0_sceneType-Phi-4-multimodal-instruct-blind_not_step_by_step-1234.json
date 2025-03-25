@@ -1,0 +1,476 @@
+[
+  {
+    "episode_history": "scannet-v0/100-scannet-scene0598_00",
+    "output": "The category that best describes the space based on the provided questions and answers is a **Library**. This is evident from the mention of bookshelves, books, and the specific reference to the room being a library in one of the answers.",
+    "estimated_sceneType": null,
+    "sceneType": "Bookstore / Library"
+  },
+  {
+    "episode_history": "scannet-v0/101-scannet-scene0256_00",
+    "output": "The questions and answers provided suggest that the indoor space in question is a bedroom, possibly within a hotel or a similar accommodation, as they mention a sewing machine, a clothing rack stand, pillows, a brown hat, and drawers for storing undergarments. The presence of a person standing near the table and the question about where to store pillows also support this idea, as these are typical features of a bedroom. The mention of a brown hat left on top of the clothing rack stand could imply a personal touch, which is common in hotel rooms. However, without explicit confirmation, we cannot be entirely certain that it is a hotel room, as the space could also be a private bedroom. Therefore, the most appropriate category based on the given information is:\n\n- Bedroom / Hotel",
+    "estimated_sceneType": "Bedroom / Hotel",
+    "sceneType": "Office"
+  },
+  {
+    "episode_history": "scannet-v0/102-scannet-scene0222_00",
+    "output": "The questions and answers provided do not give enough information to confidently determine a specific category from the list provided. The questions are about various items and their locations, but they do not describe a space in a way that clearly fits one of the categories. The items mentioned (fan, toothbrush, recycling bin, door, laptop, shampoo, toothpaste, keys) could be found in many different types of indoor spaces.\n\nAn appropriate guess, given the lack of context, could be:\n\n- Living room / Lounge\n\nThis guess is made because the questions mention a fan (commonly found in living rooms or lounges), a toothbrush (which could be in a bathroom but is also commonly found in living spaces), and a laptop (often used in living spaces). However, without more specific information, this remains a guess.",
+    "estimated_sceneType": "Living room / Lounge",
+    "sceneType": "Bedroom / Hotel"
+  },
+  {
+    "episode_history": "scannet-v0/103-scannet-scene0527_00",
+    "output": "The category that best describes the space based on the provided questions and answers is:\n\n- Bathroom",
+    "estimated_sceneType": "Bathroom",
+    "sceneType": "Bathroom"
+  },
+  {
+    "episode_history": "scannet-v0/104-scannet-scene0616_01",
+    "output": "The questions and answers provided do not contain enough specific information about the indoor space to confidently determine a category. However, based on the context clues, such as the presence of a table, lamp, door, and fireplace, as well as the mention of cleaning and a painting, I would guess that the space is most likely a:\n\n- Living room / Lounge\n\nThis guess is made because these elements are commonly found in living rooms or lounges, and the questions do not provide enough detail to definitively categorize the space as any of the other options.",
+    "estimated_sceneType": "Living room / Lounge",
+    "sceneType": "Living room / Lounge"
+  },
+  {
+    "episode_history": "scannet-v0/105-scannet-scene0207_01",
+    "output": "The questions and answers provided are about various objects and their locations within an indoor space, but they do not give enough specific information about the overall category of the space. However, we can make some educated guesses based on the context.\n\n- The mention of a \"kitchen counter,\" \"monitor,\" \"vacuum cleaner,\" and \"printer\" suggests that the space is likely a home or office.\n- The presence of a \"sofa,\" \"bookshelf,\" and \"desk\" further supports the idea that it is a living space or an office.\n- The question about where to sit if you want to work (\"black chair\") suggests that the space is likely an office, as sitting on a chair to work is more common in an office setting than in a living room.\n- The mention of a \"laundry basket\" near the bed suggests that the space is a bedroom, as laundry baskets are typically found in bedrooms.\n\nBased on the information provided, it is difficult to definitively categorize the space, but the most likely categories are either a \"Living room / Lounge\" or an \"Office.\" Since the question about where to sit if you want to work leans more towards an office setting, I would guess that the space is an \"Office.\" However, without more specific information, this is still an educated guess.",
+    "estimated_sceneType": "Kitchen",
+    "sceneType": "Apartment"
+  },
+  {
+    "episode_history": "scannet-v0/106-scannet-scene0633_00",
+    "output": "The category that best describes the indoor space based on the provided questions and answers is a **Bedroom / Hotel**. The presence of a crib, a sofa, and a place for a baby to play and nap, along with baby pictures and a diaper-changing area, all point towards a space designed for a baby or a baby room, which is typically found in a bedroom or hotel.",
+    "estimated_sceneType": "Bedroom / Hotel",
+    "sceneType": "Bedroom / Hotel"
+  },
+  {
+    "episode_history": "scannet-v0/108-scannet-scene0354_00",
+    "output": "The category that best describes the space based on the provided questions and answers is \"Conference Room.\" This is evident from multiple references to a conference table, whiteboard, and the context of showing presentations and keeping pizza for a meeting, which are typical activities in a conference room setting.",
+    "estimated_sceneType": "Conference Room",
+    "sceneType": "Conference Room"
+  },
+  {
+    "episode_history": "scannet-v0/109-scannet-scene0648_01",
+    "output": "The questions and answers provided do not contain sufficient information to confidently determine a specific category from the list. The questions are about various objects and their colors, positions, and uses, but they do not describe a particular type of indoor space. Therefore, I will make an appropriate guess based on the context of the questions.\n\nGiven the variety of objects mentioned (calculator, books, photo frame, notebook, mobile phone, water bottle, flip flops, Buddha statue, hair brush, laptop charger), it seems like the space could be a personal living area or a study. However, without more specific information, it's challenging to pinpoint a single category.\n\nA reasonable guess might be:\n\n- Living room / Lounge\n\nThis category can encompass a variety of personal items and activities, such as reading, studying, and relaxation, which align with the context of the questions.",
+    "estimated_sceneType": "Living room / Lounge",
+    "sceneType": "Bedroom / Hotel"
+  },
+  {
+    "episode_history": "scannet-v0/110-scannet-scene0050_00",
+    "output": "The category that best describes the indoor space based on the provided questions and answers is an **Office**. The presence of desks, chairs, a piano, laptops, a cooler, a roomba, toolboxes, curtains, a couch, a backpack, and a coffee mug all suggest a work environment. The mention of needing to fix something with a screwdriver and the need for internet access for working further supports this categorization.",
+    "estimated_sceneType": "Office",
+    "sceneType": "Living room / Lounge"
+  },
+  {
+    "episode_history": "scannet-v0/111-scannet-scene0550_00",
+    "output": "The category that best describes the space based on the provided questions and answers is:\n\n- Bathroom",
+    "estimated_sceneType": "Bathroom",
+    "sceneType": "Bathroom"
+  },
+  {
+    "episode_history": "scannet-v0/112-scannet-scene0591_02",
+    "output": "The provided questions and answers do not give enough specific information about the type of indoor space. However, based on the details given, such as a couch, heater, shelves, a bookshelf, a desk, and a trophy, it seems to be a living area or a study room. Among the provided categories, the most fitting one would be:\n\n- Living room / Lounge\n\nThis guess is made considering the presence of a couch, shelves, and a bookshelf, which are typical features of a living room or lounge area. However, without more specific information, this remains an educated guess rather than a definitive answer.",
+    "estimated_sceneType": "Living room / Lounge",
+    "sceneType": "Office"
+  },
+  {
+    "episode_history": "scannet-v0/113-scannet-scene0207_00",
+    "output": "The provided questions and answers do not give enough specific information about the layout or features of the space to confidently determine its category. However, based on the presence of a bed, a closet, a window, a couch, a desk, and laundry baskets, a reasonable guess would be that this space is a part of a larger living area, possibly a bedroom or a living room. Since the bed is mentioned, it leans more towards a bedroom, but the presence of a couch and other living room features make it a bit ambiguous.\n\nAppropriate guess: Living room / Lounge",
+    "estimated_sceneType": "Laundry Room",
+    "sceneType": "Apartment"
+  },
+  {
+    "episode_history": "scannet-v0/114-scannet-scene0084_00",
+    "output": "Based on the provided questions and answers, the best category that describes the indoor space is:\n\n- Kitchen\n\nThe references to the sink, soap dispenser, counter, and items typically found in a kitchen (such as shampoo, toilet paper rolls, and a caution sign for a wet floor) all point towards a kitchen setting.",
+    "estimated_sceneType": "Kitchen",
+    "sceneType": "Bathroom"
+  },
+  {
+    "episode_history": "scannet-v0/115-scannet-scene0046_02",
+    "output": "The provided questions and answers do not give enough specific information to confidently determine a single category for the indoor space. However, based on the presence of a bed, a desk, a suitcase, a laptop, a television, and a green bench or blue chair, as well as the mention of a purse and a wallet, it seems like the space could be a living room or a lounge, as these are common areas where such items might be found. But without more context, it's difficult to be certain. So, my guess would be:\n\n- Living room / Lounge",
+    "estimated_sceneType": "Living room / Lounge",
+    "sceneType": "Apartment"
+  },
+  {
+    "episode_history": "scannet-v0/116-scannet-scene0077_01",
+    "output": "The questions and answers provided suggest that the space in question is a small office or work area, as indicated by the presence of multiple machines (printers), a trash barrel, a sign, a small room, cardboard boxes, a hand sanitizer, Advil, Kleenex, and a paper cutter. The mention of organizing papers and storing medicine also supports the idea of a workspace. However, the exact category is not explicitly stated, so an appropriate guess would be:\n\n- Office\n\nIf we were to choose the closest match from the provided categories, \"Office\" would be the best fit. However, since \"Office\" is not listed, the next best guess would be:\n\n- Copy / Mail Room (as it often contains printers and supplies like Kleenex and Advil, but this is still a bit of a stretch without more context).",
+    "estimated_sceneType": "Office",
+    "sceneType": "Office"
+  },
+  {
+    "episode_history": "scannet-v0/120-scannet-scene0684_01",
+    "output": "Based on the provided questions and answers, the indoor space described appears to be a small office or work area. The presence of a desk phone, a chair, a table, and a roll of paper towels, along with the mention of a stack of bins and paper boxes, suggests a functional workspace. However, since \"office\" is not listed as an option, the closest category that fits the description would be:\n\n- Office\n\nIf we must choose from the provided categories, \"Office\" would be the best guess, even though it is not explicitly listed. If forced to choose from the given options, none of them perfectly fit the description, but \"Office\" would be the most appropriate guess.",
+    "estimated_sceneType": "Office",
+    "sceneType": "Office"
+  },
+  {
+    "episode_history": "scannet-v0/121-scannet-scene0462_00",
+    "output": "The category that best describes the space based on the provided questions and answers is an \"Office.\" The presence of a US postal service bin, a fax machine, a photo-copy machine, and a brown paper box in front of a closed door, along with the mention of delivering mail, all suggest an office environment.",
+    "estimated_sceneType": "Office",
+    "sceneType": "Copy / Mail Room"
+  },
+  {
+    "episode_history": "scannet-v0/122-scannet-scene0647_01",
+    "output": "Based on the provided questions and answers, the indoor space described appears to be a living room or lounge. The presence of a ping-pong table, a sofa, a high table, and a painting, as well as the mention of a coach (which could be a couch or a similar piece of furniture), all suggest a space designed for relaxation and leisure, which is characteristic of a living room or lounge. The mention of an electric outlet near the wooden chair also supports the idea that this is a space where people might sit and relax, possibly with a television or other electronic devices plugged in.",
+    "estimated_sceneType": "Living room / Lounge",
+    "sceneType": "Living room / Lounge"
+  },
+  {
+    "episode_history": "scannet-v0/123-scannet-scene0412_01",
+    "output": "The category that best describes the space based on the provided questions and answers is a **Laundry Room**. The references to a sink, clothes hangers, and the need to dry clothes suggest that the space is used for laundry-related activities.",
+    "estimated_sceneType": "Laundry Room",
+    "sceneType": "Kitchen"
+  },
+  {
+    "episode_history": "scannet-v0/124-scannet-scene0131_02",
+    "output": "The questions and answers provided suggest that the indoor space in question is a **Bedroom / Hotel**. This is because the space is described as having a table with multiple monitors, a mini black fridge, a white board, and a mirror, which are items typically found in a bedroom or hotel room. Additionally, the mention of working on an essay and storing fruits indicates a personal space, which aligns with a bedroom or hotel room setting. The presence of a laptop and the need for an extension cord also suggests a private living space rather than a commercial or public area.",
+    "estimated_sceneType": "Bedroom / Hotel",
+    "sceneType": "Office"
+  },
+  {
+    "episode_history": "scannet-v0/125-scannet-scene0426_00",
+    "output": "The provided questions and answers do not give enough specific information about the layout or features of the indoor space to confidently categorize it into one of the given categories. However, we can make an educated guess based on the clues given.\n\nThe presence of a bed, armchair, monitors, piano keyboard, and a laptop suggests a living area or a space where people might work or relax. The mention of a jacket and a book also suggests a personal or living space rather than a commercial or public space.\n\nGiven these clues, the most likely category for this space is:\n\n- Living room / Lounge\n\nHowever, it's important to note that without more specific information, this is just an educated guess, and the space could potentially fit into another category as well.",
+    "estimated_sceneType": "Living room / Lounge",
+    "sceneType": "Bedroom / Hotel"
+  },
+  {
+    "episode_history": "scannet-v0/126-scannet-scene0574_02",
+    "output": "Based on the provided questions and answers, the indoor space described appears to be a **Laundry Room**. The references to clothes, hanging clothes, and drying wet clothes, as well as the presence of a mirror and a map showing an emergency evacuation plan, all point towards a laundry room setting.",
+    "estimated_sceneType": "Laundry Room",
+    "sceneType": "Bathroom"
+  },
+  {
+    "episode_history": "scannet-v0/127-scannet-scene0578_00",
+    "output": "The provided questions and answers do not give enough specific information about the layout or the purpose of the space to confidently categorize it into one of the given categories. However, based on the presence of a chair, a table, an electric outlet, a trash can, and the mention of food packages, a reasonable guess would be that this space could be part of a kitchen or a living room, as these are common areas where such items would be found. Since \"Kitchen\" and \"Living room / Lounge\" are the closest matches, and we need to choose one, I would lean towards \"Living room / Lounge\" as it is a more general category that can encompass a variety of activities, including eating and socializing, which could involve food packages and a trash can.",
+    "estimated_sceneType": "Kitchen",
+    "sceneType": "Conference Room"
+  },
+  {
+    "episode_history": "scannet-v0/128-scannet-scene0678_02",
+    "output": "Based on the provided questions and answers, the indoor space described is most likely a Laundry Room. The presence of washing machines, a water sink, floor tiles, a laundry basket, microwaves, and a vending machine for drinks all point towards a laundry facility. The mention of a paper bag and a black plastic bag suggests a place where people might store their belongings, which is consistent with a laundry room. The brand names mentioned (Levi and Pepsi) are not directly related to the category but could be found in a laundry room where people might have personal items.",
+    "estimated_sceneType": "Laundry Room",
+    "sceneType": "Laundry Room"
+  },
+  {
+    "episode_history": "scannet-v0/129-scannet-scene0575_00",
+    "output": "The category that best describes the indoor space based on the provided questions and answers is an Office. The presence of monitors, a video camera, a table, an instruction sheet, a remote controller, and a glass for water suggests a workspace environment, which is characteristic of an office setting. The mention of a video conference room also supports this categorization, as it is a common feature in office spaces.",
+    "estimated_sceneType": "Office",
+    "sceneType": "Conference Room"
+  },
+  {
+    "episode_history": "scannet-v0/130-scannet-scene0696_00",
+    "output": "The category that best describes this space, based on the provided questions and answers, is a **Bedroom / Hotel**. The presence of a tennis table, a mattress on the floor, and a red box on the tennis table, along with the mention of drying clothes, suggests a living space that could be part of a bedroom or hotel room. The mention of monitors also indicates that this room might be equipped for work or study, which is common in hotel rooms. However, the primary indicators point towards it being a bedroom or hotel room.",
+    "estimated_sceneType": "Bedroom / Hotel",
+    "sceneType": "Storage / Basement / Garage"
+  },
+  {
+    "episode_history": "scannet-v0/132-scannet-scene0645_01",
+    "output": "The category that best describes this space, based on the provided questions and answers, is a **Bedroom / Hotel**. The presence of beds, a nightstand, a table lamp, a clock, a TV, and a TV remote, as well as the mention of reading a book in an armchair, all point towards a bedroom setting, which could also be found in a hotel. The questions do not provide enough specific information to confidently place the room in a hotel, but it is a reasonable guess given the context.",
+    "estimated_sceneType": "Bedroom / Hotel",
+    "sceneType": "Bedroom / Hotel"
+  },
+  {
+    "episode_history": "scannet-v0/133-scannet-scene0704_00",
+    "output": "The category that best describes the space based on the provided questions and answers is \"Office.\" The presence of a printer, trash bin, cooler, and a place to get a sheet of paper all suggest an office environment. Additionally, the mention of a \"printing room\" further supports this categorization.",
+    "estimated_sceneType": "Office",
+    "sceneType": "Copy / Mail Room"
+  },
+  {
+    "episode_history": "scannet-v0/134-scannet-scene0695_03",
+    "output": "The questions and answers provided do not give enough specific information to confidently determine a single category. However, based on the presence of a game console, clothes, a plush toy, and a bed, it seems like the space could be a bedroom or a hotel room, as these are common places where such items might be found. Since the question about the bed being made and the question about the gaming console being on the table suggest a personal living space, I would lean towards guessing \"Bedroom / Hotel\" as the category. However, without more context, this is still an educated guess.",
+    "estimated_sceneType": "Bedroom / Hotel",
+    "sceneType": "Bedroom / Hotel"
+  },
+  {
+    "episode_history": "scannet-v0/135-scannet-scene0131_00",
+    "output": "The provided questions and answers do not give enough specific information about the type of indoor space. However, we can make some educated guesses based on the context clues:\n\n- The presence of a whiteboard, a poster, a desk, a monitor, and a mirror suggests a workspace or an office.\n- The mention of a scientific conference and a poster implies a professional or academic setting.\n- The questions about connecting a MacBook and drawing a diagram on the whiteboard further support the idea of an office or a classroom.\n\nGiven these clues, the most appropriate category from the list would be:\n\n- Office\n\nHowever, it's important to note that without more specific information, this is still an educated guess. The space could also be a classroom, especially if it is used for teaching or presenting scientific information.",
+    "estimated_sceneType": "Office",
+    "sceneType": "Office"
+  },
+  {
+    "episode_history": "scannet-v0/137-scannet-scene0598_01",
+    "output": "The category that best describes the indoor space based on the provided questions and answers is \"Office.\" The presence of a white desk, computers, a glass screen, bookshelves, and a power outlet, along with the need to charge a laptop and access the internet, all point towards an office setting.",
+    "estimated_sceneType": "Office",
+    "sceneType": "Bookstore / Library"
+  },
+  {
+    "episode_history": "scannet-v0/138-scannet-scene0500_01",
+    "output": "The category that best describes the space based on the provided questions and answers is \"Office.\" The presence of an office chair, a blackboard, a remote, a projector, and the context of sharing presentation materials all suggest an office environment.",
+    "estimated_sceneType": "Office",
+    "sceneType": "Conference Room"
+  },
+  {
+    "episode_history": "scannet-v0/139-scannet-scene0647_00",
+    "output": "The category that best describes the indoor space based on the given questions and answers is \"Living room / Lounge.\" The presence of a ping-pong table, barstools, an L-shaped sofa, and a table for a couple to sit together, as well as the mention of green signs with light to mark the exit, all suggest a casual, social, and comfortable space typically found in a living room or lounge.",
+    "estimated_sceneType": "Living room / Lounge",
+    "sceneType": "Living room / Lounge"
+  },
+  {
+    "episode_history": "scannet-v0/140-scannet-scene0077_00",
+    "output": "Based on the provided questions and answers, the best category that describes the indoor space is an **Office**. The presence of a printer, a scanner, a paper recycling trash bin, and scientific posters, as well as the mention of adding a queen size bed (which is not typical for an office), suggests that this space is designed for work-related activities, possibly a home office or a small office setup. The lack of sufficient space for a queen size bed might indicate that it is not a full-sized office but still an office-like environment.",
+    "estimated_sceneType": "Office",
+    "sceneType": "Office"
+  },
+  {
+    "episode_history": "scannet-v0/141-scannet-scene0651_01",
+    "output": "The category that best describes the space based on the provided questions and answers is \"Kitchen.\" The questions specifically ask about the location of appliances, the color of cabinets, and the presence of a stove and trash can, all of which are typically found in a kitchen.",
+    "estimated_sceneType": "Kitchen",
+    "sceneType": "Kitchen"
+  },
+  {
+    "episode_history": "scannet-v0/142-scannet-scene0653_01",
+    "output": "The questions and answers provided suggest that the indoor space is a university lab or office. This setting is characterized by the presence of a whiteboard, a computer monitor, a filing cabinet, hand sanitizer, and a place to read books, which are common in academic and professional environments. Therefore, the best category from the list that describes this space is:\n\n- Office\n\nHowever, given that the setting also has elements that could be found in a university lab, such as the need to explain a mathematical equation and the presence of a book, it could also be considered a:\n\n- University lab\n\nSince the setting is not explicitly defined as one or the other, and the category \"Office\" is more commonly associated with the presence of a computer monitor and a whiteboard, I would lean towards \"Office\" as the most fitting category.",
+    "estimated_sceneType": "Office",
+    "sceneType": "Office"
+  },
+  {
+    "episode_history": "scannet-v0/144-scannet-scene0700_01",
+    "output": "The category that best describes the space based on the provided questions and answers is \"Office.\" The questions and answers reference objects typically found in an office setting, such as a work desk, telephone, whiteboard, filing cabinet, and a computer. Additionally, the final question explicitly states that the room is an \"Office.\"",
+    "estimated_sceneType": "Office",
+    "sceneType": "Office"
+  },
+  {
+    "episode_history": "scannet-v0/145-scannet-scene0193_00",
+    "output": "Based on the provided questions and answers, the best category that describes this space is an **Office**. The presence of a work desk, task chair, shelf, and closet, along with the mention of storing a suitcase, suggests that the room is used for work-related activities. The questions about the window curtain and making the room darker also align with an office setting, where natural light management is often considered. The mention of sleeping and working functions further supports this categorization.",
+    "estimated_sceneType": "Office",
+    "sceneType": "Bedroom / Hotel"
+  },
+  {
+    "episode_history": "scannet-v0/146-scannet-scene0518_00",
+    "output": "The category that best describes the space based on the given questions and answers is a **Living room / Lounge**. This is because the questions and answers mention a sectional couch, a coffee table, a TV, and a work desk, which are typical features of a living room or lounge area. The presence of a backpack, a jug, and a pillow also aligns with a living space where people might store personal items. The mention of a TV and the arrangement of furniture suggest a place meant for relaxation and possibly work, which is characteristic of a living room or lounge.",
+    "estimated_sceneType": "Living room / Lounge",
+    "sceneType": "Living room / Lounge"
+  },
+  {
+    "episode_history": "scannet-v0/147-scannet-scene0699_00",
+    "output": "The questions and answers provided suggest that the space in question is a bedroom, possibly within a hotel, due to the presence of a bed, an AC unit, and the mention of a window. The mention of a \"backpack\" and \"hairbrush\" could also be associated with a personal space, but they are not definitive indicators of the room's category. The reference to a \"wallet\" being left on a \"wooden table\" further supports the idea of a bedroom, as wallets are commonly found in bedrooms. The other categories listed do not fit the context of the questions and answers provided. Therefore, the best category for this space is:\n\n- Bedroom / Hotel",
+    "estimated_sceneType": "Bedroom / Hotel",
+    "sceneType": "Bedroom / Hotel"
+  },
+  {
+    "episode_history": "scannet-v0/148-scannet-scene0203_01",
+    "output": "Based on the provided questions and answers, the indoor space described seems to be a living room or lounge. The presence of a coffee table, a book shelf, a couch, and a shoe rack are all indicative of a living room or lounge setting. The cluttered nature of the room and the presence of personal items like books and framed photos also support this categorization.",
+    "estimated_sceneType": "Living room / Lounge",
+    "sceneType": "Living room / Lounge"
+  },
+  {
+    "episode_history": "scannet-v0/149-scannet-scene0426_02",
+    "output": "Based on the questions and answers provided, the indoor space described is most likely a **Bedroom**. The presence of a bed, dresser, TV, and the mention of a Yonex racket bag all point towards a bedroom setting. The additional context of it being a typical home or apartment room further supports this categorization.",
+    "estimated_sceneType": "Apartment",
+    "sceneType": "Bedroom / Hotel"
+  },
+  {
+    "episode_history": "scannet-v0/150-scannet-scene0648_00",
+    "output": "The provided questions and answers do not contain enough specific information about the layout, features, or purpose of the space to confidently categorize it into one of the given categories. However, I can make an educated guess based on the clues provided.\n\nThe mention of a \"3-drawer white cart,\" \"purple quilt,\" \"red water bottle,\" \"small red book,\" \"calculator,\" \"MacBook,\" \"black slippers,\" \"brown cabinet,\" and \"brown table\" suggests that the space could be a bedroom or a hotel room, as these items are commonly found in such spaces. The question about keeping a dog in the room and finding something to wear on the bed further supports this guess, as it implies a personal living space.\n\nGiven the lack of definitive information, my best guess would be:\n\n- Bedroom / Hotel\n\nHowever, it's important to note that this is an educated guess and the actual category could be different based on additional context not provided in the questions and answers.",
+    "estimated_sceneType": "Bedroom / Hotel",
+    "sceneType": "Bedroom / Hotel"
+  },
+  {
+    "episode_history": "scannet-v0/151-scannet-scene0217_00",
+    "output": "Based on the provided questions and answers, the best category that describes the indoor space is:\n\n- Bedroom / Hotel\n\nThe presence of a bed, a desk, and the question about standing between the bed and the desk, along with the mention of a backpack, suggest that the space is likely a bedroom, possibly in a hotel setting. The answers do not provide enough specific information to confidently place the space in another category.",
+    "estimated_sceneType": "Bedroom / Hotel",
+    "sceneType": "Bedroom / Hotel"
+  },
+  {
+    "episode_history": "scannet-v0/152-scannet-scene0494_00",
+    "output": "Based on the provided questions and answers, the indoor space described seems to be a classroom. The presence of chairs, a whiteboard, and the need to pull out chairs to sit, as well as the mention of a garbage bin, are all indicative of a classroom setting. The color of the walls and the proximity of objects to the door do not necessarily define the category, but in the context of the other details, a classroom is the most fitting category.",
+    "estimated_sceneType": "Classroom",
+    "sceneType": "Conference Room"
+  },
+  {
+    "episode_history": "scannet-v0/154-scannet-scene0193_01",
+    "output": "The answers suggest that the black object is not a black\n\nA: This room is black\n\nBased on the black object\n\nA: white\n\nA: white\n\nA: white\n\nA: white\n\nA: white\n\nA: white\n\nA: white\n\nA: white\n\nA: white\n\nA: white\n\nA: white\n\nA: white\n\nA: white\n\nA: white\n\nA: white\n\nA: white\n\nA: white\n\nA: white\n\nA: white\n\nA: white\n\nA: white\n\nA: white\n\nA: white\n\nA: white\n\nA: white\n\nA: white\n\nA: white\n\nA: white\n\nA: white\n\nA: white\n\nA: white\n\nA: white\n\nA: white\n\nA: white\n\nA: white\n\nA: white\n\nA: white\n\nA: white\n\nA: white\n\nA: white\n\nA: white\n\nA: white\n\nA: white\nA: white\nA: white\nA: white\nA: white\nA: white\nA: white\nA: white\nA: white\nA: white\n\nA: white\nA: white\n\nA: white\n\nA: white\n\nA: white\n\nA: white\n\nA: white\n\nA: white\n\nA: white\n\nA: white\n\nA: white\n\nA: white\n\nA: white\n\nA: white\n\nA: white\n\nA: white\n\nA: white\n\nA: white\n\nA: white\n\nA: white\n\nA: white\n\nA: white\n\nA: white\n\nA: white\n\nA: white\n\nA: white\n\nA: white\n\nA: white\n\nA: white\n\nA: white\n\nA: white\n\nA: white\n\nA: white\n\nA: white\n\nA: white\n\nA: white\n\nA: white\n\nA: white\n\nA: white\n\nA: white\n\nA: white\n\nA: white\n\nA: white\n\nA: white\n\nA: white\n\nA: white\n\nA: white\n\nA: white)\n\nA: white\n\nA: white\n\nA: white\n\nA: white\n\nA: white\n\nA: white\n\nA: white\n\nA: white\n\nA: white\n\nA: white\n\nA: white\n\nA: white\n\nA: white\n\nA: white\n\nA: white\n\nA: white\n\nA: white\n\nA: white: white\n\nA: white\n\nA: white\n\nA: white\n\nA: white\n\nA: white\n\nA: white\n\nA: white\n\nA: white\n\nA: white\n\nA: white\n\nQ: What is the color of the object on the white?\n\nA: white\n\nQ: What is the color of the object on the white?\n\nA: white\n\nQ: What is the color of the object on the white?\n\nA: white\n\nQ: What is the object\n\nA: white\n\nA: white\n\nA: white\n\nA: white\n\nA: white\n\nA: white\n\nA: white\n\nA: white\n\nA: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: white A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: white\n\nA: A: white\n\nA: A: A: white\n\nA: white\n\nA: A: white\n\nA: A: A: white\n\nA: white A: white A: white object A: white\n\nA: white\n\nA: white\n\nA: white\n\nA: whiteA: A: white\n\nA: white object A: A\n\nA\n\nA\n\nA\n\nA: white\n\nA: white\n\nA: white\n\nA: A: white\n\nA: white\n\nA: white\n\nA: white\n\nA: white\n\nA: white\n\nA: white\n\nA: white\n\nA\n\nA: white\n\nA\n\nA\n\nA: white\n\nA\n\nA:A: whiteA: white\n\nA: white\n\nA: white\n\nA: white\n\nA: white\n\nA: white\n\nA\n\nA\n\nA\n\nA\n\nA: white\n\nA\n\nA: white\n\nA\n\nA: A: white\n\nA: A: white\n\nA: white\n\nA\n\nA\n\nA\n\nA\n\nA\n\nA: A\n\nA: white\n\nA\n\nA: A: A\n\nA: white\n\nA\n\nA\n\nA\n\nA: A\n\nA: white\n\nA: white\n\nA: white\n\nA: A\n\nA: A: white\n\nA: white\n\nA: white\n\nA: white\n\nA: white\n\nA\n\nA: white\n\nA: A: A: A: white\n\nA: white\n\nA: white\n\nA: white\n\nA: white\n\nA\n\nA: white\n\nA: white\n\nA\n\nA: white\n\nA\n\nA\n\nA\n\nA: white\n\nA: white\n\nA\n\nA: white\n\nA: white\n\nA\n\nA: white\n\nA: A: white\n\nA\n\nA\n\nA: white\n\nA: A\n\nA: A\n\nA\n\nA\n\nA: white\n\nA: A: A\n\nA\n\nA: A: A\n\nA: A: A\n\nA: A\n\nA: A: A: A: A: A: A: A: A: A: white\n\nA: A\n\nA: A: A: A: white\n\nA: A: A: A: A: A\n\nA\n\nA\n\nA\n\nA\n\nA\n\nA: A: A: A\n\nA: A: white\n\nA:A: white A\n\nA\n\nA\n\nA\n\nA\n\nA: white\n\nA: A\n\nA: A: A: A: A\n\nA: A\n\nA: A\n\nA: A\n\nA: white\n\nA\n\nA: A: A\n\nA\n\nA: A\n\nA\n\nA\n\nA\n\nA\n\nA\n\nA\n\nA\n\nA: A: A: A: A\n\nA: A\n\nA: A\n\nA\n\nA\n\nA\n\nA\n\nA\n\nA: A: A: A: A: A: A: A: A\n\nA: A\n\nA\n\nA\n\nA\n\nA\n\nA: A\n\nA: white\n\nA: A: A\n\nA: A: A\n\nA: A\n\nA\n\nA\n\nA: A\n\nA: A: A\n\nA: A\n\nA: A\n\nA\n\nA\n\nA: A: A: A\n\nA: A: A: A: A\n\nA\n\nA\n\nA\n\nA\n\nA\n\nA: A\n\nA: A: A: A: A: A: A: A: A\n\nA\n\nA\n\nA\n\nA\n\nA: A\n\nA: A: A: A: white\n\nA: white\n\nQ: What is the color of the object on the white?\n\nA: white\n\nQ: What is the color of the object on the white?\n\nA: white\n\nQ: What is the color of the object on the white?\n\nA: 1\n\n: A?\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n?\n\n?\n\n\n\n?\n\n\n\n\n\n\n\n\n\na\n\n\n\n\n\n\n\n\n\n\n\n\n\nA\n\n\n\nl\n\nA\n\nA\n\n\n\n\n\n\n\nA\n\n\n\n\n\n\n\n?\n\n?\n\n?\n\n?\n\n\n\n\n\n?\n\n\n\n\n\n\n\n?\n\n\n\nA?\n\n\n\n\n\nA\n\n\n\n\n\nl\n\n\n\na\n\n\n\nl\n\n(what\n\nA\n\n\n\na\n\n?\n\n\n\n?\n\n?\n\n\n\n\n\n?\n\n\n\n?\n\nA\n\na\n\na\n\n\n\n\n\n?\n\n\n\n\n\n\n\nl\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nA\n\n\n\n\n\na\n\n\n\n\n\na\n\n\n\nl\n\n\n\na\n\n\n\n\n\n?\n\n\n\n\n\n?\n\n\n\n?\n\n\n\n?\n\n\n\n?\n\n\n\n\n\nl\n\n\n\nA\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n: A?\n\n?\n\n of the\n\n\n\n\n\n on the white\n\nl\n\n\n\n\n\nA\n\n\n\nl\n\n\n\nA\n\nl\n\nA\n\n\n\nl\n\n\n\n: 1\n\n?\n\n?\n\n\n\n\n\n\n\n\n\n\n\n\n\non?\n\n\n\n\n\n?\n\n?\n\n\n\n?\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n?\n\n\n\n\n\n of the\n\n\n\n: white?\n\n\n\nA\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nl\n\n?\n\n?\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nA\n\nl\n\n\n\n\n\nl\n\nl\n\nA\n\nQ\n\nl\n\n\n\n\n\n?\n\n?\n\n\n\n?\n\n\n\n\n\n\n\nl?\n\n\n\nis\n\n\n\nl\n\n\n\n\n\nA\n\n\n\n\n\nl\n\n\n\n\n\nA\n\n\n\n\n\n\n\n\n\n\n\nA\n\n\n\n\n\na\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n?a\n\n\n\nA\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nA\n\n\n\n\n\n\n\n\n\n\n\nA\n\n\n\nl\n\nl\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n?\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nA\n\n\n\n\n\n\n\n\n\nl\n\nl\n\n\n\n\n\n\n\n?\n\n?\n\n?\n\n of the of\n\n\n\n on the white?\n\nA: white\n\nQ: What is the color of the object on the white?\n\nA: white\n\nQ: What is the color of the object on the white?\n\nA: white\n\nQ: What is the color of the?\n\n\n\n?\n\n\n\n?\n\n\n\n\n\n\n\n?\n\n\n\n\n\non?\n\n\n\n\n\n\n\nA\n\n\n\nA\n\n?\n\n\n\n\n\n\n\n\n\n\n\n?\n\n\n\n?\n\n\n\n?\n\n?\n\n?\n\n\n\n?\n\n\n\n?\n\n\n\n?\n\n?\n\n\n\n?\n\n\n\non?\n\n\n\na\n\na\n\nA?\n\n\n\n\n\n\n\n?\n\n\n\na?\n\n?\n\n?\n\n\n\n?\n\n\n\na?\n\n\n\n?\n\n\n\non?\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\na\n\n\n\na\n\n?\n\n\n\n\n\nA\n\n\n\n\n\n\n\n\n\n\n\nA\n\n\n\n\n\n\n\nA\n\na\n\n\n\n\n\n\n\n\n\nA?\n\n?\n\n?\n\n?\n\n?\n\n?\n\n?\n\n\n\n?\n\n\n\n\n\nA?\n\n\n\nA\n\nA\n\nA\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\na\n\n?\n\n?\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nA\n\nl\n\nA\n\n\n\n\n\na\n\na\n\n\n\n\n\n\n\nA?\n\n\n\n\n\n\n\n\n\n\n\n\n\n?\n\n?\n\na?\n\n\n\na\n\na?\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\na?\n\n\n\n\n\non\n\n\n\n\n\na\n\n\n\n?\n\n\n\n?\n\na\n\na\n\nl\n\na\n\na\n\n\n\n\n\nl\n\n\n\n\n\nA?\n\n\n\na?\n\n\n\n?\n\n\n\n?\n\n\n\n-what\n\n\n\n\n\na?\n\n\n\non\n\n\n\n\n\nA\n\nA\n\n\n\n\n\n\n\na\n\n\n\n\n\n?\n\n?\n\n?\n\n?\n\n?\n\n\n\na?\n\n\n\n\n\na?\n\n\n\na?\n\n?\n\n\n\nA\n\n\n\na\n\nA\n\n\n\nl\n\n\n\na\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\na?\n\n\n\n\n\na\n\na\n\na\n\na\n\n?\n\n\n\na\n\na?\n\n\n\na?\n\n?\n\n?\n\n\n\na?\n\n?\n\n?\n\n\n\non?\n\n(what\n\n\n\non?\n\n\n\n\n\n\n\na\n\n\n\n\n\n\n\n on the on?\n\n?\n\n?\n\n\n\n?\n\n\n\n\n\n\n\n\n\n\n\nA\n\n\n\n\n\nA\n\n\n\n\n\nA\n\nA\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n?\n\n\n\n\n\n?\n\n\n\n\n\n\n\n\n\n\n\n\n\n on the\n\non\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n?\n\n\n\n?\n\n\n\n\n\n\n\na?\n\n?\n\n of the?\n\n?\n\n\n\na?\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n?\n\n?\n\n?\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nA\n\n\n\na\n\n\n\n\n\n\n\nA\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\na\n\n\n\n\n\nA\n\nA\n\n\n\n\n\nA\n\nA\n\n\n\nA\n\n\n\n\n\n\n\n\n\n\n\na\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nA\n\n\n\n\n\n\n\n\n\n\n\nA\n\n\n\n\n\n\n\n\n\n\n\n\n\nA\n\n\n\nA\n\nA\n\n\n\n\n\nA\n\n\n\n\n\n\n\n\n\n\n\nA?\n\na?\n\n?\n\n?\n\n?\n\n\n\n\n\n\n\n?\n\n\n\nA\n\n\n\n\n\nA\n\nA\n\nA\n\nA\n\n\n\n\n\n\n\nA\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nA\n\nA\n\nA\n\nA\n\nA\n\n\n\nA\n\nA\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\na\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nA?\n\n\n\n\n\n\n\n\n\nA\n\nA\n\n\n\n\n\n\n\n\n\n\n\nA\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n?\n\n?\n\n\n\n?\n\n\n\n\n\n\n\n\n\n?\n\n\n\nA\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nA\n\n\n\n\n\na\n\nA\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n?\n\n\n\n\n\n?\n\n\n\n\n\n\n\n?\n\n\n\n?\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n?\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\na\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\na\n\na\n\nl\n\nA\n\nA\n\nA\n\n\n\na\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\na\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\na\n\non\n\n\n\nA\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nA\n\n\n\na\n\nA\n\nA\n\n\n\n\n\nA\n\n\n\nA\n\n\n\n\n\n?\n\n\n\n?\n\n\n\n\n\n?\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n(what\n\nA\n\n\n\n\n\n\n\n\n\n?\n\n\n\n?\n\n\n\n\n\n\n\n\n\n\n\n?\n\n\n\non\n\n\n\nA\n\n\n\n\n\n\n\n\n\nA\n\nA\n\nA\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n?\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nA\n\n\n\n\n\nA\n\nA\n\nA\n\n\n\n\n\nA\n\nA\n\n\n\n\n\n\n\n?\n\n\n\na\n\n\n\n\n\n\n\n\n\n\n\nA\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\na\n\nA\n\nA?\n\n\n\n\n\nA\n\nA?\n\n\n\n?\n\n?\n\n?\n\n?\n\n\n\n?\n\n\n\n?\n\n\n\n?\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nA\n\nA\n\nA\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\non\n\n\n\n\n\n\n\nA\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\na\n\n\n\n\n\na\n\n\n\n\n\nA\n\nA\n\nA\n\n\n\n\n\n\n\n\n\n\n\nA\n\n\n\n\n\n\n\n\n\n\n\nA\n\n\n\n\n\na\n\na\n\n\n\na\n\nA?\n\n\n\nA\n\n\n\n\n\na?\n\n?\n\n?\n\n?\n\n?\n\n\n\na?\n\n?\n\n\n\n on?\n\n\n\n\n\n\n\n\n\n\n\nA\n\n\n\n\n\n\n\n\n\n\n\n\n\nA\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\non\n\nA\n\na\n\n\n\n\n\na\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nA: What is the color of the object?\n\nA: The object is white.\n\nA: What is the color of the object?\n\nA: The object is white.\n\nA: What is the color of the object?\n\nA: The object is: white\n\n\n\n\n\n\n\n\n\n\n\n\n\n: white\n\n: white on the\n\n: white\n\n: white: on the\n\n?\n\n?\n\n: white?\n\n: white?\n\n:\n\n:on: white\n\n: on the on the\n\n: on the\n\n\n\non\n\n: white\n\n: white\n\n: white:on\n\n: white: 2\n\n\n\n\n\n: white\n\n: white: white\n\n-: white: on the\n\n\n\n\n\n:: white:: white::: on the\n\n: white:: on the\n\n: white\n\n: on the\n\n:\n\n: :\n\n: : 1: white.: on the\n\n:(---?: white\n\n\n\n: \n\n:\n\n:: :::::: white: white: 1\n\n\n\n\n\n\n\n: \"on\n\n\n\n\n\n: white\n\n: white::: 1: white: white?\n\n\n\n: white: 1\n\n::::: white\n\n: white: on the:\n\n::\n\n:: white\n\n: white\n\n-on: white: white\n\n-on: white?\n\n: : a: white: on the on the object: a\n\n: on the\n\non the on the object on the\n\n\n\n\n\n: on the on the:\n\n-on\n\n:on\n\n:on\n\n-on on the\n\n\n\n\n\n\n\n\n\n:on\n\n: on the.\n\n:on\n\n: white\n\n:-on\n\n:on:on:on:on:on\n\n::: on the\n\n: on the:on\n\n:on\n\n:on: on the:on\n\n:on\n\n:on\n\n:: on the\n\n: on the:on\n\n:on:on on the:\n\n\n\n\n\n\n\n\n\n\n\n: on the\n\n\n\n:::: on the: on the: on the::::: on the on the\n\n: on the\n\n\n\n\n\n\n\n\n\n:on\n\n\n\n:: on the:on\n\n:on\n\n:on\n\n:on\n\n:on\n\n:on\n\n\n\n\n\n\n\n:on: on the:::on\n\n:on\n\n: on the on the object on the on the:on:on\n\n: on the:on?\n\n:?\n\n::on on the:on:on: on the on the\n\n::on\n\n\n\n\n\n\n\n::on\n\n:::::\n\n: white?\n\n:\n\n:on:on\n\n::\n\n:\n\n:on\n\n:(: on the?\n\n: on the:on:on:on\n\n:on\n\n: on the on the object?\n\n::?\n\n?\n\n:on\n\n:\n\n:on\n\n:\n\n::on\n\n:on\n\n:on\n\n:on\n\n:::on\n\n:on:on::::: white: white::on\n\non\n\n\n\n:on: on the object\n\n--on\n\n:::on\n\n:on: - on:::on: on the on the on the on the:on\n\n:on\n\n on the:::on\n\n: on the:on\n\n\n\n\n\n:on\n\n\n\n\n\n\n\n\n\n\n\n\n\non\n\n\n\n\n\n(on\n\n\n\n\n\n\n\n: on the on the\n\n\n\n\n\non\n\n:on\n\n:on\n\n:on\n\n-imp: on the?\n\n::::::on\n\n\n\n: on the\n\non\n\n\n\n:on\n\na: on the\n\n:(on\n\non\n\n: on the?\n\n\n\n: on the object?\n\n: on the object on the?\n\n:?\n\n?\n\n?\n\n?\n\n\n\n: on the on the:",
+    "estimated_sceneType": null,
+    "sceneType": "Bedroom / Hotel"
+  },
+  {
+    "episode_history": "scannet-v0/155-scannet-scene0164_02",
+    "output": "Based on the blue and white\n\nA: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: Kitchen",
+    "estimated_sceneType": "Kitchen",
+    "sceneType": "Kitchen"
+  },
+  {
+    "episode_history": "scannet-v0/156-scannet-scene0461_00",
+    "output": "Based on the room\n\nA: Is this room is very spacious\n\nA: I can sit\n\nA: Yes\n\nA: the room\n\nA: yes\n\nA: Yes\n\nA: Yes\n\nA: yes\n\nA: yes\n\nA: Yes\n\nA: yes\n\nA: yes\n\nA: Yes\n\nA: yes\n\nA: Yes\n\nA: yes\n\nA: Yes\n\nA: Yes\n\nA: Yes\n\nA: Yes\n\nA: Yes\n\nA: Yes\n\nA: Yes\n\nA: Yes\n\nA: Yes\n\nA: Yes\n\nA: Yes\n\nA: Yes\n\nA: Yes\n\nA: Yes\n\nA: Yes\n\nA: Yes\n\nA: Yes\n\nA: Yes\n\nA: Yes\n\nA: Yes\n\nA: Yes\n\nA: Yes\n\nA: Yes\n\nA: Yes\n\nA: Yes\n\nA: Yes\n\nA: Yes\n\nA: Yes\n\nA: Yes\n\nA: Yes\n\nA: Yes\n\nA: Yes\n\nA: Yes\n\nA: Yes\n\nA: Yes\n\nA: Yes\n\nA: Yes\n\nA: Yes\n\nA: Yes\n\nA: Yes\n\nA: Yes\n\nA: Yes\n\nA: Yes\n\nA: Yes\n\nA: Yes\n\nA: Yes\n\nA: Yes\n\nA: Yes\n\nA: Yes\n\nA: Yes\n\nA: Yes\n\nA: Yes\n\nA: Yes\n\nA: Yes\n\nA: Yes\n\nA: Yes\n\nA: Yes\n\nA: Yes\n\nA: Yes\n\nA: Yes\n\nA: Yes\n\nA: Yes\n\nA: Yes\n\nA: Yes\n\nA: Yes\n\nA: Yes\n\nA: Yes\n\nA: Yes\n\nA: Yes\n\nA: Yes\n\nA: Yes\n\nA: Yes\n\nA: Yes\n\nA: Yes\n\nA: Yes\n\nA: Yes\n\nA: Yes\n\nA: Yes\n\nA: Yes\n\nA: Yes\n\nA: Yes\n\nA: Yes\n\nA: Yes\n\nA: Yes\n\nA: Yes\n\nA: Yes\n\nA: Yes\n\nA: Yes\n\nA: Yes\n\nA: Yes\n\nA: Yes\n\nA: Yes\n\nA: Yes\n\nA: Yes\n\nA: Yes\n\nA: Yes\n\nA: Yes\n\nA: Yes\n\nA: Yes\n\nA: Yes\n\nA: Yes\n\nA: Yes\n\nA: Yes\n\nA: Yes\n\nA: Yes\n\nA: Yes\n\nA: Yes\n\nA: Yes\n\nA: Yes\n\nA: Yes\n\nA: Yes\n\nA: Yes\n\nA: Yes\n\nA: Yes\n\nA: Yes\n\nA: Yes\n\nA: Yes\n\nA: Yes\n\nA: Yes\n\nA: Yes\n\nA: Yes\n\nA: Yes\n\nA: Yes\n\nA: Yes\n\nA: Yes\n\nA: Yes\n\nA: Yes\n\nA: Yes\n\nA: Yes\n\nA: Yes\n\nA: Yes\n\nA: Yes\n\nA: Yes\n\nA: Yes\n\nA: Yes\n\nA: Yes\n\nA: Yes\n\nA: Yes\n\nA: Yes\n\nA: Yes\n\nA: Yes\n\nA: Yes\n\nA: Yes\n\nA: Yes\n\nA: Yes\n\nA: Yes\n\nA: Yes\n\nA: Yes\n\nA: Yes\n\nA: Yes\n\nA: Yes\n\nA: Yes\n\nA: Yes\n\nA: Yes\n\nA: Yes\n\nA: Yes\n\nA: Yes\n\nA: Yes\n\nA: Yes\n\nA: Yes\n\nA: Yes\n\nA: Yes\n\nA: Yes\n\nA: Yes\n\nA: Yes\n\nA: Yes\n\nA: Yes\n\nA: Yes\n\nA: Yes\n\nA: Yes\n\nA: Yes\n\nA: Yes\n\nA: Yes\n\nA: Yes\n\nA: Yes\n\nA: Yes\n\nA: Yes\n\nA: Yes\n\nA: Yes\n\nA: Yes\n\nA: Yes\n\nA: Yes\n\nA: Yes\n\nA: Yes\n\nA: Yes\n\nA: Yes\n\nA: Yes\n\nA: Yes\n\nA: Yes\n\nA: Yes\n\nA: Yes\n\nA: Yes\n\nA: Yes\n\nA: Yes\n\nA: Yes\n\nA: Yes\n\nA: Yes\n\nA: Yes\n\nA: Yes\n\nA: Yes\n\nA: Yes\n\nA: Yes\n\nA: Yes\n\nA: Yes\n\nA: Yes\n\nA: Yes\n\nA: Yes\n\nA: Yes\n\nA: Yes\n\nA: Yes\n\nA: Yes\n\nA: Yes\n\nA: Yes\n\nA: Yes\n\nA: Yes\n\nA: Bookstore / Library\n\n- Bedroom / Hotel: No\n\n- Classroom: No\n\n- Conference Room: No\n\n- Copy / Mail Room: No\n\n- Kitchen: No\n\n- Laundry Room: No\n\n- Living room / Lounge: Yes\n\n- Lobby: NoA\n\nAAAAAAAAAA\n\nAAAAAA: AA: AAAA: AAAAAAAAAA\n\nAAAAAA: A: AA\n\nA: A: AA\n\nAAAAA: A: A: AAAAAAA: AA AAAAA AAAAA\n\nA A: AA AA: A: AA AA:AAAAAAAA\n\nAAAAAAAA A: AAAAAAAAAAAAAAAAAAAAAAA\n\nAAAAAAAAAA: AAAAA\n\nA: A: A (A AA: A\n\nA\n\n- A: AA\n\nAAA: AA: AA AA AAAAAA\n\nAAA: AA\n\nA: AAA\n\n- AAAAAA AAA: AA: AAAAA: AAA\n\n- AA: A: A\n\n- A: A: A: A: A: A: A: A: A: A: A: A: A: AAAAAAAAAA: A: AA\n\nA: A: AA\n\nAA: A\n\nA\n\nA: A\n\nA A: AAA\n\nA: A: A\n\nA\n\nAAAA: A: A: A\n\n- A\n\nA\n\nA\n\n- A: A\n\nA\n\n- A\n\n- A\n\nAA: AA\n\nAA: A\n\nAAAAAA: A: A\n\nA\n\n- A: AAAA: A: A: AA: A: AA\n\nAAA: A: A: A: A: A: A: A: A: A: A: A: A: A\n\nA: A: A\n\n- AAAA\n\n- A: A\n\n- A\n\n- A: A: A: A: A\n\n- A: A: AA: A: A: A: A: A: A\n\n- A: A: A: A: A\n\n- A: A: AA\n\nAAAA AA\n\n- A: A\n\nA: A\n\nA\n\n- A: A\n\nA: A: A: A: A: A: A: A: A: A\n\nA: Living room / Lounge\n\nQ: A: Yes\n\nA: Yes\n\nQ: A: Yes\n\nA: Yes\n\nQ: A: Yes\n\nA: Yes\n\nQ: A: Yes\n\nA: A\n\nA\n\nA\n\nA\n\nA\n\nA\n\nA\n\nA\n\nA\n\nA\n\nA\n\nA\n\nA\n\nA: A\n\nA\n\nA\n\nA\n\nA\n\nA\n\nA\n\nA\n\nA\n\nA\n\nA\n\nA\n\nA\n\nA\n\nA\n\nA\n\nA: A: A\n\nA\n\nA\n\nA\n\nA\n\nA\n\nA\n\nA\n\nA\n\nA: A\n\nA: A\n\nA\n\nA\n\nA\n\nA\n\nA\n\nA\n\nA\n\nA\n\nA\n\nA: A: A\n\nA: A\n\nA: A: A\n\nA\n\nA\n\nA\n\nA\n\nA\n\nA\n\nA: A: A\n\nA: A: A: A\n\nA\n\nA: A\n\nA\n\nA\n\nA: A: A: AA: A: A\n\nA\n\nA: A: A\n\nA\n\nA: A\n\nA\n\nA\n\nA\n\nA: AA\n\nA\n\nA AA A\n\nA\n\nA\n\nA\n\nAAAA\n\nA\n\nA\n\nA\n\nA\n\nA\n\nA\n\nA\n\nA\n\nA\n\nA\n\nA\n\nA\n\nA\n\nA\n\nA\n\nA\n\nA\n\nA\n\nA\n\nA\n\nA\n\nA\n\nA\n\nA\n\nA:A: A\n\nA\n\nA\n\nA\n\nA\n\nA\n\nA\n\nA\n\nA\n\nA\n\nA\n\nA\n\nA\n\nA\n\nA\n\nA\n\nA\n\nA\n\nA\n\nA\n\nA\n\nA\n\nA\n\nA\n\nA\n\nA\n\nA\n\nA\n\nA\n\nA\n\nA: A\n\nA\n\nA\n\nA\n\nA: A: A\n\nA\n\nA: A\n\nA\n\nA: A\n\nA: A\n\nA\n\nA\n\nA\n\nA\n\nA\n\nA: A: A\n\nA: A\n\nA\n\nA\n\nA: A\n\nA\n\nA\n\nA\n\nA\n\nA\n\nA\n\nA\n\nA\n\nA\n\nA\n\nA: A\n\nA\n\nA\n\nA\n\nA\n\nA: A\n\nA\n\nA\n\nA\n\nA\n\nA\n\nA\n\nA\n\nA\n\nA\n\nA\n\nA\n\nA\n\nA\n\nA\n\nA\n\nA\n\nA\n\nA: A\n\nA\n\nA: A: A\n\nA: A\n\nA\n\nA\n\nA\n\nA\n\nA\n\nA\n\nA\n\nA\n\nA\n\nA\n\nA\n\nA\n\nA\n\nA\n\nA\n\nA\n\nA\n\nA\n\nA\n\nA\n\nA\n\nA\n\nA\n\nA\n\nA\n\nA\n\nA\n\nA\n\nA\n\nA\n\nA\n\nA\n\nA\n\nA: Living room / Lounge\n\nQ: A: Yes\n\nA: Yes\n\nQ: A: Yes\n\nA: Yes\n\nQ: A: Yes\n\nA: Yes\n\nQ: A: Yes\n\nA: Yes\n\nQ: A: Yes\n\nA: A\n\nA\n\nA\n\nA\n\nA\n\nAA\n\nA: A\n\nA\n\nA\n\nA:A\n\nA\n\nAAA\n\nA\n\nA\n\nA:A\n\nA\n\nA\n\nA\n\nA\n\nA:A\n\nA\n\nA\n\nA\n\nA:A:A\n\nA\n\nA\n\nA\n\nAA\n\nA\n\nA\n\nA\n\nA\n\nA\n\nA\n\nA\n\nA\n\nA\n\nA\n\nA:A\n\nA\n\nA\n\nA:A\n\nA\n\nA: A\n\nA\n\nA:A\n\nA:A:A\n\nA\n\nA\n\nA\n\nA:A: A\n\nA\n\nA\n\nA:A:A\n\nA\n\nA\n\nA:A:A:A:A:A\n\nA:A: A\n\nA:A\n\nA\n\nA:A\n\nA\n\nA\n\nA\n\nA\n\nA\n\nA\n\nA\n\nA\n\nA\n\nA\n\nA\n\nA:A\n\nA\n\nA\n\nA:A: A\n\nA\n\nA\n\nA\n\nA\n\nA\n\nA\n\nA\n\nA\n\nA\n\nA: A\n\nA\n\nA\n\nA\n\nA:A: A\n\nA\n\nA\n\nA\n\nA\n\nA: A\n\nA: A:A: A\n\nA: A: A: A\n\nA: A\n\nA: A:A:A: A: A\n\nA:A: A: A\n\nA:A: A: A:A:A:A: A: A:A:A: A:A:A: A\n\nA:A: A\n\nA:A:A\n\nA:A:A\n\nA:A:A: A:A:A: A\n\nA:A: A\n\nA\n\nA:A: A\n\nA:A:A\n\nA\n\nA:A: A\n\nA-AL- A\n\nA: A\n\nA\n\nA: A\n\nA: A\n\nA: A:A\n\nA: A\n\nA:A: A\n\nA\n\nA: A\n\nA\n\nA: A\n\nA\n\nA\n\nA\n\nA\n\nA\n\nA\n\nA\n\nA\n\nA\n\nA\n\nA\n\nA\n\nA\n\nA\n\nA\n\nA\n\nA: A\n\nA\n\nA: A\n\nA\n\nA: A\n\nA\n\nA\n\nA\n\nA\n\nA:A\n\nA\n\nA:A\n\nA\n\nA:A\n\nA\n\nA\n\nA\n\nA\n\nA\n\nA\n\nA\n\nA\n\nA\n\nA\n\nA\n\nA\n\nA: A\n\nA\n\nA\n\nA: Living room / Lounge\n\nQ: A: Yes\n\nA: Yes\n\nQ: A: Yes\n\nA: Yes\n\nQ: A: Yes\n\nA: Yes\n\nQ: A: Yes\n\nA: Yes\n\nQ: A: Yes\n\nA: Yes\n\nQ: A: Yes\n\nA: Yes\n\nQ: A: Yes\n\nA: Yes\n\nQ: A: Yes\n\nA: Yes\n\nQ: A: Yes\n\nA: Yes\n\nQ: A: Yes\n\nA: Yes\n\nQ: A: Yes\n\nA: Yes\n\nQ: A: Yes\n\nA: Yes\n\nQ: A: Yes\n\nA: Yes\n\nQ: A: Yes\n\nA: Yes\n\nQ: A: Yes\n\nA: Yes\n\nQ: A: Yes\n\nA: Yes\n\nQ: A: Yes\n\nA: Yes\n\nQ: A: Yes\n\nA: Yes\n\nQ: A: Yes\n\nA: Yes\n\nQ: A: Yes\n\nA: Yes\n\nQ: A: Yes\n\nA: Yes\n\nQ: A: Yes\n\nA: Yes\n\nQ: A: Yes\n\nA: Yes\n\nQ: A: Yes\n\nA: Yes\n\nQ: A: Yes\n\nA: Yes\n\nQ: A: Yes\n\nA: Yes\n\nQ: A: Yes\n\nA: Yes\n\nQ: A: Yes\n\nA: Yes\n\nQ: A: Yes\n\nA: Yes\n\nQ: A: Yes\n\nA: Yes\n\nQ: A: Yes\n\nA: Yes\n\nQ: A: Yes\n\nA: Yes\n\nQ: A: Yes\n\nA: Yes\n\nQ: A: Yes\n\nA: Yes\n\nQ: A: Yes\n\nA: Yes\n\nQ: A: Yes\n\nA: Yes\n\nQ: A: Yes\n\nA: Yes\n\nQ: A: Yes\n\nA: Yes\n\nQ: A: Yes\n\nA: Yes\n\nQ: A: Yes\n\nA: Yes\n\nQ: A: Yes\n\nA: Yes\n\nQ: A: Yes\n\nA: Yes\n\nQ: A: Yes\n\nA: Yes\n\nQ: A: Yes\n\nA: Yes\n\nQ: A: Yes\n\nA: Yes\n\nQ: A: Yes\n\nA: Yes\n\nQ: A: Yes\n\nA: Yes\n\nQ: A: Yes\n\nA: Yes\n\nQ: A: Yes\n\nA: Yes\n\nQ: A: Yes\n\nA: Yes\n\nQ: A: Yes\n\nA: Yes\n\nQ: A: Yes\n\nA: Yes\n\nQ: A: Yes\n\nA: Yes\n\nQ: A: Yes\n\nA: Yes\n\nQ: A: Yes\n\nA: Yes\n\nQ: A: Yes\n\nA: Yes\n\nQ: A: Yes\n\nA: Yes\n\nQ: A: Yes\n\nA: Yes\n\nQ: A: Yes\n\nA: Yes\n\nQ: A: Yes\n\nA: Yes\n\nQ: A: Yes\n\nA: Yes\n\nQ: A: Yes\n\nA: Yes\n\nQ: A: Yes\n\nA: Yes\n\nQ: A: Yes\n\nA: Yes\n\nQ: A: Yes\n\nA: Yes\n\nQ: A: Yes\n\nA: Yes\n\nQ: A: Yes\n\nA: Yes\n\nQ: A: Yes\n\nA: Yes\n\nQ: A: Yes\n\nA: Yes\n\nQ: A: Yes\n\nA: Yes\n\nQ: A: Yes\n\nA: Yes\n\nQ: A: Yes\n\nA: Yes\n\nQ: A: Yes\n\nA: Yes\n\nQ: A: Yes\n\nA: Yes\n\nQ: A: Yes\n\nA: Yes\n\nQ: A: Yes\n\nA: Yes\n\nQ: A: Yes\n\nA: Yes\n\nQ: A: Yes\n\nA: Yes\n\nQ: A: Yes\n\nA: Yes\n\nQ: A: Yes\n\nA: Yes\n\nQ: A: Yes\n\nA: Yes\n\nQ: A: Yes\n\nA: Yes\n\nQ: A: Yes\n\nA: Yes\n\nQ: A: Yes\n\nA: Yes\n\nQ: A: Yes\n\nA: Yes\n\nQ: A: Yes\n\nA: Yes\n\nQ: A: Yes\n\nA: Yes\n\nQ: A: Yes\n\nA: Yes\n\nQ: A: Yes\n\nA: Yes\n\nQ: A: Yes\n\nA: Yes\n\nQ: A: Yes\n\nA: Yes\n\nQ: A: Yes\n\nA: Yes\n\nQ: A: Yes\n\nA: Yes\n\nQ: A: Yes\n\nA: Yes\n\nQ: A: Yes\n\nA: Yes\n\nQ: A: Yes\n\nA: Yes\n\nQ: A: Yes\n\nA: Yes\n\nQ: A: Yes\n\nA: Yes\n\nQ: A: Yes\n\nA: Yes\n\nQ: A: Yes\n\nA: Yes\n\nQ: A: Yes\n\nA: Yes\n\nQ: A: Yes\n\nA: Yes\n\nA\n\n\n\n\n\nA\n\nA\n\n\n\nA\n\nA\n\n\n\nA\n\nA\n\nA\n\nA\n\nA\n\nA\n\n\n\n\n\n\n\nA\n\nA\n\nA\n\n\n\n\n\n\n\nA\n\nA\n\nA\n\nA\n\nA\n\nA\n\nA\n\nA\n\nA\n\n\n\n\n\nA\n\n\n\n\n\nA\n\nA\n\nA\n\nA\n\n\n\nA\n\nA\n\nA\n\nA\n\nA\n\nA\n\n\n\nA\n\nA\n\nA\n\nA\n\nA\n\n\n\nA\n\nA\n\nA\n\nA\n\nA\n\nA\n\n\n\nA\n\nA\n\nA\n\nA\n\nA\n\nA\n\nA\n\nA\n\nA\n\nA\n\nA\n\nA\n\nA\n\nA\n\nA\n\nA\n\nA\n\nA\n\n\n\nA\n\nA\n\nA\n\nA\n\nA\n\n\n\nA\n\nA\n\nA\n\nA\n\nA\n\nA\n\nA\n\nA\n\nA\n\nA\n\nA\n\nA\n\nA\n\n\n\nA\n\nA\n\nA\n\nA\n\nA\n\nA\n\nA\n\nA\n\nA\n\nA\n\nA\n\nA\n\nA\n\nA\n\nA\n\nA\n\n\n\nA\n\n\n\nA\n\n\n\n\n\nA\n\n\n\n\n\n\n\nA\n\nA\n\n\n\nA\n\nA\n\nA\n\nA\n\nA\n\nA\n\nA\n\nA\n\nA\n\n\n\nA\n\nA\n\nA\n\n\n\n",
+    "estimated_sceneType": "Bookstore / Library",
+    "sceneType": "Lobby"
+  },
+  {
+    "episode_history": "scannet-v0/157-scannet-scene0015_00",
+    "output": "Based on the provided questions and answers, the indoor space described seems to be a classroom. The presence of a whiteboard, students, and a Starbucks drink suggests an educational or learning environment. The mention of a backpack, a piece of paper, and a pencil further supports the idea of a classroom setting where students are likely to be studying or working on assignments.",
+    "estimated_sceneType": "Classroom",
+    "sceneType": "Classroom"
+  },
+  {
+    "episode_history": "scannet-v0/158-scannet-scene0356_00",
+    "output": "Based on the provided questions and answers, the indoor space described seems to be a bedroom or hotel room. The presence of a bed, a mirror, and a desk, along with the questions about sleeping and studying, all point towards a private living space typically found in a bedroom or hotel room. The mention of garbage bins and a three-level cabinets also suggests a room with storage, which is common in both bedrooms and hotel rooms. However, the specific mention of a bed frame and the inability to sleep comfortably on the bed without something on it (like a mattress) leans more towards a hotel room, as it is less common for a bedroom to be used without a mattress. Therefore, the most appropriate category for this space is:\n\n- Bedroom / Hotel",
+    "estimated_sceneType": "Bedroom / Hotel",
+    "sceneType": "Bedroom / Hotel"
+  },
+  {
+    "episode_history": "scannet-v0/160-scannet-scene0488_01",
+    "output": "The questions and answers provided are all related to the layout and features of a kitchen. The presence of a stove, sink, dishwasher, and microwave, as well as the mention of appliances and their arrangement, all point to this space being a kitchen. Therefore, the category that best describes this space is:\n\n- Kitchen",
+    "estimated_sceneType": "Kitchen",
+    "sceneType": "Kitchen"
+  },
+  {
+    "episode_history": "scannet-v0/161-scannet-scene0583_00",
+    "output": "The category that best describes the space based on the provided questions and answers is \"Bathroom.\" The questions and answers all refer to items, fixtures, and features typically found in a bathroom setting.",
+    "estimated_sceneType": "Bathroom",
+    "sceneType": "Bathroom"
+  },
+  {
+    "episode_history": "scannet-v0/162-scannet-scene0535_00",
+    "output": "The category that best describes the space based on the provided questions and answers is an **Office**. The presence of desks, chairs, a power strip, a table lamp, and a cork board, as well as the intention for two people to use the space for work, all point towards an office setting.",
+    "estimated_sceneType": "Office",
+    "sceneType": "Office"
+  },
+  {
+    "episode_history": "scannet-v0/163-scannet-scene0164_03",
+    "output": "The provided questions and answers are about a kitchen, as they mention appliances like a sink, coffee machine, toaster, and stove, as well as items like a water carbonator, dish soap, and chapstick. The presence of a hand towel hanging on the stove also suggests a kitchen setting. Therefore, the category that best describes this space is:\n\n- Kitchen",
+    "estimated_sceneType": "Kitchen",
+    "sceneType": "Kitchen"
+  },
+  {
+    "episode_history": "scannet-v0/165-scannet-scene0406_00",
+    "output": "The category that best describes the space based on the provided questions and answers is a Bathroom. The questions and answers all pertain to items and features typically found in a bathroom, such as a toilet, bathtub, shower, and bathroom accessories like towels, bath mats, and shampoo.",
+    "estimated_sceneType": "Bathroom",
+    "sceneType": "Bathroom"
+  },
+  {
+    "episode_history": "scannet-v0/166-scannet-scene0435_03",
+    "output": "The category that best describes the space based on the provided questions and answers is a **Bedroom / Hotel**. This is because the questions and answers mention a bed, luggage, a TV or iPad, a backpack, and a room key, which are all typically found in a bedroom or hotel room. The mention of a bed being made and the question about the maximum number of people that can sleep in the room further support this categorization.",
+    "estimated_sceneType": "Bedroom / Hotel",
+    "sceneType": "Bedroom / Hotel"
+  },
+  {
+    "episode_history": "scannet-v0/167-scannet-scene0307_01",
+    "output": "The category that best describes the space based on the provided questions and answers is a Laundry Room. The presence of a coat hanger, a towel on top of the faucet, a wood coat hanger, a closed dryer, full shelves, a door to exit, and the room's functions of laundry, storage, and showering all point towards a laundry room. The mention of a plant on the window sill and the key to the room being in the lock on the door are additional details that could be found in various rooms, but they do not contradict the laundry room category.",
+    "estimated_sceneType": "Laundry Room",
+    "sceneType": "Storage / Basement / Garage"
+  },
+  {
+    "episode_history": "scannet-v0/168-scannet-scene0655_01",
+    "output": "The category that best describes the space based on the provided questions and answers is an Office. The presence of a table, chairs, a pen, an eraser, a socket, a projector screen, and a TV remote all suggest an office environment. The mention of the room not having a bed and the ability to watch a movie using a projector also support this categorization.",
+    "estimated_sceneType": "Office",
+    "sceneType": "Conference Room"
+  },
+  {
+    "episode_history": "scannet-v0/169-scannet-scene0695_01",
+    "output": "The provided questions and answers do not contain enough specific information about the type of indoor space to confidently categorize it. However, based on the mention of a bed, a laptop, and a monitor, I can make an educated guess that the space is likely a bedroom or a hotel room, as these are common places where one might find a bed, a laptop, and a monitor for watching movies. Since the context of a hotel room is less clear, I would lean towards guessing a \"Bedroom / Hotel\" as the category.",
+    "estimated_sceneType": "Bedroom / Hotel",
+    "sceneType": "Bedroom / Hotel"
+  },
+  {
+    "episode_history": "scannet-v0/170-scannet-scene0378_01",
+    "output": "Based on the provided questions and answers, the indoor space described seems to be an office. The presence of a desk with a monitor, a blackboard, a printer, and the need to recycle papers are all indicative of an office setting. The mention of a picture frame, a pencil holder, and a mug also suggests a workspace where people might keep personal items. The space is likely part of a larger office environment, as indicated by the reference to a recycling bin and the need to dispose of papers.",
+    "estimated_sceneType": "Office",
+    "sceneType": "Office"
+  },
+  {
+    "episode_history": "scannet-v0/171-scannet-scene0222_01",
+    "output": "The provided questions and answers do not contain enough specific information to confidently determine a single category for the indoor space. However, we can make an educated guess based on the details given.\n\nThe presence of a garbage bin, minifridge, a pair of shorts, a towel, a blue container, desks, chairs, a bed, a fan, a desk lamp, a backpack, and a shelf suggests a living space where people might store personal items, work, and sleep. The mention of a roommate and the need to work on homework also suggests a shared living space, possibly an apartment or a bedroom in a hotel.\n\nGiven the mix of items and activities, the most likely categories for this space are:\n\n- Apartment\n- Bedroom / Hotel\n\nWithout more specific information, it's difficult to choose between these two. If we had to guess, an apartment seems slightly more likely because it typically includes a variety of rooms and furniture for different purposes, whereas a bedroom in a hotel would be more limited in scope. However, this is still a tentative guess, and the actual category could be different.",
+    "estimated_sceneType": "Apartment",
+    "sceneType": "Bedroom / Hotel"
+  },
+  {
+    "episode_history": "scannet-v0/172-scannet-scene0496_00",
+    "output": "The questions and answers provided suggest that the space in question is a classroom. This is indicated by references to a projector, a projector screen, chairs, a power strip, a chalkboard, and a blackboard, all of which are common features in a classroom setting. The ability to share a video using the projector and the presence of a chalkboard and blackboard further support this categorization.",
+    "estimated_sceneType": "Classroom",
+    "sceneType": "Conference Room"
+  },
+  {
+    "episode_history": "scannet-v0/173-scannet-scene0278_01",
+    "output": "The category that best describes the indoor space based on the provided questions and answers is \"Office.\" The presence of a black desk, a paper cutter, brown cabinets, a bulletin board, a black counter, a printer, and a broom against a green wall all suggest an office environment. The mention of green boxes containing copy paper and the need to trim the edges of a document with a paper cutter further support this categorization.",
+    "estimated_sceneType": "Office",
+    "sceneType": "Copy / Mail Room"
+  },
+  {
+    "episode_history": "scannet-v0/174-scannet-scene0086_01",
+    "output": "The category that best describes the space based on the provided questions and answers is a \"Bathroom.\" The presence of a sink, toilet, toilet paper holders, a floor drain, and grab bars for stabilization all indicate that the space is designed for personal hygiene and comfort, which are characteristic features of a bathroom. The mention of it being designed for a handicapped person further supports this categorization.",
+    "estimated_sceneType": "Bathroom",
+    "sceneType": "Bathroom"
+  },
+  {
+    "episode_history": "scannet-v0/175-scannet-scene0329_01",
+    "output": "The category that best describes the space based on the provided questions and answers is \"Office.\" The questions and answers consistently reference items and actions that are typically found in an office setting, such as cubby shelves, a black backpack, a garbage bin, a lamp, a whiteboard, and a fire alarm.",
+    "estimated_sceneType": "Office",
+    "sceneType": "Lobby"
+  },
+  {
+    "episode_history": "scannet-v0/176-scannet-scene0643_00",
+    "output": "The provided questions and answers do not give enough specific information about the type of indoor space. The details mentioned, such as a desk with monitors, a hand-drawn painting, a mug with the letter \"S,\" a paper with a checkerboard, a stapler, a calendar with today's date, a keyboard and mouse, a VGA monitor, a lime bottle, and a brown bag in a grey trash can, could potentially be found in various types of indoor spaces.\n\nHowever, the presence of desks, monitors, and office supplies like a stapler and a keyboard suggests that this space could be an office. The mention of a calendar with today's date could also imply that this space is used for work or administrative purposes. Without more context, it's difficult to be certain, but based on the given information, the most likely category for this space is:\n\n- Office\n\nIf the context were different and these items were found in a different setting, another category might be more appropriate.",
+    "estimated_sceneType": "Office",
+    "sceneType": "Office"
+  },
+  {
+    "episode_history": "scannet-v0/177-scannet-scene0608_02",
+    "output": "Based on the provided questions and answers, it is challenging to determine a specific category for the indoor space. The answers suggest a living area with various items such as a guitar, a massage chair, a soccer banner, a piano, a world map, a chess board, a couch, a neck pillow, a microwave, and a clock. The mention of a musician as the owner of the room and a Chelsea International team fan also hints at a personal space.\n\nGiven these clues, the most fitting category for this indoor space would be a **Living room / Lounge**. However, it's important to note that the presence of a piano, chess board, and other items typically found in a living room or lounge room also suggests that it could be a **Bedroom / Hotel** room, especially considering the mention of a neck pillow, which is often associated with bedrooms. Without more specific information, it's difficult to definitively choose one category over the other.",
+    "estimated_sceneType": "Living room / Lounge",
+    "sceneType": "Living room / Lounge"
+  },
+  {
+    "episode_history": "scannet-v0/178-scannet-scene0685_02",
+    "output": "The provided questions and answers do not give enough specific information about the layout or purpose of the space to confidently assign it to one of the listed categories. However, we can make an educated guess based on the clues given.\n\nThe presence of a circuit breaker box, a poster printer, a black desk, a paper trimmer, a garbage bin, and a green bin suggests that the space could be a home office or a small office setup. The mention of a person's home being \"No\" further suggests that this is not a residential space. The tape on the brown desk and the painting to the right of the green garbage can could be indicative of a personal or small office space.\n\nGiven the information, the most likely category for this space would be:\n\n- Office\n\nHowever, it's important to note that without more context, this is an educated guess and the actual category could be different.",
+    "estimated_sceneType": "Office",
+    "sceneType": "Copy / Mail Room"
+  },
+  {
+    "episode_history": "scannet-v0/179-scannet-scene0300_01",
+    "output": "The category that best describes the space based on the provided questions and answers is a **Living room / Lounge**. This is because the space contains a desk, a backpack, a window with shades, bookshelves, a computer with a catalog, and a chair, all of which are typically found in a living room or lounge setting. The presence of a desk and a backpack also suggests a casual, possibly home environment rather than a professional one, which would lean towards a living room or lounge rather than an office. The other categories do not fit as well with the given details.",
+    "estimated_sceneType": "Living room / Lounge",
+    "sceneType": "Bookstore / Library"
+  },
+  {
+    "episode_history": "scannet-v0/180-scannet-scene0100_02",
+    "output": "The category that best describes the indoor space based on the provided questions and answers is a Bathroom. The questions and answers all refer to objects, fixtures, and activities typically found in a bathroom setting.",
+    "estimated_sceneType": "Bathroom",
+    "sceneType": "Bathroom"
+  },
+  {
+    "episode_history": "scannet-v0/181-scannet-scene0314_00",
+    "output": "The category that best describes this space, based on the provided questions and answers, is an **Office**. The presence of a computer, a lamp, and the suggestion to use the table for studying all point towards a workspace typically found in an office setting.",
+    "estimated_sceneType": "Office",
+    "sceneType": "Lobby"
+  },
+  {
+    "episode_history": "scannet-v0/182-scannet-scene0645_00",
+    "output": "Based on the provided questions and answers, the indoor space described seems to be a bedroom. The presence of beds, a nightstand, a lamp, a clock, a TV, and a remote control, along with the mention of a carpet floor, all point towards a bedroom setting. The additional detail about a painting hanging on a wall over the bed further supports the idea that this is a bedroom, potentially in a hotel or similar accommodation where rooms often have paintings. However, since the category \"Bedroom / Hotel\" is not listed, the best guess would be:\n\n- Bedroom / Hotel",
+    "estimated_sceneType": "Bedroom / Hotel",
+    "sceneType": "Bedroom / Hotel"
+  },
+  {
+    "episode_history": "scannet-v0/183-scannet-scene0231_01",
+    "output": "The category that best describes this indoor space, based on the given questions and answers, is an **Office**. The presence of a desk, chair, and the ability to work there, along with the mention of a trash can and a lamp, are indicative of an office environment.",
+    "estimated_sceneType": "Office",
+    "sceneType": "Apartment"
+  },
+  {
+    "episode_history": "scannet-v0/185-scannet-scene0435_00",
+    "output": "The category that best describes the space based on the provided questions and answers is \"Bedroom / Hotel.\" The mention of a desk, chair, coffee machine, and a suitcase, along with the context of a room where one can sit to work, suggests a living space within a hotel room. The questions about the trash can and the suitcase being on the floor further support this setting, as they are common features in hotel rooms. The mention of the room being a hotel room in the last question confirms this category.",
+    "estimated_sceneType": "Bedroom / Hotel",
+    "sceneType": "Bedroom / Hotel"
+  },
+  {
+    "episode_history": "scannet-v0/186-scannet-scene0549_01",
+    "output": "The category that best describes the indoor space based on the provided questions and answers is:\n\n- Living room / Lounge\n\nThe presence of couches, a long blue couch, a table, and a plant, along with the mention of a place to rest and charge a phone, all point towards a living room or lounge setting. The questions and answers do not provide enough specific information to confidently categorize the space as any of the other options listed.",
+    "estimated_sceneType": "Living room / Lounge",
+    "sceneType": "Lobby"
+  },
+  {
+    "episode_history": "scannet-v0/187-scannet-scene0655_02",
+    "output": "Based on the provided questions and answers, the best category that describes the space is a \"Conference Room.\" The presence of a whiteboard, table, chairs, and cables for projection, as well as the context of the questions, all point towards a space designed for meetings and presentations, which is characteristic of a conference room.",
+    "estimated_sceneType": "Conference Room",
+    "sceneType": "Conference Room"
+  },
+  {
+    "episode_history": "scannet-v0/188-scannet-scene0593_00",
+    "output": "Based on the provided questions and answers, the indoor space described seems to be an office. The presence of a printer, trash cans, a fan, a paper cutter, and a Kleenex box, along with the mention of making copies, all point towards an office environment. The questions also suggest that the space is equipped with common office supplies and amenities.",
+    "estimated_sceneType": "Office",
+    "sceneType": "Living room / Lounge"
+  },
+  {
+    "episode_history": "scannet-v0/189-scannet-scene0500_00",
+    "output": "The category that best describes the indoor space based on the provided questions and answers is Classroom. The presence of chairs, a whiteboard with math equations, a clock, and the main purpose of teaching all point towards a classroom setting.",
+    "estimated_sceneType": "Classroom",
+    "sceneType": "Conference Room"
+  }
+]

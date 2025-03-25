@@ -1,0 +1,68 @@
+[
+  {
+    "episode_history": "scannet-v0/100-scannet-scene0598_00",
+    "output": "{\"id\":\"chatcmpl-c543a2a51a3a4eaea1cbaf039caec658\",\"object\":\"chat.completion\",\"created\":1742488626,\"model\":\"u1x6o4zwi182\",\"choices\":[{\"index\":0,\"message\":{\"role\":\"assistant\",\"reasoning_content\":null,\"content\":\"The category is\",\"tool_calls\":[]},\"logprobs\":null,\"finish_reason\":\"stop\",\"stop_reason\":null}],\"usage\":{\"prompt_tokens\":403,\"total_tokens\":407,\"completion_tokens\":4,\"prompt_tokens_details\":null},\"prompt_logprobs\":null}",
+    "estimated_sceneType": null,
+    "sceneType": "Bookstore / Library"
+  },
+  {
+    "episode_history": "scannet-v0/101-scannet-scene0256_00",
+    "output": "{\"id\":\"chatcmpl-86eaac9dbfb24e72946eab0cef86aad2\",\"object\":\"chat.completion\",\"created\":1742488627,\"model\":\"u1x6o4zwi182\",\"choices\":[{\"index\":0,\"message\":{\"role\":\"assistant\",\"reasoning_content\":null,\"content\":\"The category is\",\"tool_calls\":[]},\"logprobs\":null,\"finish_reason\":\"stop\",\"stop_reason\":null}],\"usage\":{\"prompt_tokens\":388,\"total_tokens\":392,\"completion_tokens\":4,\"prompt_tokens_details\":null},\"prompt_logprobs\":null}",
+    "estimated_sceneType": null,
+    "sceneType": "Office"
+  },
+  {
+    "episode_history": "scannet-v0/102-scannet-scene0222_00",
+    "output": "{\"id\":\"chatcmpl-cab966b945294457a8b7a23f6a1c6134\",\"object\":\"chat.completion\",\"created\":1742488627,\"model\":\"u1x6o4zwi182\",\"choices\":[{\"index\":0,\"message\":{\"role\":\"assistant\",\"reasoning_content\":null,\"content\":\"Based\",\"tool_calls\":[]},\"logprobs\":null,\"finish_reason\":\"stop\",\"stop_reason\":null}],\"usage\":{\"prompt_tokens\":369,\"total_tokens\":371,\"completion_tokens\":2,\"prompt_tokens_details\":null},\"prompt_logprobs\":null}",
+    "estimated_sceneType": null,
+    "sceneType": "Bedroom / Hotel"
+  },
+  {
+    "episode_history": "scannet-v0/103-scannet-scene0527_00",
+    "output": "{\"id\":\"chatcmpl-c04e2f9847f2463c9b5b21389f07a600\",\"object\":\"chat.completion\",\"created\":1742488628,\"model\":\"u1x6o4zwi182\",\"choices\":[{\"index\":0,\"message\":{\"role\":\"assistant\",\"reasoning_content\":null,\"content\":\"The category is\",\"tool_calls\":[]},\"logprobs\":null,\"finish_reason\":\"stop\",\"stop_reason\":null}],\"usage\":{\"prompt_tokens\":384,\"total_tokens\":388,\"completion_tokens\":4,\"prompt_tokens_details\":null},\"prompt_logprobs\":null}",
+    "estimated_sceneType": null,
+    "sceneType": "Bathroom"
+  },
+  {
+    "episode_history": "scannet-v0/104-scannet-scene0616_01",
+    "output": "{\"id\":\"chatcmpl-43517ad67a6f44689724394f8e660aa3\",\"object\":\"chat.completion\",\"created\":1742488628,\"model\":\"u1x6o4zwi182\",\"choices\":[{\"index\":0,\"message\":{\"role\":\"assistant\",\"reasoning_content\":null,\"content\":\"The category\",\"tool_calls\":[]},\"logprobs\":null,\"finish_reason\":\"stop\",\"stop_reason\":null}],\"usage\":{\"prompt_tokens\":362,\"total_tokens\":365,\"completion_tokens\":3,\"prompt_tokens_details\":null},\"prompt_logprobs\":null}",
+    "estimated_sceneType": null,
+    "sceneType": "Living room / Lounge"
+  },
+  {
+    "episode_history": "scannet-v0/105-scannet-scene0207_01",
+    "output": "{\"id\":\"chatcmpl-b6bb3bc1974646f88066e4adf00b80d4\",\"object\":\"chat.completion\",\"created\":1742488629,\"model\":\"u1x6o4zwi182\",\"choices\":[{\"index\":0,\"message\":{\"role\":\"assistant\",\"reasoning_content\":null,\"content\":\"The category\",\"tool_calls\":[]},\"logprobs\":null,\"finish_reason\":\"stop\",\"stop_reason\":null}],\"usage\":{\"prompt_tokens\":356,\"total_tokens\":359,\"completion_tokens\":3,\"prompt_tokens_details\":null},\"prompt_logprobs\":null}",
+    "estimated_sceneType": null,
+    "sceneType": "Apartment"
+  },
+  {
+    "episode_history": "scannet-v0/106-scannet-scene0633_00",
+    "output": "{\"id\":\"chatcmpl-289f61dde836403eb1cf166d8aae89e7\",\"object\":\"chat.completion\",\"created\":1742488629,\"model\":\"u1x6o4zwi182\",\"choices\":[{\"index\":0,\"message\":{\"role\":\"assistant\",\"reasoning_content\":null,\"content\":\"The category is\",\"tool_calls\":[]},\"logprobs\":null,\"finish_reason\":\"stop\",\"stop_reason\":null}],\"usage\":{\"prompt_tokens\":364,\"total_tokens\":368,\"completion_tokens\":4,\"prompt_tokens_details\":null},\"prompt_logprobs\":null}",
+    "estimated_sceneType": null,
+    "sceneType": "Bedroom / Hotel"
+  },
+  {
+    "episode_history": "scannet-v0/108-scannet-scene0354_00",
+    "output": "{\"id\":\"chatcmpl-51f31fd7951a4188b522ce1917e91604\",\"object\":\"chat.completion\",\"created\":1742488629,\"model\":\"u1x6o4zwi182\",\"choices\":[{\"index\":0,\"message\":{\"role\":\"assistant\",\"reasoning_content\":null,\"content\":\"The category is\",\"tool_calls\":[]},\"logprobs\":null,\"finish_reason\":\"stop\",\"stop_reason\":null}],\"usage\":{\"prompt_tokens\":376,\"total_tokens\":380,\"completion_tokens\":4,\"prompt_tokens_details\":null},\"prompt_logprobs\":null}",
+    "estimated_sceneType": null,
+    "sceneType": "Conference Room"
+  },
+  {
+    "episode_history": "scannet-v0/109-scannet-scene0648_01",
+    "output": "{\"id\":\"chatcmpl-daa5617ef27549e88027aa1a4c481830\",\"object\":\"chat.completion\",\"created\":1742488630,\"model\":\"u1x6o4zwi182\",\"choices\":[{\"index\":0,\"message\":{\"role\":\"assistant\",\"reasoning_content\":null,\"content\":\"Based on the questions and answers provided, the category that best describes the indoor space is:\\n\\n- Apartment\\n- Bathroom\\n- Bedroom / Hotel\\n- Bookstore / Library\\n- Classroom\\n- Conference Room\\n- Copy / Mail Room\\n- Kitchen\\n- Laundry Room\\n- Living Room / Lounge\\n- Lobby\\n- Office\\n- Storage / Basement / Garage\",\"tool_calls\":[]},\"logprobs\":null,\"finish_reason\":\"stop\",\"stop_reason\":null}],\"usage\":{\"prompt_tokens\":383,\"total_tokens\":457,\"completion_tokens\":74,\"prompt_tokens_details\":null},\"prompt_logprobs\":null}",
+    "estimated_sceneType": "Laundry Room",
+    "sceneType": "Bedroom / Hotel"
+  },
+  {
+    "episode_history": "scannet-v0/110-scannet-scene0050_00",
+    "output": "{\"id\":\"chatcmpl-6265a3a751674a88a4371be5efee548a\",\"object\":\"chat.completion\",\"created\":1742488631,\"model\":\"u1x6o4zwi182\",\"choices\":[{\"index\":0,\"message\":{\"role\":\"assistant\",\"reasoning_content\":null,\"content\":\"The category is\",\"tool_calls\":[]},\"logprobs\":null,\"finish_reason\":\"stop\",\"stop_reason\":null}],\"usage\":{\"prompt_tokens\":472,\"total_tokens\":476,\"completion_tokens\":4,\"prompt_tokens_details\":null},\"prompt_logprobs\":null}",
+    "estimated_sceneType": null,
+    "sceneType": "Living room / Lounge"
+  },
+  {
+    "episode_history": "scannet-v0/111-scannet-scene0550_00",
+    "output": "{\"id\":\"chatcmpl-36f351cff3c842cc8297f7b0254428a8\",\"object\":\"chat.completion\",\"created\":1742488631,\"model\":\"u1x6o4zwi182\",\"choices\":[{\"index\":0,\"message\":{\"role\":\"assistant\",\"reasoning_content\":null,\"content\":\"The category is\",\"tool_calls\":[]},\"logprobs\":null,\"finish_reason\":\"stop\",\"stop_reason\":null}],\"usage\":{\"prompt_tokens\":380,\"total_tokens\":384,\"completion_tokens\":4,\"prompt_tokens_details\":null},\"prompt_logprobs\":null}",
+    "estimated_sceneType": null,
+    "sceneType": "Bathroom"
+  }
+]
