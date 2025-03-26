@@ -32,7 +32,9 @@
       "inside the bag on the brown table",
       "On the left side of the brown table"
     ],
-    "sceneType": "Bookstore / Library"
+    "sceneType": "Bookstore / Library",
+    "estimated_sceneType": "Bookstore / Library",
+    "difficulty": 2
   },
   "scannet-v0/101-scannet-scene0256_00": {
     "questions": [
@@ -65,7 +67,9 @@
       "in the basket on the clothing rack stand",
       "on top of the clothing rack stand"
     ],
-    "sceneType": "Office"
+    "sceneType": "Office",
+    "estimated_sceneType": "Office",
+    "difficulty": 2
   },
   "scannet-v0/102-scannet-scene0222_00": {
     "questions": [
@@ -133,7 +137,9 @@
       "on the hook next to the cabinet",
       "on the hook next to the door"
     ],
-    "sceneType": "Bathroom"
+    "sceneType": "Bathroom",
+    "estimated_sceneType": "Bathroom",
+    "difficulty": 2
   },
   "scannet-v0/104-scannet-scene0616_01": {
     "questions": [
@@ -234,7 +240,9 @@
       "on the table next to sofa",
       "on the top shelf"
     ],
-    "sceneType": "Bedroom / Hotel"
+    "sceneType": "Bedroom / Hotel",
+    "estimated_sceneType": "Living room / Lounge",
+    "difficulty": 3
   },
   "scannet-v0/108-scannet-scene0354_00": {
     "questions": [
@@ -438,7 +446,9 @@
       "The wooden bowl on the desk behind the monitor",
       "at the foot of the bed"
     ],
-    "sceneType": "Apartment"
+    "sceneType": "Apartment",
+    "estimated_sceneType": "Bedroom / Hotel",
+    "difficulty": 3
   },
   "scannet-v0/114-scannet-scene0084_00": {
     "questions": [
@@ -669,7 +679,9 @@
       "next to the door near the orange traffic cones",
       "on the bottom layer of the shelf "
     ],
-    "sceneType": "Kitchen"
+    "sceneType": "Kitchen",
+    "estimated_sceneType": "Kitchen",
+    "difficulty": 2
   },
   "scannet-v0/124-scannet-scene0131_02": {
     "questions": [
@@ -737,7 +749,9 @@
       "on the ground near the three tiered drawer",
       "on the table next to the bed and a stack of plastic containers"
     ],
-    "sceneType": "Bedroom / Hotel"
+    "sceneType": "Bedroom / Hotel",
+    "estimated_sceneType": "Bedroom / Hotel",
+    "difficulty": 2
   },
   "scannet-v0/126-scannet-scene0574_02": {
     "questions": [
@@ -797,7 +811,9 @@
       "on the chair",
       "on the table"
     ],
-    "sceneType": "Conference Room"
+    "sceneType": "Conference Room",
+    "estimated_sceneType": "Conference Room",
+    "difficulty": 2
   },
   "scannet-v0/128-scannet-scene0678_02": {
     "questions": [
@@ -826,7 +842,9 @@
       "Pepsi",
       "on top of a black plastic bag near two microwaves and a plastic drawer"
     ],
-    "sceneType": "Laundry Room"
+    "sceneType": "Laundry Room",
+    "estimated_sceneType": "Laundry Room",
+    "difficulty": 2
   },
   "scannet-v0/129-scannet-scene0575_00": {
     "questions": [
@@ -1051,7 +1069,9 @@
       "on the brown desk",
       "on the white desk"
     ],
-    "sceneType": "Bookstore / Library"
+    "sceneType": "Bookstore / Library",
+    "estimated_sceneType": "Bookstore / Library",
+    "difficulty": 2
   },
   "scannet-v0/138-scannet-scene0500_01": {
     "questions": [
@@ -1119,7 +1139,9 @@
       "near sofa",
       "near the exit door"
     ],
-    "sceneType": "Living room / Lounge"
+    "sceneType": "Living room / Lounge",
+    "estimated_sceneType": "Living room / Lounge",
+    "difficulty": 2
   },
   "scannet-v0/140-scannet-scene0077_00": {
     "questions": [
@@ -1152,7 +1174,9 @@
       "On the floor, next to the entrance door.",
       "On the middle shelf, towards the right."
     ],
-    "sceneType": "Office"
+    "sceneType": "Office",
+    "estimated_sceneType": "Copy / Mail Room",
+    "difficulty": 3
   },
   "scannet-v0/141-scannet-scene0651_01": {
     "questions": [
@@ -1212,7 +1236,9 @@
       "Yes it's on the filing cabinet at the far end of the room.",
       "Yes, there is hand sanitizer on the filing cabinet in the far end of the room."
     ],
-    "sceneType": "Office"
+    "sceneType": "Office",
+    "estimated_sceneType": "Office",
+    "difficulty": 2
   },
   "scannet-v0/144-scannet-scene0700_01": {
     "questions": [
@@ -1239,7 +1265,9 @@
       "on the work desk",
       "on the floor"
     ],
-    "sceneType": "Office"
+    "sceneType": "Office",
+    "estimated_sceneType": "Office",
+    "difficulty": 2
   },
   "scannet-v0/145-scannet-scene0193_00": {
     "questions": [
@@ -1309,7 +1337,9 @@
       "On the chair",
       "on the sectional couch"
     ],
-    "sceneType": "Living room / Lounge"
+    "sceneType": "Living room / Lounge",
+    "estimated_sceneType": "Living room / Lounge",
+    "difficulty": 2
   },
   "scannet-v0/147-scannet-scene0699_00": {
     "questions": [
@@ -1571,7 +1601,9 @@
       "a pan",
       "a grey pot"
     ],
-    "sceneType": "Kitchen"
+    "sceneType": "Kitchen",
+    "estimated_sceneType": "Kitchen",
+    "difficulty": 2
   },
   "scannet-v0/156-scannet-scene0461_00": {
     "questions": [
@@ -1635,7 +1667,9 @@
       "on the table near the front whiteboard",
       "on the white board in the front"
     ],
-    "sceneType": "Classroom"
+    "sceneType": "Classroom",
+    "estimated_sceneType": "Classroom",
+    "difficulty": 2
   },
   "scannet-v0/158-scannet-scene0356_00": {
     "questions": [
@@ -1742,7 +1776,9 @@
       "to the right of the sink",
       "under the hand towel"
     ],
-    "sceneType": "Bathroom"
+    "sceneType": "Bathroom",
+    "estimated_sceneType": "Bathroom",
+    "difficulty": 2
   },
   "scannet-v0/162-scannet-scene0535_00": {
     "questions": [
@@ -1936,7 +1972,9 @@
       "On the table.",
       "Under the whiteboard."
     ],
-    "sceneType": "Conference Room"
+    "sceneType": "Conference Room",
+    "estimated_sceneType": "Conference Room",
+    "difficulty": 2
   },
   "scannet-v0/169-scannet-scene0695_01": {
     "questions": [
@@ -1994,7 +2032,9 @@
       "On the wall to the right of the monitor.",
       "On the desk to the right next to the window."
     ],
-    "sceneType": "Office"
+    "sceneType": "Office",
+    "estimated_sceneType": "Office",
+    "difficulty": 2
   },
   "scannet-v0/171-scannet-scene0222_01": {
     "questions": [
@@ -2312,7 +2352,9 @@
       "From the door",
       "On top of the bathroom vanity"
     ],
-    "sceneType": "Bathroom"
+    "sceneType": "Bathroom",
+    "estimated_sceneType": "Bathroom",
+    "difficulty": 2
   },
   "scannet-v0/181-scannet-scene0314_00": {
     "questions": [
@@ -2366,7 +2408,9 @@
       "Over the bed",
       "Hanging on a wall over the bed"
     ],
-    "sceneType": "Bedroom / Hotel"
+    "sceneType": "Bedroom / Hotel",
+    "estimated_sceneType": "Bedroom / Hotel",
+    "difficulty": 2
   },
   "scannet-v0/183-scannet-scene0231_01": {
     "questions": [
@@ -2428,7 +2472,9 @@
       "On the floor",
       "On the floor, bellow the desk"
     ],
-    "sceneType": "Bedroom / Hotel"
+    "sceneType": "Bedroom / Hotel",
+    "estimated_sceneType": "Bedroom / Hotel",
+    "difficulty": 2
   },
   "scannet-v0/186-scannet-scene0549_01": {
     "questions": [
